@@ -1,0 +1,44 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    color: black;
+}
+
+table td, th {
+    padding: 3px;
+    border: 1px solid black;
+}
+
+table th {
+    background: #aa3939;
+}
+
+.rowA {
+    background: #f87b7b;
+}
+
+.rowB {
+    background: #ffa8a8;
+}
+
+a {
+    text-decoration: none;
+    color: navy;
+}
+
+.behaviour_button {
+    padding: 20px;
+    background-color: navy;
+    color: white;
+    margin-top: 20px;
+    width: 150px;
+    text-align: center;
+}
+
+.behaviour_button > a {
+    color: white;
+}
+
+body {
+    font-family: verdana;
+}

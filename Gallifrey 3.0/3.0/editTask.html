@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Gallifrey 3.0</title>
+    <link rel='stylesheet' href='main3.css' />
+    <script src='script3.js'></script>
+</head>
+
+<body id='editTaskPage' onload='setupEditTaskPage()'>
+    
+    <div id='navbar'><h3>Gallifrey</h3>
+    </div>
+    
+    <div class='headerSection'>
+        <h4 id='topicTitle'>Topic Title</h4>
+        <h4 id='taskGroupTitle'>Task Group Title</h4>
+        <h1>Tasks</h1>
+    </div>
+    <hr>
+    
+    <form name='editTaskForm'>
+        <input type='text' name='taskName' /><br><br>
+        <h4>*Difficulty</h4>
+        <select id="difficulty">
+            <option value="Bronze">Bronze</option>
+            <option value="Silver">Silver</option>
+            <option value="Gold">Gold</option>
+            <option value='Platinum'>Platinum</option>
+            <option value='Kryptonite'>Kryptonite</option>
+        </select><br><br>
+        <textarea name='description' placeholder="Description"></textarea><br><br>
+        <textarea name='hint' placeholder="Hint"></textarea><br><br>
+        <textarea name='solution' placeholder="Solution"></textarea><br><br>
+        
+        <input type='button' onclick='updateTask()' value='Update Task' />
+        <a href='manageTopic.html'>Cancel</a>
+    </form>
+    
+    <hr>
+    <div class='footer'>
+        Gallifrey 1.0.0<br>
+        Developed By <a href='mailto:nick.p@iinet.net.au' >Nick Patrikeos</a>.
+    </div>
+    
+</body>
+</html>

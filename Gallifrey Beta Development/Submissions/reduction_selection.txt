@@ -1,0 +1,6 @@
+from mergesort import *
+
+x = int(input())
+array = [ input() for y in range(int(input())) ]
+
+print(mergsort(array)[x])

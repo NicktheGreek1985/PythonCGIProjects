@@ -1,0 +1,35 @@
+class Matrix(object):
+    def __init__(arr):
+        self.array = arr
+
+    def quad_split(self):
+        pass
+
+    def __mul__(self, y):
+        pass
+
+def add_quadrants(a, b, c, d):
+    pass
+
+def matrix_multiply(a, b, n):
+    if n == 1:
+        return a * b
+    else:
+        m = n // 2
+        a11, a12, a21, a22 = a.quad_split()
+        b11, b12, b21, b22 = b.quad_split()
+        x1 = matrix_multiply(a11, b11, m)
+        x2 = matrix_multiply(a12, b21, m)
+        x3 = matrix_multiply(a11, b12, m)
+        x4 = matrix_multiply(a12, b22, m)
+        x5 = matrix_multiply(a21, b11, m)
+        x6 = matrix_multiply(a22, b21, m)
+        x7 = matrix_multiply(a21, b12, m)
+        x8 = matrix_multiply(a22, b22, m)
+        c11 = x1 + x2
+        c12 = x3 + x4
+        c21 = x5 + x6
+        c22 = x7 + x8
+        c = add_quadrants(c11, c12, c21, c22)
+        return c
+

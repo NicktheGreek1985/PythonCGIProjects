@@ -1,0 +1,3112 @@
+Name,Country,Province,Population,Longitude,Latitude
+Tirane,AL,Albania,192000,19.8,41.3
+Shkoder,AL,Albania,62000,19.2,42.2
+Durres,AL,Albania,60000,19.3,41.3
+Vlore,AL,Albania,56000,19.3,40.3
+Elbasan,AL,Albania,53000,20.1,41.1
+Korce,AL,Albania,52000,20.5,40.4
+Komotini,GR,Anatoliki Makedhonia kai Thraki,,,
+Kavalla,GR,Anatoliki Makedhonia kai Thraki,56705,,
+Athens,GR,Attiki,885737,23.7167,37.9667
+Piraeus,GR,Attiki,196389,,
+Patrai,GR,Dhytiki Ellas,142163,,
+Kozani,GR,Dhytiki Makedhonia,,,
+Korfu,GR,Ionioi Nisoi,,,
+Ioannina,GR,Ipiros,,,
+Thessaloniki,GR,Kedriki Makedhonia,406413,22.95,40.6167
+Iraklion,GR,Kriti,102398,,
+Ermoupoli,GR,Notion Aiyaion,,,
+Tripoli,GR,Peloponnisos,,,
+Lamia,GR,Sterea Ellas,,,
+Larisa,GR,Thessalia,102426,,
+Volos,GR,Thessalia,71378,,
+Mytilini,GR,Voreion Aiyaion,,,
+Skopje,MK,Macedonia,506926,21.4,42
+Belgrade,SRB,Serbia,1407073,20.4667,44.8
+Podgorica,MNE,Montenegro,169132,19.16,42.26
+Pristina,KOS,Kosovo,,21.1,42.4
+Andorra la Vella,AND,Andorra,15600,1.3,42.3
+Strasbourg,F,Alsace,252338,7.76667,48.5833
+Mulhouse,F,Alsace,108357,,
+Bordeaux,F,Aquitaine,210336,-0.4,44.51
+Clermont Ferrand,F,Auvergne,136181,3.4,45.5
+Caen,F,Basse Normandie,112846,-0.2,49.3
+Rennes,F,Bretagne,197536,-1.4,48.1
+Brest,F,Bretagne,147956,,
+Dijon,F,Bourgogne,146703,5.2,47.2
+Orleans,F,Centre,105111,1.5,47.5
+Tours,F,Centre,129509,,
+Reims,F,Champagne Ardenne,180620,4.5,49.1
+Chalons en Champagne,F,Champagne Ardenne,,4.4,49
+Ajaccio,F,Corse,53500,8.4,41.4
+Besancon,F,Franche Comte,113828,6.2,47.1
+Rouen,F,Haute Normandie,102723,1.5,49.3
+Le Havre,F,Haute Normandie,195854,,
+Paris,F,Ile de France,2152423,2.48333,48.8167
+Boulogne Billancourt,F,Ile de France,101743,,
+Montpellier,F,Languedoc Roussillon,207996,3.5,43.3
+Nimes,F,Languedoc Roussillon,128471,,
+Perpignan,F,Languedoc Roussillon,105983,,
+Limoges,F,Limousin,133464,1.2,45.5
+Metz,F,Lorraine,119594,6.2,49.1
+Nancy,F,Lorraine,99351,6.1,48.4
+Toulouse,F,Midi Pyrenees,358688,1.2,43.4
+Lille,F,Nord Pas de Calais,172142,3.3,50.37
+Nantes,F,Pays de la Loire,244995,-1.56667,47.25
+Angers,F,Pays de la Loire,141404,,
+Le Mans,F,Pays de la Loire,145502,,
+Amiens,F,Picardie,131872,2.19,49.55
+Poitiers,F,Poitou Charentes,79300,0.2,46.4
+Marseille,F,Provence Cote dAzur,800550,5.2,43.2
+Nice,F,Provence Cote dAzur,342439,7.26667,43.7
+Toulon,F,Provence Cote dAzur,167619,,
+Aix en Provence,F,Provence Cote dAzur,123842,,
+Lyon,F,Rhone Alpes,415487,4.78333,45.7
+Grenoble,F,Rhone Alpes,150758,,
+Saint Etienne,F,Rhone Alpes,199396,,
+Villeurbanne,F,Rhone Alpes,116872,,
+Sevilla,E,Andalusia,714148,,
+Almeria,E,Andalusia,167361,,
+Cadiz,E,Andalusia,155438,-6.2,36.3
+Cordoba,E,Andalusia,315948,,
+Granada,E,Andalusia,271180,,
+Huelva,E,Andalusia,145049,,
+Malaga,E,Andalusia,531443,,
+Jerez de la Frontera,E,Andalusia,190390,,
+Jaen,E,Andalusia,112772,,
+Algeciras,E,Andalusia,103787,,
+Zaragoza,E,Aragon,606620,,
+Oviedo,E,Asturias,201712,,
+Gijon,E,Asturias,269644,,
+Palma de Mallorca,E,Balearic Islands,322008,,
+Vitoria Gasteiz,E,Basque Country,214148,,
+Bilbao,E,Basque Country,371876,,
+Baracaldo,E,Basque Country,103594,,
+Donostia,E,Basque Country,177929,,
+Santa Cruz de Tenerife,E,Canary Islands,203929,,
+Las Palmas de Gran Canaria,E,Canary Islands,371787,,
+La Laguna,E,Canary Islands,125183,,
+Santander,E,Cantabria,194822,,
+Valladolid,E,Castile and Leon,336917,,
+Burgos,E,Castile and Leon,166251,,
+Leon,E,Castile and Leon,147311,,
+Salamanca,E,Castile and Leon,167382,,
+Toledo,E,Castile La Mancha,,,
+Albacete,E,Castile La Mancha,141179,,
+Barcelona,E,Catalonia,1630867,2.15,41.4
+Lleida,E,Catalonia,114234,,
+Tarragona,E,Catalonia,114630,,
+Hospitalet de Llobregat,E,Catalonia,266242,,
+Badalona,E,Catalonia,219340,,
+Sabadell,E,Catalonia,189006,,
+Terrassa,E,Catalonia,161428,,
+Santa Coloma de Gramanet,E,Catalonia,131764,,
+Mataro,E,Catalonia,102117,,
+Badajoz,E,Estremadura,130153,,
+Merida,E,Estremadura,,,
+La Coruna,E,Galicia,255087,,
+Vigo,E,Galicia,288573,,
+Orense,E,Galicia,108547,,
+Santiago de Compostella,E,Galicia,,,
+Madrid,E,Madrid,3041101,-3.68333,40.4167
+Mostoles,E,Madrid,199141,,
+Leganes,E,Madrid,178162,,
+Alcala de Henares,E,Madrid,166250,,
+Fuenlabrada,E,Madrid,158212,,
+Getafe,E,Madrid,144368,,
+Alcorcon,E,Madrid,142165,,
+Murcia,E,Murcia,341531,,
+Cartagena,E,Murcia,179659,,
+Pamplona,E,Navarre,182465,,
+Logrono,E,Rioja,124823,,
+Valencia,E,Valencia,764293,-0.383333,39.4667
+Alicante,E,Valencia,274964,,
+Elx,E,Valencia,191305,,
+Castellon de la Plana,E,Valencia,139094,,
+Eisenstadt,A,Burgenland,10102,16,48
+Klagenfurt,A,Carinthia,87321,14.21,46.38
+Bregenz,A,Vorarlberg,,9.45,47.3
+Vienna,A,Vienna,1583000,16.3667,48.2
+Linz,A,Upper Austria,203000,14.18,48.18
+Innsbruck,A,Tyrol,118000,11.22,47.17
+Graz,A,Styria,238000,15.26,47.4
+Salzburg,A,Salzburg,144000,13.2,47.49
+St. Polten,A,Lower Austria,51102,15.38,48.13
+Ceske Budejovice,CZ,Jihocesky,174000,,
+Brno,CZ,Jihomoravsky,393000,,
+Zlin,CZ,Jihomoravsky,198000,,
+Liberec,CZ,Severocesky,160000,,
+Usti nad Labem,CZ,Severocesky,,,
+Ostrava,CZ,Severomoravsky,332000,,
+Olomouc,CZ,Severomoravsky,225000,,
+Prague,CZ,Praha,1215000,14.4167,50.0833
+Hradec Kralove,CZ,Vychodocesky,164000,,
+Pardubice,CZ,Vychodocesky,163000,,
+Plzen,CZ,Zapadocesky,175000,,
+Stuttgart,D,Baden Wurttemberg,588482,9.1,48.7
+Mannheim,D,Baden Wurttemberg,316223,8.46667,49.5667
+Karlsruhe,D,Baden Wurttemberg,277011,,
+Freiburg im Breisgau,D,Baden Wurttemberg,198496,,
+Heidelberg,D,Baden Wurttemberg,138964,,
+Heilbronn,D,Baden Wurttemberg,122253,,
+Pforzheim,D,Baden Wurttemberg,117960,,
+Ulm,D,Baden Wurttemberg,115123,,
+Reutlingen,D,Baden Wurttemberg,107782,,
+Munich,D,Bayern,1290079,11.5667,48.15
+Nurnberg,D,Bayern,495845,,
+Augsburg,D,Bayern,262110,,
+Wurzburg,D,Bayern,127946,,
+Regensburg,D,Bayern,125608,,
+Ingolstadt,D,Bayern,110910,,
+Furth,D,Bayern,107799,,
+Erlangen,D,Bayern,101450,,
+Berlin,D,Berlin,3472009,13.3,52.45
+Potsdam,D,Brandenburg,138268,13.1,52.4
+Cottbus,D,Brandenburg,125643,,
+Bremen,D,Bremen,549182,8.5,53.7
+Bremerhaven,D,Bremen,130847,,
+Hamburg,D,Hamburg,1705872,9.96667,53.55
+Wiesbaden,D,Hessen,266081,8.17,50.07
+Frankfurt am Main,D,Hessen,652412,,
+Kassel,D,Hessen,201789,,
+Darmstadt,D,Hessen,139063,,
+Offenbach am Main,D,Hessen,116482,,
+Schwerin,D,Mecklenburg Vorpommern,118291,11.5,53.9
+Rostock,D,Mecklenburg Vorpommern,232634,12.1,54.1
+Hannover,D,Niedersachsen,525763,9.66667,52.4
+Braunschweig,D,Niedersachsen,254130,,
+Osnabruck,D,Niedersachsen,168050,,
+Oldenburg,D,Niedersachsen,149691,,
+Gottingen,D,Niedersachsen,127519,,
+Wolfsburg,D,Niedersachsen,126965,,
+Salzgitter,D,Niedersachsen,117842,,
+Hildesheim,D,Niedersachsen,106095,,
+Dusseldorf,D,Nordrhein Westfalen,572638,6.8,51.2
+Koln,D,Nordrhein Westfalen,963817,,
+Essen,D,Nordrhein Westfalen,617955,,
+Dortmund,D,Nordrhein Westfalen,600918,,
+Duisburg,D,Nordrhein Westfalen,536106,,
+Bochum,D,Nordrhein Westfalen,401129,,
+Wuppertal,D,Nordrhein Westfalen,383776,,
+Bielefeld,D,Nordrhein Westfalen,324067,,
+Gelsenkirchen,D,Nordrhein Westfalen,293542,,
+Bonn,D,Nordrhein Westfalen,293072,7.5,50.4
+Monchengladbach,D,Nordrhein Westfalen,266073,,
+Munster,D,Nordrhein Westfalen,264887,,
+Krefeld,D,Nordrhein Westfalen,249662,,
+Aachen,D,Nordrhein Westfalen,247113,,
+Oberhausen,D,Nordrhein Westfalen,225443,,
+Hagen,D,Nordrhein Westfalen,213747,,
+Hamm,D,Nordrhein Westfalen,184020,,
+Herne,D,Nordrhein Westfalen,180029,,
+Mulheim an der Ruhr,D,Nordrhein Westfalen,176513,,
+Solingen,D,Nordrhein Westfalen,165973,,
+Leverkusen,D,Nordrhein Westfalen,161832,,
+Neuss,D,Nordrhein Westfalen,148870,,
+Paderborn,D,Nordrhein Westfalen,131513,,
+Recklinghausen,D,Nordrhein Westfalen,127139,,
+Remscheid,D,Nordrhein Westfalen,123069,,
+Bottrop,D,Nordrhein Westfalen,119669,,
+Siegen,D,Nordrhein Westfalen,111541,,
+Moers,D,Nordrhein Westfalen,107011,,
+Witten,D,Nordrhein Westfalen,105423,,
+Bergisch Gladbach,D,Nordrhein Westfalen,105122,,
+Mainz,D,Rheinland Pfalz,184627,8.1,50
+Ludwigshafen,D,Rheinland Pfalz,167883,,
+Koblenz,D,Rheinland Pfalz,109550,,
+Kaiserslautern,D,Rheinland Pfalz,101910,,
+Saarbrucken,D,Saarland,183945,6.6,49.1
+Dresden,D,Sachsen,474443,13.7,51.05
+Leipzig,D,Sachsen,481121,,
+Chemnitz,D,Sachsen,274162,,
+Zwickau,D,Sachsen,104921,,
+Magdeburg,D,Sachsen Anhalt,265379,11.6,52.1
+Halle,D,Sachsen Anhalt,290051,,
+Kiel,D,Schleswig Holstein,246586,10.7,54.2
+Lubeck,D,Schleswig Holstein,216854,,
+Erfurt,D,Thuringen,213472,11,51
+Gera,D,Thuringen,126035,,
+Jena,D,Thuringen,102204,,
+Kecskemet,H,Bacs Kiskun,105000,,
+Bekescaba,H,Bekes,,,
+Hodmezovasarhely,H,Csongrad,,,
+Szekesfehervar,H,Fejer,109000,,
+Eger,H,Heves,,,
+Tatabanya,H,Komarom Esztergom,,,
+Salgotarjan,H,Nograd,,,
+Kaposvar,H,Somogy,,,
+Nyiregyhaza,H,Szabolcs Szatmar,115000,,
+Szolnok,H,Szolnok,,,
+Szekszard,H,Tolna,,,
+Szombathely,H,Vas,,,
+Veszprem,H,Veszprem,,,
+Zalaegerszeg,H,Zala,,,
+Budapest,H,Budapest (munic.),2016000,19.0333,47.5167
+Debrecen,H,Debrecen (munic.),216000,,
+Gyor,H,Gyor (munic.),130000,,
+Miskolc,H,Miskolc (munic.),192000,,
+Pecs,H,Pecs (munic.),171000,,
+Szeged,H,Szeged (munic.),178000,,
+Novara,I,Piemonte,103349,,
+Turin,I,Piemonte,991870,7.39,45.5
+Aosta,I,Valle dAosta,,7.22,45.45
+Bergamo,I,Lombardia,117886,,
+Brescia,I,Lombardia,196766,,
+Milan,I,Lombardia,1432184,9.28333,45.45
+Monza,I,Lombardia,123188,,
+Bolzano,I,Trentino Alto Adige,100380,11.5,46
+Trento,I,Trentino Alto Adige,102124,11.5,46
+Padova,I,Veneto,218186,,
+Verona,I,Veneto,258946,,
+Vicenza,I,Veneto,109333,,
+Venice,I,Veneto,317837,12.2,45.27
+Trieste,I,Friuli Venezia Giulia,231047,13.45,45.39
+La Spezia,I,Liguria,103008,,
+Genua,I,Liguria,701032,8.58,44.25
+Bologna,I,Emilia Romagna,411803,11.22,44.3
+Ferrara,I,Emilia Romagna,140600,,
+Forli,I,Emilia Romagna,109755,,
+Modena,I,Emilia Romagna,177501,,
+Parma,I,Emilia Romagna,173991,,
+Piacenza,I,Emilia Romagna,103536,,
+Ravenna,I,Emilia Romagna,136724,,
+Reggio nellEmilia,I,Emilia Romagna,131880,,
+Rimini,I,Emilia Romagna,130896,,
+Livorno,I,Toscana,171265,,
+Pisa,I,Toscana,101500,,
+Firenze,I,Toscana,408403,11.17,43.48
+Prato,I,Toscana,166688,,
+Perugia,I,Umbria,150576,12.2,43.1
+Terni,I,Umbria,109809,,
+Ancona,I,Marche,103268,13.28,43.38
+Rome,I,Lazio,2791354,12.6,41.8
+Latina,I,Lazio,103630,,
+Pescara,I,Abruzzo,128553,,
+LAquila,I,Abruzzo,,13.2,42.24
+Campobasso,I,Molise,,14.5,41.5
+Salerno,I,Campania,151374,,
+Napoli,I,Campania,1206013,14.15,40.5
+Torre del Greco,I,Campania,102647,,
+Bari,I,Puglia,353032,16.5,41.8
+Foggia,I,Puglia,159541,,
+Lecce,I,Puglia,102344,,
+Taranto,I,Puglia,244033,,
+Potenza,I,Basilicata,,15.47,40.4
+Catanzaro,I,Calabria,103802,16.35,38.55
+Cosenza,I,Calabria,104483,,
+Reggio di Calabria,I,Calabria,178496,,
+Palermo,I,Sicilia,734238,13.2,38.1
+Messina,I,Sicilia,274846,,
+Catania,I,Sicilia,364176,,
+Siracusa,I,Sicilia,125444,,
+Cagliari,I,Sardegna,211719,9.5,39.15
+Sassari,I,Sardegna,120011,,
+Vaduz,FL,Liechtenstein,27714,9.3,47.08
+Bratislava,SK,Slovakia,,17.1,48.1
+Ljubljana,SLO,Slovenia,,14.5,46.05
+Aarau,CH,AG,,,
+Herisau,CH,AR,,,
+Appenzell,CH,AI,,,
+Liestal,CH,BL,,,
+Basel,CH,BS,172768,,
+Bern,CH,BE,134393,7.3,46.6
+Biel,CH,BE,53308,,
+Fribourg,CH,FR,,,
+Geneva,CH,GE,167697,6.9,46.12
+Glarus,CH,GL,,,
+Chur,CH,GR,,,
+Delemont,CH,JU,,,
+Luzern,CH,LU,59811,,
+Neuchatel,CH,NE,,,
+Stans,CH,NW,,,
+Sarnen,CH,OW,,,
+Sankt Gallen,CH,SG,74106,,
+Schaffhausen,CH,SH,,,
+Schwyz,CH,SZ,,,
+Solothurn,CH,SO,,,
+Frauenfeld,CH,TG,,,
+Bellinzona,CH,TI,,,
+Altdorf,CH,UR,,,
+Sion,CH,VS,,,
+Lausanne,CH,VD,123149,,
+Zug,CH,ZG,,,
+Zurich,CH,ZH,343106,,
+Winterthur,CH,ZH,86340,,
+Minsk,BY,Belarus,1540000,27.55,53.9
+Riga,LV,Latvia,900000,24.1,57
+Vilnius,LT,Lithuania,566000,25.3,54.4
+Warsaw,PL,Warszwaskie,1655000,21.0333,52.2167
+Biala Podlaska,PL,Bialskopodlaskie,,,
+Bialystok,PL,Bialostockie,268000,,
+Bielsko Biala,PL,Bielskie,180000,,
+Bydgoszcz,PL,Bydgoskie,380000,,
+Chelm,PL,Chelmskie,,,
+Ciechanow,PL,Ciechanowskie,,,
+Czestochowa,PL,Czestochowskie,258000,,
+Elblag,PL,Elblaskie,125000,,
+Gdansk,PL,Gdanskie,465000,,
+Gdynia,PL,Gdanskie,251000,,
+Gorzow Wielkopolski,PL,Gorzowskie,123000,,
+Gorzow Wielkopolskie,PL,Gorzowskie,,,
+Jelenia Gora,PL,Jeleniogorskie,,,
+Kalisz,PL,Kaliskie,106000,,
+Katowice,PL,Katowickie,367000,,
+Jastrzebie Zdroj,PL,Katowickie,103000,,
+Sosnowiec,PL,Katowickie,259000,,
+Dabrowa Gornicza,PL,Katowickie,136000,,
+Bytom,PL,Katowickie,230000,,
+Gliwice,PL,Katowickie,216000,,
+Zabrze,PL,Katowickie,203000,,
+Tychy,PL,Katowickie,190000,,
+Ruda Slaska,PL,Katowickie,170000,,
+Rybnik,PL,Katowickie,143000,,
+Chorzow,PL,Katowickie,133000,,
+Wodzilaw Slaski,PL,Katowickie,111000,,
+Kielce,PL,Kieleckie,213000,,
+Konin,PL,Koninskie,,,
+Koszalin,PL,Koszalinskie,108000,,
+Krakow,PL,Krakowskie,748000,19.95,50.0667
+Krosno,PL,Krosnienskie,,,
+Legnica,PL,Legnickie,104000,,
+Leszno,PL,Leszczynskie,,,
+Lublin,PL,Lubelskie,350000,,
+Lomza,PL,Lomzynskie,,,
+Lodz,PL,Lodzkie,852000,,
+Nowy Sacz,PL,Nowosadeckie,,,
+Olsztyn,PL,Olsztynskie,161000,,
+Opole,PL,Opolskie,128000,,
+Ostroleka,PL,Ostroleckie,,,
+Pila,PL,Pilskie,,,
+Piotrkow Trybunalski,PL,Piotrkowskie,,,
+Plock,PL,Plockie,122000,,
+Poznan,PL,Poznanskie,589000,,
+Przemysl,PL,Przemyskie,,,
+Radom,PL,Radomskie,226000,,
+Rzeszow,PL,Rzeszowskie,151000,,
+Siedlce,PL,Siedleckie,,,
+Sieradz,PL,Sieradzkie,,,
+Skierniewice,PL,Skierniewickie,,,
+Slupsk,PL,Slupskie,,,
+Suwalki,PL,Suwalskie,,,
+Szczecin,PL,Szczecinskie,412000,,
+Tarnobrzeg,PL,Tarnobrzeskie,,,
+Tarnow,PL,Tarnowskie,120000,,
+Torun,PL,Torunskie,201000,,
+Grudziadz,PL,Torunskie,101000,,
+Walbrzych,PL,Walbrzyskie,141000,,
+Wloclawek,PL,Wloclawskie,121000,,
+Wroclaw,PL,Wroclawskie,642000,,
+Zamosc,PL,Zamojskie,,,
+Zielona Gora,PL,Zielonogorskie,113000,,
+Cherkasy,UA,Cherkaska,297000,,
+Chernihiv,UA,Chernihivska,301000,,
+Chernivtsi,UA,Chernivetska,257000,,
+Dnipropetrovsk,UA,Dnipropetrovska,1187000,,
+Kryvyy Rih,UA,Dnipropetrovska,717000,,
+Dniprodzerzhynsk,UA,Dnipropetrovska,284000,,
+Donetsk,UA,Donetska,1117000,,
+Mariupol,UA,Donetska,520000,,
+Makiyivka,UA,Donetska,427000,,
+Horlivka,UA,Donetska,338000,,
+Ivano Frankivsk,UA,Ivano Frankivska,220000,,
+Kharkiv,UA,Kharkivska,1618000,36.2333,50
+Kherson,UA,Khersonska,361000,,
+Khmelnytskyy,UA,Khmelnytska,241000,,
+Kiev,UA,Kyyivska,2616000,30.5,50.45
+Kirovohrad,UA,Kirovohradska,274000,,
+Luhansk,UA,Luhanska,501000,,
+Lviv,UA,Lvivska,798000,,
+Mykolayiv,UA,Mykolayivska,508000,,
+Odesa,UA,Odeska,1106000,30.7333,46.4833
+Poltava,UA,Poltavska,317000,,
+Kremenchuk,UA,Poltavska,238000,,
+Rivne,UA,Rivnenska,233000,,
+Sumy,UA,Sumska,296000,,
+Ternopil,UA,Ternopilska,212000,,
+Vinnytsya,UA,Vinnytska,379000,,
+Lutsk,UA,Volynska,204000,,
+Uzhhorod,UA,Zakarpatska,,,
+Zaporizhzhya,UA,Zaporizka,891000,,
+Zhytomyr,UA,Zhytomyrska,296000,,
+Simferopol,UA,Krym,349000,,
+Sevastopol,UA,Krym,361000,,
+Petrozavodsk,R,Rep. of Karelia,280000,,
+Syktyvkar,R,Rep. of Komi,229000,,
+Ukhta,R,Rep. of Komi,106000,,
+Vorkuta,R,Rep. of Komi,104000,,
+Arkhangelsk,R,Arkhangelskaya oblast,374000,40.5333,64.55
+Severodvinsk,R,Arkhangelskaya oblast,241000,,
+Vologda,R,Vologodskaya oblast,299000,,
+Cherepovets,R,Vologodskaya oblast,320000,,
+Murmansk,R,Murmanskaya oblast,407000,,
+Kaliningrad,R,Kaliningradskaya oblast,419000,20.5,54.7167
+Sankt Peterburg,R,Sankt Peterburg,4838000,,
+Kolpino,R,Leningradskaya oblast,143000,,
+Novgorod,R,Novgorodskaya oblast,233000,,
+Pskov,R,Pskovskaya oblast,207000,,
+Velikiye Luki,R,Pskovskaya oblast,116000,,
+Bryansk,R,Bryanskaya oblast,462000,,
+Vladimir,R,Vladimirskaya oblast,339000,,
+Kovrov,R,Vladimirskaya oblast,162000,,
+Murom,R,Vladimirskaya oblast,126000,,
+Ivanovo,R,Ivanovskaya oblast,474000,,
+Kineshma,R,Ivanovskaya oblast,103000,,
+Kaluga,R,Kaluzhskaya oblast,347000,,
+Obninsk,R,Kaluzhskaya oblast,108000,,
+Kostroma,R,Kostromskaya oblast,285000,,
+Moscow,R,Moskva,8717000,37.6667,55.7667
+Podolsk,R,Moskovskaya oblast,202000,,
+Zelenograd,R,Moskovskaya oblast,191000,,
+Lyubertsy,R,Moskovskaya oblast,166000,,
+Kolomna,R,Moskovskaya oblast,154000,,
+Mytishchi,R,Moskovskaya oblast,152000,,
+Elektrostal,R,Moskovskaya oblast,150000,,
+Serpukhov,R,Moskovskaya oblast,139000,,
+Balashikha,R,Moskovskaya oblast,136000,,
+Khimki,R,Moskovskaya oblast,134000,,
+Odintsovo,R,Moskovskaya oblast,129000,,
+Orekhovo Zuyevo,R,Moskovskaya oblast,126000,,
+Noginsk,R,Moskovskaya oblast,119000,,
+Shchyolkovo,R,Moskovskaya oblast,108000,,
+Zagorsk,R,Moskovskaya oblast,114000,,
+Orel,R,Orjolskaya oblast,348000,,
+Ryazan,R,Ryazanskaya oblast,536000,,
+Smolensk,R,Smolenskaya oblast,355000,,
+Tver,R,Tverskaya oblast,455000,,
+Tula,R,Tulskaya oblast,532000,,
+Novomoskovsk,R,Tulskaya oblast,144000,,
+Yaroslavl,R,Yaroslavskaya oblast,629000,,
+Rybinsk,R,Yaroslavskaya oblast,248000,,
+Yoshkar Ola,R,Rep. of Mariy El,251000,,
+Saransk,R,Rep. of Mordovia,320000,,
+Cheboksary,R,Chuvash Republic,450000,,
+Novocheboksarsk,R,Chuvash Republic,123000,,
+Kirov,R,Kirovskaya oblast,464000,,
+Nizhniy Novgorod,R,Nizhegorodskaya oblast,1383000,44,56.3
+Dzerzhinsk,R,Nizhegorodskaya oblast,285000,,
+Arzamas,R,Nizhegorodskaya oblast,112000,,
+Belgorod,R,Belgorodskaya oblast,322000,,
+Stary Oskol,R,Belgorodskaya oblast,198000,,
+Voronezh,R,Voronezhskaya oblast,908000,,
+Kursk,R,Kurskaya oblast,442000,,
+Lipetsk,R,Lipetskaya oblast,474000,,
+Yelets,R,Lipetskaya oblast,119000,,
+Tambov,R,Tambovskaya oblast,316000,,
+Michurinsk,R,Tambovskaya oblast,108000,,
+Elista,R,Rep. of Kalmykiya,,,
+Kazan,R,Rep. of Tatarstan,1085000,,
+Naberezhnye Chelny,R,Rep. of Tatarstan,526000,,
+Nizhnekamsk,R,Rep. of Tatarstan,210000,,
+Almetyevsk,R,Rep. of Tatarstan,138000,,
+Zelenodolysk,R,Rep. of Tatarstan,101000,,
+Astrakhan,R,Astrakhanskaya oblast,486000,,
+Volgograd,R,Volgogradskaya oblast,1003000,44.5167,48.7
+Volzhsky,R,Volgogradskaya oblast,288000,,
+Kamyshin,R,Volgogradskaya oblast,128000,,
+Penza,R,Penzenskaya oblast,534000,,
+Kuznetsk,R,Penzenskaya oblast,100000,,
+Samara,R,Samarskaya oblast,1184000,,
+Tolyatti,R,Samarskaya oblast,702000,,
+Syzran,R,Samarskaya oblast,177000,,
+Novokuybyshevsk,R,Samarskaya oblast,115000,,
+Saratov,R,Saratovskaya oblast,895000,,
+Balakovo,R,Saratovskaya oblast,206000,,
+Engels,R,Saratovskaya oblast,186000,,
+Simbirsk,R,Ulyanovskaya oblast,678000,,
+Dimitrovgrad,R,Ulyanovskaya oblast,135000,,
+Rostov na Donu,R,Rostovskaya oblast,1026000,,
+Taganrog,R,Rostovskaya oblast,292000,,
+Shakhty,R,Rostovskaya oblast,230000,,
+Novocherkassk,R,Rostovskaya oblast,190000,,
+Volgodonsk,R,Rostovskaya oblast,183000,,
+Novoshakhtinsk,R,Rostovskaya oblast,107000,,
+Rostov no Donu,R,Rostovskaya oblast,,,
+Ufa,R,Rep. of Bashkortostan,1094000,,
+Sterlitamak,R,Rep. of Bashkortostan,259000,,
+Salavat,R,Rep. of Bashkortostan,156000,,
+Oktyabrsky,R,Rep. of Bashkortostan,110000,,
+Izhevsk,R,Udmurt Republic,654000,,
+Sarapul,R,Udmurt Republic,109000,,
+Glazov,R,Udmurt Republic,107000,,
+Votkinsk,R,Udmurt Republic,104000,,
+Orenburg,R,Orenburgskaya oblast,532000,,
+Orsk,R,Orenburgskaya oblast,275000,,
+Novotroitsk,R,Orenburgskaya oblast,110000,,
+Perm,R,Permskaya oblast,1032000,,
+Berezniki,R,Permskaya oblast,184000,,
+Solikamsk,R,Permskaya oblast,108000,,
+Maykop,R,Rep. of Adygeya,165000,,
+Makhachkala,R,Rep. of Dagestan,339000,,
+Nazran,R,Rep. of Ingushetiya,,,
+Nalchik,R,Kabardino Balkar Rep.,239000,,
+Cherkessk,R,Karachayevo Cherkessk Rep.,119000,,
+Vladikavkaz,R,Rep. of North Ossetiya,312000,,
+Grozny,R,Chechen Rep.,364000,,
+Krasnodar,R,Krasnodarsky kray,646000,,
+Sochi,R,Krasnodarsky kray,355000,,
+Novorossiysk,R,Krasnodarsky kray,202000,,
+Armavir,R,Krasnodarsky kray,164000,,
+Stavropol,R,Stavropolsky kray,342000,,
+Pyatigorsk,R,Stavropolsky kray,133000,,
+Nevinnomyssk,R,Stavropolsky kray,131000,,
+Kislovodsk,R,Stavropolsky kray,120000,,
+Neftekamsk,R,Stavropolsky kray,117000,,
+Kurgan,R,Kurganskaya oblast,363000,,
+Yekaterinburg,R,Sverdlovskaya oblast,1280000,,
+Nizhniy Tagil,R,Sverdlovskaya oblast,409000,,
+Kamensk Uralskiy,R,Sverdlovskaya oblast,197000,,
+Pervouralsk,R,Sverdlovskaya oblast,137000,,
+Serov,R,Sverdlovskaya oblast,100000,,
+Chelyabinsk,R,Chelyabinskaya oblast,1086000,,
+Magnitogorsk,R,Chelyabinskaya oblast,427000,,
+Zlatoust,R,Chelyabinskaya oblast,203000,,
+Miass,R,Chelyabinskaya oblast,167000,,
+Gorno Altaysk,R,Rep. of Altay,,,
+Barnaul,R,Altayskiy kray,596000,,
+Biysk,R,Altayskiy kray,228000,,
+Rubtsovsk,R,Altayskiy kray,170000,,
+Kemerovo,R,Kemerovskaya oblast,503000,,
+Novokuznetsk,R,Kemerovskaya oblast,572000,,
+Prokopyevsk,R,Kemerovskaya oblast,253000,,
+Leninsk Kuznetskiy,R,Kemerovskaya oblast,121000,,
+Kiselyovsk,R,Kemerovskaya oblast,116000,,
+Mezhdurechensk,R,Kemerovskaya oblast,105000,,
+Anzhero Sudzhensk,R,Kemerovskaya oblast,101000,,
+Novosibirsk,R,Novosibirskaya oblast,1369000,,
+Omsk,R,Omskaya oblast,1163000,,
+Tomsk,R,Tomskaya oblast,470000,,
+Seversk,R,Tomskaya oblast,110000,,
+Tyumen,R,Tyumenskaya oblast,494000,,
+Surgut,R,Tyumenskaya oblast,263000,,
+Nizhnevartovsk,R,Tyumenskaya oblast,238000,,
+Ulan Ude,R,Rep. of Buryatiya,366000,,
+Kyzyl,R,Rep. of Tyva,,,
+Abakan,R,Rep. of Khakassiya,161000,,
+Krasnoyarsk,R,Krasnoyarskiy kray,869000,92.95,56.0167
+Norilsk,R,Krasnoyarskiy kray,159000,,
+Achinsk,R,Krasnoyarskiy kray,123000,,
+Kansk,R,Krasnoyarskiy kray,109000,,
+Irkutsk,R,Irkutskaya oblast,585000,,
+Angarsk,R,Irkutskaya oblast,267000,,
+Bratsk,R,Irkutskaya oblast,257000,,
+Ust Ilimsk,R,Irkutskaya oblast,110000,,
+Usolye Sibirskoye,R,Irkutskaya oblast,106000,,
+Chita,R,Chitinskaya oblast,322000,,
+Yakutsk,R,Rep. of Sakha,192000,,
+Birobidzhan,R,Yevreyskaya avt. oblast,,,
+Anadyr,R,Chukotsky ao,,,
+Vladivostok,R,Primorsky kray,632000,131.917,43.1167
+Nakhodka,R,Primorsky kray,163000,,
+Ussuriysk,R,Primorsky kray,162000,,
+Khabarovsk,R,Khabarovskiy kray,618000,,
+Komsomolsk na Amure,R,Khabarovskiy kray,309000,,
+Blagoveshchensk,R,Amurskaya oblast,214000,,
+Petropavlovsk Kamchatsky,R,Kamchatskaya oblast,210000,,
+Magadan,R,Magadanskaya oblast,128000,,
+Okhotsk,R,Magadanskaya oblast,4900,,
+Yuzhno Sakhalinsk,R,Sakhalinskaya oblast,160000,,
+Antwerp,B,Antwerp,459072,4.23,51.1
+Brussels,B,Brabant,951580,4.35,50.85
+Ghent,B,East Flanders,227483,3.75,51.054
+Charleroi,B,Hainaut,206491,,
+Mons,B,Hainaut,90720,4.5,50.4
+Liege,B,Liege,192393,5.6,50.5
+Hasselt,B,Limburg,65348,5.2,50.9
+Arlon,B,Luxembourg,23150,5.8,49.7
+Namur,B,Namur,105014,4.9,50.4
+Brugge,B,West Flanders,117799,3.2,51.1
+Luxembourg,L,Luxembourg,76600,6.08,49.4
+Groningen,NL,Groningen,210708,,
+Leeuwarden,NL,Friesland,,,
+Assen,NL,Drenthe,,,
+Enschede,NL,Overijssel,254480,,
+Zwolle,NL,Overijssel,,,
+Lelystad,NL,Flevoland,,,
+Arnhem,NL,Gelderland,314159,,
+Nijmegen,NL,Gelderland,249490,,
+Utrecht,NL,Utrecht,547070,,
+Amsterdam,NL,Noord Holland,1101407,4.91667,52.3833
+Haarlem,NL,Noord Holland,212631,,
+Zaanstreek,NL,Noord Holland,147917,,
+Velsen,NL,Noord Holland,134973,,
+Hilversum,NL,Noord Holland,102023,,
+s Gravenhage,NL,Zuid Holland,694249,,
+Rotterdam,NL,Zuid Holland,1078747,,
+Dordrecht,NL,Zuid Holland,213963,,
+Leiden,NL,Zuid Holland,194935,,
+Middelburg,NL,Zeeland,,,
+s Hertogenbosch,NL,Noord Brabant,199127,,
+Eindhoven,NL,Noord Brabant,395612,,
+Tilburg,NL,Noord Brabant,237958,,
+Breda,NL,Noord Brabant,166616,,
+Maastricht,NL,Limburg,164701,,
+Heerlen,NL,Limburg,270952,,
+Geleen,NL,Limburg,186011,,
+Sarajevo,BIH,Bosnia and Herzegovina,,18.4,43.9
+Zagreb,HR,Croatia,,16,45.8
+Sofia,BG,Bulgaria,1300000,23.3333,42.7
+Alba Iulia,RO,Alba,,,
+Arad,RO,Arad,191000,,
+Pitesti,RO,Arges,162000,,
+Bacau,RO,Bacau,193000,,
+Oradea,RO,Bihor,225000,,
+Bistrita,RO,Bistrita Nasaud,,,
+Botosani,RO,Botosani,,,
+Braila,RO,Braila,243000,,
+Brasov,RO,Brasov,353000,,
+Bucharest,RO,Bucuresti,2037000,26.1,44.4167
+Buzau,RO,Buzau,145000,,
+Calarasi,RO,Calarasi,,,
+Resita,RO,Caras Severin,,,
+Cluj Napoca,RO,Cluj,318000,,
+Constanta,RO,Constanta,316000,,
+Sfintu Gheorghe,RO,Covasna,,,
+Tirgoviste,RO,Dimbovita,,,
+Craiova,RO,Dolj,300000,,
+Galati,RO,Galati,307000,,
+Giurgiu,RO,Giurgiu,,,
+Tirgu Jiu,RO,Gorj,,,
+Miercurea Ciuc,RO,Harghita,,,
+Deva,RO,Hunedoara,,,
+Slobozia,RO,Ialomita,,,
+Iasi,RO,Iasi,330000,,
+Baia Mare,RO,Maramures,150000,,
+Drobeta Turnu Severin,RO,Mehedinti,,,
+Tirgu Mures,RO,Mures,165000,,
+Piatra Neamt,RO,Neamt,,,
+Slatina,RO,Olt,,,
+Ploiesti,RO,Prahova,,,
+Zalau,RO,Salaj,,,
+Satu Mare,RO,Satu Mare,137000,,
+Sibiu,RO,Sibiu,184000,,
+Suceava,RO,Suceava,,,
+Alexandria,RO,Teleorman,,,
+Timisoara,RO,Timis,333000,,
+Tulcea,RO,Tulcea,,,
+Vaslui,RO,Vaslui,,,
+Rimnicu Vilcea,RO,Vilcea,,,
+Focsani,RO,Vrancea,,,
+Adana,TR,Adana,1047300,35.3,36.9833
+Osmaniye,TR,Adana,138000,,
+Adiyaman,TR,Adiyaman,128000,,
+Afyon,TR,Afyon,,,
+Agri,TR,Agri,,,
+Aksaray,TR,Aksaray,,,
+Amasya,TR,Amasya,,,
+Ankara,TR,Ankara,2782200,32.8833,39.95
+Antalya,TR,Antalya,497200,,
+Artvin,TR,Artvin,,,
+Aydin,TR,Aydin,121200,,
+Balikesir,TR,Balikesir,187600,,
+Batman,TR,Batman,182800,,
+Bayburt,TR,Bayburt,,,
+Bilecik,TR,Bilecik,,,
+Bingol,TR,Bingol,,,
+Bitlis,TR,Bitlis,,,
+Bolu,TR,Bolu,,,
+Burdur,TR,Burdur,,,
+Bursa,TR,Bursa,996600,,
+Canakkale,TR,Canakkale,,,
+Cankiri,TR,Cankiri,,,
+Corum,TR,Corum,,,
+Denizli,TR,Denizli,234500,,
+Diyarbakir,TR,Diyarbakir,448300,,
+Edirne,TR,Edirne,115500,,
+Elazig,TR,Elazig,222800,,
+Erzincan,TR,Erzincan,,,
+Erzurum,TR,Erzurum,250100,41.3,49.9
+Eskisehir,TR,Eskisehir,451000,,
+Gaziantep,TR,Gaziantep,716000,,
+Giresun,TR,Giresun,,,
+Gumushane,TR,Gumushane,,,
+Hakkari,TR,Hakkari,,,
+Iskenderun,TR,Hatay,156800,,
+Antakya,TR,Hatay,137200,,
+Mersin,TR,Icel,523000,,
+Tarsus,TR,Icel,225000,,
+Isparta,TR,Isparta,120900,,
+Istanbul,TR,Istanbul,7615500,28.8333,40.9667
+Izmir,TR,Izmir,1985300,27.1667,38.4333
+Karaman,TR,Karaman,,,
+Karaman Maras,TR,Karamanmaras,242200,,
+Kars,TR,Kars,,,
+Kastamonu,TR,Kastamonu,,,
+Kayseri,TR,Kayseri,454000,,
+Kirikkale,TR,Kirikkale,170300,,
+Kirklareli,TR,Kirklareli,,,
+Kirsehir,TR,Kirsehir,,,
+Izmit,TR,Kocaeli,275800,,
+Kocaeli,TR,Kocaeli,256882,,
+Gebze,TR,Kocaeli,237300,,
+Adapazari,TR,Kocaeli,186000,,
+Konya,TR,Konya,576000,,
+Kutahya,TR,Kutahya,140700,,
+Malatya,TR,Malatya,319700,,
+Manisa,TR,Manisa,187500,,
+Mardin,TR,Mardin,,,
+Mugla,TR,Mugla,,,
+Mus,TR,Mus,,,
+Nevsehir,TR,Nevsehir,,,
+Nigde,TR,Nigde,,,
+Ordu,TR,Ordu,121300,,
+Rize,TR,Rize,,,
+Sakarya,TR,Sakarya,,,
+Samsun,TR,Samsun,326900,,
+Urfa,TR,Sanliurfa,357900,,
+Siirt,TR,Siirt,,,
+Sinop,TR,Sinop,,,
+Sirnak,TR,Sirnak,,,
+Sivas,TR,Sivas,240100,,
+Tekirdag,TR,Tekirdag,,,
+Tokat,TR,Tokat,,,
+Trabzon,TR,Trabzon,145400,,
+Tunceli,TR,Tunceli,,,
+Usak,TR,Usak,119900,,
+Van,TR,Van,194600,,
+Yozgat,TR,Yozgat,,,
+Zonguldak,TR,Zonguldak,115900,,
+Karabuk,TR,Zonguldak,113900,,
+Copenhagen,DK,Denmark,1358540,12.55,55.6833
+Aarhus,DK,Denmark,194345,10.1,56.1
+Odense,DK,Denmark,136803,10.2,55.3
+Aalborg,DK,Denmark,113865,10,57
+Esbjerg,DK,Denmark,70975,8.3,55.3
+Randers,DK,Denmark,55780,10,56.3
+Tallinn,EW,Estonia,478000,25,59.3
+Torshavn,FARX,Faroe Islands,,-7,62
+Mariehamn,SF,Aland,9500,19.5,60.1
+Tampere,SF,Haeme,170097,23.5,61.3
+Lahti,SF,Haeme,94234,25.2,60.5
+Haemeenlinna,SF,Haeme,42000,24.3,61
+Kuopio,SF,Kuopio,78571,27.4,62.5
+Lappeenrenta,SF,Kymi,53922,26.5,60.5
+Kotka,SF,Kymi,58345,26.5,60.3
+Rovaniemi,SF,Lappia,31000,24.4,66.3
+Mikkeli,SF,Mikkeli,28000,27.2,61.4
+Jyvaeskylae,SF,Suomi,65511,25.2,62.1
+Joensuu,SF,Pohjols-Karjala,44000,29.5,62.4
+Oulu,SF,Oulu,97898,25.2,65.3
+Pori,SF,Turku-Pori,77763,21.2,61.3
+Turku,SF,Turku-Pori,161292,22.1,60.3
+Helsinki,SF,Uusimaa,487428,24.95,60.1667
+Espoo,SF,Uusimaa,160480,24.3,60.2
+Vaasa,SF,Vaasa,54275,21.3,63
+Oslo,N,Oslo,449337,10.7333,59.9333
+Moss,N,Oestfold,24517,10.4,59.3
+Hamar,N,Hedmark,15685,11.5,60.5
+Lillehammer,N,Oppland,22118,10.3,61.1
+Drammen,N,Buskerud,50855,10.1,59.4
+Toensberg,N,Vestfold,8984,10.2,59.2
+Skien,N,Telemark,47010,9.4,59.1
+Arendal,N,Aust Agder,12174,8.4,58.3
+Kristiansand,N,Vest Agder,62640,8,58.1
+Stavanger,N,Rogaland,95089,5.5,59
+Bergen,N,Hordaland,207916,5.2,60.2
+Hermannsverk,N,Sogn og Fjordane,706,6.5,61.1
+Molde,N,Moere og Romsdal,21448,7.1,62.5
+Trondheim,N,Soer Trondelag,134426,10.2,63.3
+Steinkjer,N,Nord Trondelag,20480,11.3,64
+Svolvaer,N,Nordland,4500,14.3,68.2
+Narvik,N,Nordland,18754,17.3,68.3
+Bodoe,N,Nordland,34479,14.2,67.2
+Tromsoe,N,Troms,48109,19,69.4
+Hammerfest,N,Finnmark,7089,23.4,70.4
+Vadsoe,N,Finnmark,5961,29.5,70.5
+Vanersborg,S,Alvsborg,35804,12.2,58.2
+Karlskrona,S,Blekinge,59007,15.3,56.1
+Gavle,S,Gavleborg,87431,17,60.4
+Goteborg,S,Goteborg och Bohus,449189,12,57.4
+Visby,S,Gotland,20000,18.2,57.3
+Halmstad,S,Halland,77601,13,56.4
+Ostersund,S,Jamtland,56662,14.3,63.2
+Jonkoping,S,Jonkoping,115429,14,57.4
+Kalmar,S,Kalmar,54554,16.3,56.4
+Falun,S,Dalarna,51900,15.3,60.3
+Kristianstad,S,Kristianstad,69941,14,56
+Vaxjo,S,Kronoberg,66925,15,56.5
+Malmo,S,Malmohus,245699,13,55.3
+Helsingborg,S,Malmohus,114339,,
+Lulea,S,Norrbotten,66526,22.1,65.4
+Jokkmokk,S,Norrbotten,6822,19.5,66.1
+Orebro,S,Orebro,119635,15,59.2
+Linkoping,S,Ostergotland,131370,15.3,58.3
+Norrkoping,S,Ostergotland,123795,,
+Mariestad,S,Skaraborg,24255,13.5,58.4
+Nykoping,S,Sodermanland,64199,17,58.5
+Stockholm,S,Stockholm,711119,18.0667,59.35
+Uppsala,S,Uppsala,183472,17.4,59.5
+Karlstad,S,Varmland,74669,13.5,59.4
+Umea,S,Vasterbotten,85698,20.1,63.5
+Harnosand,S,Vasternorrland,27287,18,62.4
+Vasteras,S,Vastmanland,123728,16.3,59.4
+Monaco,MC,Monaco,1234,7.2,43.7
+Gibraltar,GBZ,Gibraltar,,-5.2,36.15
+Saint Peter Port,GBG,Guernsey,,-2.6,49.6
+Vatican City,V,Holy See,392,12.3,41.5
+Reykjavik,IS,Iceland,84000,-21.9333,64.1333
+Keflavik,IS,Iceland,6600,-22.5,64
+Hafnarfjoerdur,IS,Iceland,12000,-22,64
+Akureyri,IS,Iceland,13000,-18.3,65.4
+Dublin,IRL,Ireland,502337,-6.35,53.3667
+San Marino,RSM,San Marino,4416,12.2,43.5
+Saint Helier,GBJ,Jersey,,-2.1,49.2
+Valletta,M,Malta,9302,14.5,35.9
+Victoria,M,Malta,6414,14.25,36.05
+Douglas,GBM,Man,,-4.6,54.15
+Chisinau,MD,Moldova,663000,28.1,47.2
+Aveiro,P,Aveiro,,,
+Beja,P,Beja,,,
+Braga,P,Braga,63033,,
+Braganca,P,Braganca,,,
+Castelo Branco,P,Castelo Branco,,,
+Coimbra,P,Coimbra,74616,,
+Evora,P,Evora,,,
+Faro,P,Algarve,,,
+Guarda,P,Guarda,,,
+Leiria,P,Leiria,,,
+Lisbon,P,Lisbon,807937,-9.13333,38.7167
+Amadora,P,Lisbon,95518,,
+Barreiro,P,Lisbon,50863,,
+Almada,P,Lisbon,42607,,
+Portalegre,P,Portalegre,,,
+Porto,P,Porto,327368,,
+Vila Nova de Gaia,P,Porto,62468,,
+Santarem,P,Santarem,,,
+Setubal,P,Setubal,77885,,
+Viana do Castelo,P,Viana do Castelo,,,
+Vila Real,P,Vila Real,,,
+Viseu,P,Viseu,,,
+Ponta Delgada,P,Azores,46102,-27.1,38.35
+Funchal,P,Madeira,44111,-15.9,31
+Longyearbyen,SVAX,Svalbard,,15.33,78.13
+Bristol,GB,Avon,399200,,
+Bedford,GB,Bedfordshire,137300,,
+Luton,GB,Bedfordshire,178600,,
+Reading,GB,Berkshire,137700,,
+Wokingham,GB,Berkshire,142900,,
+Newbury,GB,Berkshire,141000,,
+Windsor,GB,Berkshire,136700,,
+Slough,GB,Berkshire,103500,,
+Bracknell,GB,Berkshire,101900,,
+Aylesbury,GB,Buckinghamshire,151600,,
+Milton Keynes,GB,Buckinghamshire,184400,,
+Wycombe,GB,Buckinghamshire,161400,,
+Cambridge,GB,Cambridgeshire,113800,,
+Peterborough,GB,Cambridgeshire,156400,,
+Huntingdon,GB,Cambridgeshire,148800,,
+Chester,GB,Cheshire,120800,,
+Warrington,GB,Cheshire,185000,,
+Macclesfield,GB,Cheshire,151400,,
+Crewe,GB,Cheshire,109500,,
+Middlesbrough,GB,Cleveland,145800,,
+Stockton on Tees,GB,Cleveland,177800,,
+Truro,GB,Cornwall,,,
+Carlisle,GB,Cumbria,102900,,
+Derby,GB,Derbyshire,230500,,
+Sutton in Ashfield,GB,Derbyshire,109800,,
+Chesterfield,GB,Derbyshire,101200,,
+Matlock,GB,Derbyshire,,,
+Plymouth,GB,Devon,255800,,
+Exeter,GB,Devon,105100,,
+Bournemouth,GB,Dorset,159900,,
+Poole,GB,Dorset,137200,,
+Dorchester,GB,Dorset,,,
+Darlington,GB,Durham,100200,,
+Durham,GB,Durham,,,
+Brighton,GB,East Sussex,154400,,
+Lewes,GB,East Sussex,,,
+Chelmsford,GB,Essex,155700,,
+Southend on Sea,GB,Essex,167500,,
+Basildon,GB,Essex,161700,,
+Colchester,GB,Essex,149100,,
+Braintree,GB,Essex,121800,,
+Epping Forest,GB,Essex,118200,,
+Cheltenham,GB,Gloucestershire,106700,,
+Stroud,GB,Gloucestershire,105400,,
+Gloucester,GB,Gloucestershire,104800,,
+London,GB,Greater London,6967500,0,51.4833
+Manchester,GB,Greater Manchester,431100,,
+Wigan,GB,Greater Manchester,310000,,
+Stockport,GB,Greater Manchester,291400,,
+Bolton,GB,Greater Manchester,265200,,
+Salford,GB,Greater Manchester,230700,,
+Tameside,GB,Greater Manchester,221800,,
+Oldham,GB,Greater Manchester,220400,,
+Trafford,GB,Greater Manchester,218100,,
+Rochdale,GB,Greater Manchester,207100,,
+Bury,GB,Greater Manchester,181400,,
+Winchester,GB,Hampshire,100500,,
+Southampton,GB,Hampshire,211700,,
+Portsmouth,GB,Hampshire,189100,,
+Basingstoke,GB,Hampshire,146500,,
+Havant,GB,Hampshire,117500,,
+Eastleigh,GB,Hampshire,109600,,
+Fareham,GB,Hampshire,101000,,
+Worcester,GB,Hereford and Worcester,,,
+Saint Albans,GB,Hertfordshire,127700,,
+Hertford,GB,Hertfordshire,,,
+Kingston upon Hull,GB,Humberside,269100,,
+Beverley,GB,Humberside,115800,,
+Hull,GB,Humberside,,,
+Maidstone,GB,Kent,138500,,
+Rochester upon Medway,GB,Kent,148200,,
+Canterbury,GB,Kent,132400,,
+Swale,GB,Kent,117200,,
+Sevenoaks,GB,Kent,109400,,
+Dover,GB,Kent,106100,,
+Tonbridge,GB,Kent,102100,,
+Tunbridge Wells,GB,Kent,101800,,
+Preston,GB,Lancashire,132200,,
+Blackpool,GB,Lancashire,153600,,
+Blackburn,GB,Lancashire,139500,,
+Lancaster,GB,Lancashire,133600,,
+Leichester,GB,Leicestershire,293400,,
+Lincoln,GB,Lincolnshire,,,
+Liverpool,GB,Merseyside,474000,,
+Wiral,GB,Merseyside,331100,,
+Sefton,GB,Merseyside,292400,,
+Saint Helens,GB,Merseyside,180200,,
+Knowsley,GB,Merseyside,155300,,
+Norwich,GB,Norfolk,128100,,
+Kings Lynn,GB,Norfolk,131600,,
+Northampton,GB,Northamptonshire,187200,,
+Harrogate,GB,North Yorkshire,146500,,
+Scarborough,GB,North Yorkshire,108700,,
+York,GB,North Yorkshire,104000,,
+Northallerton,GB,North Yorkshire,,,
+Nottingham,GB,Nottinghamshire,282400,,
+Newark on Trent,GB,Nottinghamshire,104400,,
+Mansfield,GB,Nottinghamshire,102100,,
+Oxford,GB,Oxfordshire,132000,,
+Shrewsbury,GB,Shropshire,,,
+Taunton,GB,Somerset,,,
+Barnsley,GB,South Yorkshire,226500,,
+Sheffield,GB,South Yorkshire,530100,,
+Doncaster,GB,South Yorkshire,292500,,
+Rotherham,GB,South Yorkshire,256300,,
+Stafford,GB,Staffordshire,121500,,
+Stoke on Trent,GB,Staffordshire,254200,,
+Newcastle under Lyme,GB,Staffordshire,123000,,
+Ipswich,GB,Suffolk,114800,,
+Guildford,GB,Surrey,126200,,
+Reigate,GB,Surrey,118800,,
+Elmbridge,GB,Surrey,117300,,
+Kingston,GB,Surrey,,,
+Sunderland,GB,Tyne and Wear,292200,,
+Newcastle upon Tyne,GB,Tyne and Wear,283600,,
+Gateshead,GB,Tyne and Wear,202400,,
+Warwick,GB,Warwickshire,118600,,
+Nuneaton,GB,Warwickshire,118500,,
+Stratford on Avon,GB,Warwickshire,108600,,
+Birmingham,GB,West Midlands,1008400,-1.93333,52.4833
+Dudley,GB,West Midlands,312200,,
+Coventry,GB,West Midlands,302500,,
+Walsall,GB,West Midlands,263900,,
+Wolverhampton,GB,West Midlands,245100,,
+Solihull,GB,West Midlands,202000,,
+West Bromwich,GB,West Midlands,154500,,
+Sandwell,GB,West Midlands,293700,,
+Chichester,GB,West Sussex,102500,,
+Horsham,GB,West Sussex,112300,,
+Wakefield,GB,West Yorkshire,317300,,
+Leeds,GB,West Yorkshire,724400,,
+Bradford,GB,West Yorkshire,481700,,
+Kirklees,GB,West Yorkshire,386900,,
+Huddersfield,GB,West Yorkshire,148500,,
+Salisbury,GB,Wiltshire,109800,,
+Trowbridge,GB,Wiltshire,,,
+Newtown St. Boswells,GB,Borders,,,
+Stirling,GB,Central,,,
+Dumfries,GB,Dumfries and Galloway,,,
+Glenrothes,GB,Fife,,,
+Aberdeen,GB,Grampian,219100,,
+Inverness,GB,Highland,,,
+Edinburgh,GB,Lothian,447600,-3.18333,55.9167
+Glasgow,GB,Strathclyde,674800,-4.28333,55.8667
+Renfrew,GB,Strathclyde,201700,,
+Dundee,GB,Tayside,167600,,
+Colwyn Bay,GB,Aberconwy and Colwyn,,,
+Llangefni,GB,Anglesey,,,
+Ebbw Vale,GB,Blaenau Gwent,,,
+Bridgend,GB,Bridgend,,,
+Ystrad Fawr,GB,Caerphilly,,,
+Cardiff,GB,Cardiff,300000,-3.16667,51.4667
+Carmarthen,GB,Carmarthenshire,,,
+Aberystwyth,GB,Ceredigion,,,
+Ruthin,GB,Denbighshire,,,
+Mold,GB,Flintshire,,,
+Caernarfon,GB,Gwynedd,,,
+Merthyr Tydfil,GB,Merthyr Tydfil,,,
+Cwmbran,GB,Monmouthshire,,,
+Port Talbot,GB,Neath and Port Talbot,,,
+Newport,GB,Newport,137000,,
+Haverfordwest,GB,Pembrokeshire,,,
+Llandrindod Wells,GB,Powys,,,
+Rhondda,GB,Rhondda Cynon Taff,,,
+Swansea,GB,Swansea,189300,,
+Pontypool,GB,Torfaen,,,
+Rhymney Valley,GB,Vale of Glamorgan,104300,,
+Barry,GB,Vale of Glamorgan,,,
+Wrexham,GB,Wrexham,117100,,
+Belfast,GB,Northern Ireland,297100,-5.91667,54.6
+Kirkwall,GB,Orkneys,6330,-3,59
+Stornoway,GB,Outer Hebrides,8000,-6.4,58.2
+Lerwick,GB,Shetland,6570,-1.15,60.15
+Kabul,AFG,Afghanistan,892000,69.2,34.5833
+Hefei,TJ,Anhui,1000000,117,32
+Huainan,TJ,Anhui,1200000,,
+Suzhou,TJ,Anhui,151862,,
+Bengbu,TJ,Anhui,449245,,
+Wuhu,TJ,Anhui,425740,,
+Huaibei,TJ,Anhui,366549,,
+Maanshan,TJ,Anhui,305421,,
+Anqing,TJ,Anhui,250718,,
+Tongling,TJ,Anhui,228017,,
+Fuyang,TJ,Anhui,179572,,
+Luan,TJ,Anhui,144248,,
+Chuxian,TJ,Anhui,125341,,
+Chaoxian,TJ,Anhui,123676,,
+Xuancheng,TJ,Anhui,112673,,
+Fuzhou,TJ,Fujian,874809,119,26
+Xiamen,TJ,Fujian,368786,,
+Nanping,TJ,Fujian,195064,,
+Quanzhou,TJ,Fujian,185154,,
+Zhangzhou,TJ,Fujian,181424,,
+Sanming,TJ,Fujian,160691,,
+Longyan,TJ,Fujian,134481,,
+Yongan,TJ,Fujian,111762,,
+Lanzhou,TJ,Gansu,1510000,104,36
+Tianshui,TJ,Gansu,244974,,
+Baiyin,TJ,Gansu,204970,,
+Wuwei,TJ,Gansu,133101,,
+Yumen,TJ,Gansu,109234,,
+Guangzhou,TJ,Guangdong,3580000,114,23
+Shantou,TJ,Guangdong,578630,,
+Zhanjiang,TJ,Guangdong,400997,,
+Shenzhen,TJ,Guangdong,350727,,
+Shaoguan,TJ,Guangdong,350043,,
+Chaozhou,TJ,Guangdong,313469,,
+Dongguan,TJ,Guangdong,308669,,
+Foshan,TJ,Guangdong,303160,,
+Zhongshan,TJ,Guangdong,278829,,
+Jiangmen,TJ,Guangdong,230587,,
+Yangjiang,TJ,Guangdong,215196,,
+Zhaoqing,TJ,Guangdong,194784,,
+Maoming,TJ,Guangdong,178683,,
+Zhuhai,TJ,Guangdong,164747,,
+Huizhou,TJ,Guangdong,161023,,
+Meixian,TJ,Guangdong,132156,,
+Heyuan,TJ,Guangdong,120101,,
+Shanwei,TJ,Guangdong,107847,,
+Guiyang,TJ,Guizhou,1530000,106,26
+Liupanshui,TJ,Guizhou,363954,,
+Zunyi,TJ,Guizhou,261862,,
+Anshun,TJ,Guizhou,174142,,
+Duyun,TJ,Guizhou,132971,,
+Kaili,TJ,Guizhou,113958,,
+Haikou,TJ,Hainan,280153,110.3,20.05
+Sanya,TJ,Hainan,102820,,
+Shijiazhuang,TJ,Hebei,1320000,114.5,38
+Tangshan,TJ,Hebei,1500000,,
+Handan,TJ,Hebei,1110000,,
+Zhangjiakou,TJ,Hebei,529136,,
+Baoding,TJ,Hebei,483155,,
+Qinhuangdao,TJ,Hebei,364972,,
+Xingtai,TJ,Hebei,302789,,
+Chengde,TJ,Hebei,246799,,
+Renqiu,TJ,Hebei,114256,,
+Quzhou,TJ,Hebei,112373,,
+Hengshui,TJ,Hebei,104269,,
+Harbin,TJ,Heilongjiang,2830000,126.4,45.4
+Qiqihar,TJ,Heilongjiang,1380000,,
+Yichun,TJ,Heilongjiang,795789,,
+Jixi,TJ,Heilongjiang,683885,,
+Daqing,TJ,Heilongjiang,657297,,
+Mudanjiang,TJ,Heilongjiang,571705,,
+Hegang,TJ,Heilongjiang,522747,,
+Jiamusi,TJ,Heilongjiang,493409,,
+Shuangyashan,TJ,Heilongjiang,386081,,
+Suihua,TJ,Heilongjiang,227881,,
+Shangzhi,TJ,Heilongjiang,215373,,
+Qitaihe,TJ,Heilongjiang,214957,,
+Beian,TJ,Heilongjiang,204899,,
+Acheng,TJ,Heilongjiang,197595,,
+Zhaodong,TJ,Heilongjiang,179976,,
+Fuling,TJ,Heilongjiang,173878,,
+Shuangcheng,TJ,Heilongjiang,142659,,
+Anda,TJ,Heilongjiang,136446,,
+Mishan,TJ,Heilongjiang,132744,,
+Zhengzhou,TJ,Henan,1710000,114,34.5
+Luoyang,TJ,Henan,1190000,,
+Kaifeng,TJ,Henan,507763,,
+Xinxiang,TJ,Henan,473762,,
+Anyang,TJ,Henan,420332,,
+Pingdingshan,TJ,Henan,410775,,
+Jiaozuo,TJ,Henan,409100,,
+Nanyang,TJ,Henan,243303,,
+Hebi,TJ,Henan,212976,,
+Xuchang,TJ,Henan,208815,,
+Xinyang,TJ,Henan,192509,,
+Puyang,TJ,Henan,175988,,
+Shangqiu,TJ,Henan,164880,,
+Zhoukou,TJ,Henan,146288,,
+Luohe,TJ,Henan,126438,,
+Zhumadian,TJ,Henan,123232,,
+Sanmenxia,TJ,Henan,120523,,
+Wuhan,TJ,Hubei,3750000,114.15,30.45
+Huangshi,TJ,Hubei,457601,,
+Xiangfan,TJ,Hubei,410407,,
+Yichang,TJ,Hubei,371601,,
+Shashi,TJ,Hubei,281352,,
+Shiyan,TJ,Hubei,273786,,
+Cangzhou,TJ,Hubei,242708,,
+Honghu,TJ,Hubei,190772,,
+Echeng,TJ,Hubei,190123,,
+Tianmen,TJ,Hubei,186332,,
+Xiaogan,TJ,Hubei,166280,,
+Zaoyang,TJ,Hubei,162198,,
+Xianning,TJ,Hubei,136811,,
+Laohekou,TJ,Hubei,123366,,
+Puqi,TJ,Hubei,117264,,
+Shishou,TJ,Hubei,104571,,
+Guangshui,TJ,Hubei,102770,,
+Changsha,TJ,Hunan,1330000,113.5,28.1
+Hengyang,TJ,Hunan,487148,,
+Xiangtan,TJ,Hunan,441968,,
+Zhuzhou,TJ,Hunan,409924,,
+Yueyang,TJ,Hunan,302800,,
+Changde,TJ,Hunan,301276,,
+Shaoyang,TJ,Hunan,247227,,
+Yiyang,TJ,Hunan,185818,,
+Lengshuijiang,TJ,Hunan,137994,,
+Leiyang,TJ,Hunan,130115,,
+Loudi,TJ,Hunan,128418,,
+Huaihua,TJ,Hunan,126785,,
+Zixing,TJ,Hunan,110048,,
+Liling,TJ,Hunan,108504,,
+Yuanjiang,TJ,Hunan,107004,,
+Nanjing,TJ,Jiangsu,2500000,119,32.5
+Wuxi,TJ,Jiangsu,826833,,
+Xuzhou,TJ,Jiangsu,805695,,
+Suzhou,TJ,Jiangsu,706459,,
+Changzhou,TJ,Jiangsu,531470,,
+Zhenjiang,TJ,Jiangsu,368316,,
+Lianyungang,TJ,Jiangsu,354139,,
+Nantong,TJ,Jiangsu,343341,,
+Yangzhou,TJ,Jiangsu,312892,,
+Yancheng,TJ,Jiangsu,296831,,
+Huaiyin,TJ,Jiangsu,239675,,
+Jiangyin,TJ,Jiangsu,213659,,
+Yixing,TJ,Jiangsu,200824,,
+Dongtai,TJ,Jiangsu,192247,,
+Changshu,TJ,Jiangsu,181805,,
+Danyang,TJ,Jiangsu,169603,,
+Xinghua,TJ,Jiangsu,161910,,
+Taizhou,TJ,Jiangsu,152442,,
+Huaian,TJ,Jiangsu,131149,,
+Liyang,TJ,Jiangsu,109520,,
+Yizheng,TJ,Jiangsu,109268,,
+Suqian,TJ,Jiangsu,105021,,
+Kunshan,TJ,Jiangsu,102052,,
+Nanchang,TJ,Jiangxi,1350000,115.5,28.4
+Fuzhou,TJ,Jiangxi,1290000,,
+Yichun,TJ,Jiangxi,151585,,
+Pingxiang,TJ,Jiangxi,425579,,
+Jiujiang,TJ,Jiangxi,291187,,
+Jingdezhen,TJ,Jiangxi,281183,,
+Ganzhou,TJ,Jiangxi,220129,,
+Xinyu,TJ,Jiangxi,173524,,
+Shangrao,TJ,Jiangxi,132455,,
+Jilin,TJ,Jilin,1270000,,
+Changchun,TJ,Jilin,2110000,125.15,43.5
+Hunjiang,TJ,Jilin,482043,,
+Liaoyuan,TJ,Jilin,354141,,
+Tonghua,TJ,Jilin,324600,,
+Siping,TJ,Jilin,317223,,
+Dunhua,TJ,Jilin,235100,,
+Yanji,TJ,Jilin,230892,,
+Gongzhuling,TJ,Jilin,226569,,
+Baicheng,TJ,Jilin,217987,,
+Meihekou,TJ,Jilin,209038,,
+Fuyu,TJ,Jilin,192981,,
+Jiutai,TJ,Jilin,180130,,
+Huadian,TJ,Jilin,175873,,
+Longjing,TJ,Jilin,139417,,
+Daan,TJ,Jilin,138963,,
+Shenyang,TJ,Liaoning,4540000,123.3,42
+Dalian,TJ,Liaoning,2400000,,
+Anshan,TJ,Liaoning,1390000,,
+Fushun,TJ,Liaoning,1350000,,
+Benxi,TJ,Liaoning,768778,,
+Fuxin,TJ,Liaoning,635473,,
+Jinzhou,TJ,Liaoning,569518,,
+Dandong,TJ,Liaoning,523699,,
+Liaoyang,TJ,Liaoning,492559,,
+Yingkou,TJ,Liaoning,421589,,
+Panshan,TJ,Liaoning,362773,,
+Jinxi,TJ,Liaoning,357052,,
+Tieling,TJ,Liaoning,254842,,
+Wafangdian,TJ,Liaoning,251733,,
+Chaoyang,TJ,Liaoning,222394,,
+Haicheng,TJ,Liaoning,205560,,
+Beipiao,TJ,Liaoning,194301,,
+Fengcheng,TJ,Liaoning,193784,,
+Xingcheng,TJ,Liaoning,102384,,
+Xining,TJ,Qinghai,551776,102,37
+Yushu,TJ,Qinghai,131861,,
+Xian,TJ,Shaanxi,2760000,109,34
+Xianyang,TJ,Shaanxi,352125,,
+Baoji,TJ,Shaanxi,337765,,
+Tongchuan,TJ,Shaanxi,280657,,
+Hanzhong,TJ,Shaanxi,169930,,
+Ankang,TJ,Shaanxi,142170,,
+Weinan,TJ,Shaanxi,140169,,
+Yanan,TJ,Shaanxi,113277,,
+Jinan,TJ,Shandong,2320000,117,36.5
+Zibo,TJ,Shandong,2460000,,
+Qingdao,TJ,Shandong,2060000,,
+Yantai,TJ,Shandong,452127,,
+Weifang,TJ,Shandong,428522,,
+Zaozhuang,TJ,Shandong,380846,,
+Taian,TJ,Shandong,350696,,
+Linyi,TJ,Shandong,324720,,
+Tengxian,TJ,Shandong,315083,,
+Dongying,TJ,Shandong,281728,,
+Xintai,TJ,Shandong,281248,,
+Jining,TJ,Shandong,265248,,
+Laiwu,TJ,Shandong,246833,,
+Liaocheng,TJ,Shandong,207844,,
+Dezhou,TJ,Shandong,195485,,
+Heze,TJ,Shandong,189293,,
+Rizhao,TJ,Shandong,185048,,
+Liancheng,TJ,Shandong,156307,,
+Jiaoxian,TJ,Shandong,153364,,
+Pingdu,TJ,Shandong,150123,,
+Longkou,TJ,Shandong,148362,,
+Laiyang,TJ,Shandong,137080,,
+Wendeng,TJ,Shandong,133910,,
+Weihai,TJ,Shandong,128888,,
+Linqing,TJ,Shandong,123958,,
+Jiaonan,TJ,Shandong,121397,,
+Zhucheng,TJ,Shandong,102134,,
+Taiyuan,TJ,Shanxi,1960000,112.3,38
+Datong,TJ,Shanxi,1110000,,
+Yangquan,TJ,Shanxi,362268,,
+Changzhi,TJ,Shanxi,317144,,
+Yuci,TJ,Shanxi,191356,,
+Linfen,TJ,Shanxi,187309,,
+Jincheng,TJ,Shanxi,136396,,
+Chengdu,TJ,Sichuan,2810000,107.15,33.15
+Chongqing,TJ,Sichuan,2980000,,
+Dukou,TJ,Sichuan,415466,,
+Zigong,TJ,Sichuan,393184,,
+Leshan,TJ,Sichuan,341128,,
+Mianyang,TJ,Sichuan,262947,,
+Luzhou,TJ,Sichuan,262892,,
+Neijiang,TJ,Sichuan,256012,,
+Yibin,TJ,Sichuan,241019,,
+Qianjiang,TJ,Sichuan,205504,,
+Daxian,TJ,Sichuan,188101,,
+Deyang,TJ,Sichuan,182488,,
+Guangyuan,TJ,Sichuan,182241,,
+Nanchong,TJ,Sichuan,180273,,
+Jiangyou,TJ,Sichuan,175753,,
+Wanxian,TJ,Sichuan,156823,,
+Xichang,TJ,Sichuan,134419,,
+Kunming,TJ,Yunnan,1520000,102.4,25.5
+Gejiu,TJ,Yunnan,214294,,
+Qujing,TJ,Yunnan,178669,,
+Hangzhou,TJ,Zhejiang,1340000,125.5,30.2
+Ningbo,TJ,Zhejiang,1090000,,
+Wenzhou,TJ,Zhejiang,401871,,
+Huzhou,TJ,Zhejiang,218071,,
+Jiaxing,TJ,Zhejiang,211526,,
+Shaoxing,TJ,Zhejiang,179818,,
+Xiaoshan,TJ,Zhejiang,162930,,
+Ruian,TJ,Zhejiang,156468,,
+Zhoushan,TJ,Zhejiang,156317,,
+Jinhua,TJ,Zhejiang,144280,,
+Yuyao,TJ,Zhejiang,114056,,
+Cixi,TJ,Zhejiang,107329,,
+Haining,TJ,Zhejiang,100478,,
+Nanning,TJ,Guangxi Zhuangzu,1070000,108.5,22.5
+Liuzhou,TJ,Guangxi Zhuangzu,609320,,
+Guilin,TJ,Guangxi Zhuangzu,364130,,
+Wuzhou,TJ,Guangxi Zhuangzu,210452,,
+Qinzhou,TJ,Guangxi Zhuangzu,114586,,
+Guixian,TJ,Guangxi Zhuangzu,114025,,
+Beihai,TJ,Guangxi Zhuangzu,112673,,
+Hohhot,TJ,Nei Monggol,652534,113,41
+Baotou,TJ,Nei Monggol,1200000,,
+Yakeshi,TJ,Nei Monggol,377869,,
+Chifeng,TJ,Nei Monggol,350077,,
+Jining,TJ,Nei Monggol,163552,,
+Wuhai,TJ,Nei Monggol,264081,,
+Tongliao,TJ,Nei Monggol,255129,,
+Hailar,TJ,Nei Monggol,180650,,
+Ulanhot,TJ,Nei Monggol,159538,,
+Linhe,TJ,Nei Monggol,133183,,
+Manzhouli,TJ,Nei Monggol,120023,,
+Yinchuan,TJ,Ningxia Huizu,356652,106.2,38.3
+Shizuishan,TJ,Ningxia Huizu,257862,,
+Urumqi,TJ,Xinjiang Uygur,1160000,88,44
+Shihezi,TJ,Xinjiang Uygur,299676,,
+Karamay,TJ,Xinjiang Uygur,197602,,
+Yining,TJ,Xinjiang Uygur,177193,,
+Kashi,TJ,Xinjiang Uygur,174570,,
+Aksu,TJ,Xinjiang Uygur,164092,,
+Hami,TJ,Xinjiang Uygur,161315,,
+Korla,TJ,Xinjiang Uygur,159344,,
+Lhasa,TJ,Tibet,106885,91,29.5
+Beijing,TJ,Beijing (munic.),7000000,116.2,39.5
+Shanghai,TJ,Shanghai (munic.),7830000,121.433,31.2
+Tianjin,TJ,Tianjin (munic.),5770000,117.2,39.1
+Orumiyeh,IR,Azarbayian e Gharbt,396392,45,37.3
+Khvoy,IR,Azarbayian e Gharbt,137885,,
+Maragheh,IR,Azarbayian e Gharbt,117388,,
+Tabriz,IR,Azarbayian e Sharqi,1166203,46.2,38.1
+Ardabil,IR,Azarbayian e Sharqi,329869,,
+Bakhtaran,IR,Bakhtaran,665636,47.1,34.2
+Yasuj,IR,Boyer Ahmad e Kohkiluyeh,,,
+Bandar e Bushehr,IR,Bushehr,132824,,
+Bushehr,IR,Bushehr,,,
+Shahr e Kord,IR,Chahar Mahal e Bakhtiari,,,
+Esfahan,IR,Esfahan,1220595,51.4,32.4
+Najafabad,IR,Esfahan,160004,,
+Khomeynishahr,IR,Esfahan,118348,,
+Shiraz,IR,Fars,1042801,52.3,29.4
+Rasht,IR,Gilan,374475,49.4,37.2
+Hamadan,IR,Hamadan,406070,48.3,34.5
+Malayer,IR,Hamadan,130458,,
+Bandar Abbas,IR,Hormozgan,383515,,
+Ilam,IR,Ilam,116428,,
+Kerman,IR,Kerman,349626,,
+Sirjan,IR,Kerman,107887,,
+Mashhad,IR,Khorasan,1964489,59.4,36.2
+Sabzevar,IR,Khorasan,148065,,
+Neyshabur,IR,Khorasan,135681,,
+Bojnurd,IR,Khorasan,112426,,
+Birjand,IR,Khorasan,101177,,
+Ahvaz,IR,Khuzestan,828380,48.4,31.2
+Khorramshahr,IR,Khuzestan,197241,,
+Dezful,IR,Khuzestan,181309,,
+Masjed e Soleyman,IR,Khuzestan,107539,,
+Sanandaj,IR,Kordestan,277314,,
+Khorramabad,IR,Lorestan,277370,,
+Borujerd,IR,Lorestan,201016,,
+Arak,IR,Markazi,378597,,
+Sari,IR,Mazandaran,167602,,
+Gorgan,IR,Mazandaran,162468,,
+Amol,IR,Mazandaran,139923,,
+Babol,IR,Mazandaran,137348,,
+Qaemshahr,IR,Mazandaran,123684,,
+Gonbad e Kavus,IR,Mazandaran,102768,,
+Semnan,IR,Semnan,,,
+Zahedan,IR,Sistan e Baluchestan,419886,,
+Tehran,IR,Tehran,6750043,51.4167,35.6833
+Qom,IR,Tehran,780453,50.5,34.4
+Karaj,IR,Tehran,588287,,
+Mehrshahr,IR,Tehran,413299,,
+Rajaishahr,IR,Tehran,160362,,
+Qazvin,IR,Tehran,298705,,
+Kashan,IR,Tehran,155188,,
+Islamshahr,IR,Tehran,239715,,
+Yazd,IR,Yazd,306268,,
+Zanjan,IR,Zanjan,280691,,
+Islamabad,PK,Pakistan,204364,73,34
+Hyderabad,PK,Pakistan,1107000,,
+Quetta,PK,Pakistan,285719,,
+Peshawar,PK,Pakistan,1676000,,
+Lahore,PK,Pakistan,5085000,74.33,31.58
+Karachi,PK,Pakistan,9863000,66.98,24.8
+Lyallpur,PK,Pakistan,1875000,,
+Gujranwala,PK,Pakistan,1663000,,
+Rawalpindi,PK,Pakistan,1290000,,
+Multan,PK,Pakistan,1257000,,
+Sialkot,PK,Pakistan,302009,,
+Sargodha,PK,Pakistan,291362,,
+Lahore Cantonment,PK,Pakistan,237000,,
+Jhang,PK,Pakistan,195558,,
+Sukkur,PK,Pakistan,190551,,
+Bahawalpur,PK,Pakistan,180263,,
+Kasur,PK,Pakistan,155523,,
+Gujrat,PK,Pakistan,155058,,
+Okara,PK,Pakistan,153483,,
+Sahiwal,PK,Pakistan,150954,,
+Mardan,PK,Pakistan,147977,,
+Sheikhupura,PK,Pakistan,141168,,
+Mirpur Khas,PK,Pakistan,124371,,
+Larkana,PK,Pakistan,123890,,
+Wah Cantonment,PK,Pakistan,122335,,
+Rahim Yar Khan,PK,Pakistan,119036,,
+Jhelum,PK,Pakistan,106462,,
+Chiniot,PK,Pakistan,105559,,
+Nawabshah,PK,Pakistan,102139,,
+Dera Ghazi Khan,PK,Pakistan,102007,,
+Khujand,TAD,Khujand,164500,,
+Kulob,TAD,Kulob,79300,,
+Qurghonteppa,TAD,Khatlon,58400,,
+Khorugh,TAD,Badakhshoni Kuni,,,
+Dushanbe,TAD,Dushanbe (munic.),582400,68.48,38.3
+Ashgabat,TM,Ahal,416400,58.2,37.58
+Nebitdag,TM,Balkan,89100,,
+Tashauz,TM,Dashhowuz,117000,,
+Charjew,TM,Leban,166400,,
+Mary,TM,Mary,94900,,
+Andijon,UZB,Andijon,303000,,
+Bukhoro,UZB,Bukhoro,236000,,
+Farghona,UZB,Farghona,191000,,
+Quqon,UZB,Farghona,184000,,
+Marghilon,UZB,Farghona,129000,,
+Jizzakh,UZB,Jizzakh,116000,,
+Urganch,UZB,Khorazm,135000,,
+Namangan,UZB,Namangan,341000,,
+Nawoiy,UZB,Nawoiy,115000,,
+Qarshi,UZB,Qasqadare,177000,,
+Samarqand,UZB,Samarqand,368000,,
+Guliston,UZB,Sirdare,,,
+Termiz,UZB,Surkhondare,,,
+Tashkent,UZB,Toshkent,2106000,69.3,41.3333
+Chirchiq,UZB,Toshkent,156000,,
+Angren,UZB,Toshkent,132000,,
+Olmaliq,UZB,Toshkent,116000,,
+Nukus,UZB,Qaraqalpoghiston,185000,,
+Yerevan,ARM,Armenia,1200000,44.4,40.1
+Tbilisi,GE,Georgia,1200000,44.8,41.7167
+Baku,AZ,Azerbaijan,1740000,49.5,40.3
+Manama,BRN,Bahrain,145000,50.5,26
+Dhaka,BD,Bangladesh,3839000,90.5,24
+Khulna,BD,Bangladesh,731000,,
+Rajshahi,BD,Bangladesh,318000,,
+Narayanganj,BD,Bangladesh,296000,,
+Rangpur,BD,Bangladesh,207000,,
+Mymensingh,BD,Bangladesh,202000,,
+Barisal,BD,Bangladesh,188000,,
+Tongi,BD,Bangladesh,181000,,
+Comilla,BD,Bangladesh,156000,,
+Jessore,BD,Bangladesh,154000,,
+Nawabganj,BD,Bangladesh,141000,,
+Dinajpur,BD,Bangladesh,138000,,
+Bogra,BD,Bangladesh,130000,,
+Brahmanbaria,BD,Bangladesh,125000,,
+Savar,BD,Bangladesh,115000,,
+Tangail,BD,Bangladesh,114000,,
+Pabna,BD,Bangladesh,112000,,
+Jamalpur,BD,Bangladesh,111000,,
+Naogaon,BD,Bangladesh,110000,,
+Sylhet,BD,Bangladesh,109000,,
+Sirajganj,BD,Bangladesh,108000,,
+Narsinghdi,BD,Bangladesh,106000,,
+Saidpur,BD,Bangladesh,105000,,
+Gazipur,BD,Bangladesh,104000,,
+Chittagong,BD,Bangladesh,1599000,91.8333,22.35
+Pathein,MYA,Ayeyarwady,144100,,
+Magway,MYA,Magway,,,
+Mandalay,MYA,Mandalay,532900,96.1,21.9833
+Bago,MYA,Bago,150500,,
+Rangoon,MYA,Yangon,2513000,96.15,16.7833
+Monywa,MYA,Sagaing,106800,,
+Sagaing,MYA,Sagaing,,,
+Tavoy,MYA,Tanintharyi,,,
+Hakha,MYA,Chin,,,
+Myitkyina,MYA,Kachin,,,
+Hpa an,MYA,Kayin,,,
+Loikaw,MYA,Kayah,,,
+Moulmein,MYA,Mon,220000,,
+Akyab,MYA,Rakhine,107600,,
+Taunggyi,MYA,Shan,108200,,
+Hyderabad,IND,Andhra Pradesh,3145939,78.2,17.1
+Vishakhapatnam,IND,Andhra Pradesh,752037,,
+Vijayawada,IND,Andhra Pradesh,701827,,
+Guntur,IND,Andhra Pradesh,471051,,
+Warangal,IND,Andhra Pradesh,447653,,
+Rajahmundry,IND,Andhra Pradesh,324881,,
+Itanagar,IND,Arunachal Pradesh,,93.4,27.1
+Gauhati,IND,Assam,584342,,
+Dispur,IND,Assam,,91.5,26
+Patna,IND,Bihar,917243,85,25.4
+Ranchi,IND,Bihar,599306,,
+Jamshedpur,IND,Bihar,478950,,
+Bokara Steel City,IND,Bihar,333683,,
+Panaji,IND,Goa,,74,15.4
+Ahmadabad,IND,Gujarat,2954526,,
+Surat,IND,Gujarat,1505872,,
+Vadodara,IND,Gujarat,1061598,,
+Rajkot,IND,Gujarat,612458,,
+Bhavnagar,IND,Gujarat,402338,,
+Jamnagar,IND,Gujarat,350544,,
+Gandhinagar,IND,Gujarat,,72.2,23.2
+Simla,IND,Himachal Pradesh,,77.1,31
+Srinagar,IND,Jammu and Kashmir,594775,74.3,34
+Jammu,IND,Jammu and Kashmir,,74.3,32.2
+Bangalore,IND,Karnataka,3302296,77.6167,12.95
+Hubli,IND,Karnataka,648298,,
+Mysore,IND,Karnataka,606755,,
+Trivandrum,IND,Kerala,699872,77,8.2
+Cochin,IND,Kerala,582588,,
+Kozhikode,IND,Kerala,456618,,
+Bhopal,IND,Madhya Pradesh,1062771,77.4,23.1
+Indore,IND,Madhya Pradesh,1091674,,
+Jabalpur,IND,Madhya Pradesh,764586,,
+Gwalior,IND,Madhya Pradesh,690765,,
+Raipur,IND,Madhya Pradesh,438639,,
+Bhilai,IND,Madhya Pradesh,395360,,
+Ujjain,IND,Madhya Pradesh,362633,,
+Bhatpara,IND,Madhya Pradesh,315976,,
+Mumbai,IND,Maharashtra,9925891,72.5,19
+Nagpur,IND,Maharashtra,1624752,79.1167,21.15
+Pune,IND,Maharashtra,1566651,,
+Kalyan,IND,Maharashtra,1014557,,
+Thane,IND,Maharashtra,803389,,
+Nasik,IND,Maharashtra,656925,,
+Sholapur,IND,Maharashtra,604215,,
+Aurangabad,IND,Maharashtra,573272,,
+Amravati,IND,Maharashtra,421576,,
+Kolhapur,IND,Maharashtra,406370,,
+Bhiwandi,IND,Maharashtra,392214,,
+Ulhasnagar,IND,Maharashtra,369077,,
+New Bombay,IND,Maharashtra,307724,,
+Bombay,IND,Maharashtra,,72.8167,18.9
+Pimpri Chinchwad,IND,Maharashtra,517083,,
+Imphal,IND,Manipur,,94,24.5
+Shillong,IND,Meghalaya,,91.5,25.4
+Aijal,IND,Mizoram,,92.4,23.4
+Kohima,IND,Nagaland,,94.1,25.5
+Bhubaneswar,IND,Orissa,411542,85.5,20.2
+Cuttack,IND,Orissa,403418,,
+Ludhiana,IND,Punjab,1042740,,
+Amritsar,IND,Punjab,708835,,
+Jalandhar,IND,Punjab,509510,,
+Jaipur,IND,Rajasthan,1458183,75.5,27
+Jodhpur,IND,Rajasthan,666279,,
+Kota,IND,Rajasthan,537371,,
+Bikaner,IND,Rajasthan,416289,,
+Ajmer,IND,Rajasthan,402700,,
+Gangtok,IND,Sikkim,,88.3,27.3
+Madras,IND,Tamil Nadu,3841396,80.25,13.0667
+Madurai,IND,Tamil Nadu,940989,,
+Coimbatore,IND,Tamil Nadu,816321,,
+Tiruchchirappalli,IND,Tamil Nadu,387223,,
+Salem,IND,Tamil Nadu,366712,,
+Agartala,IND,Tripura,,91.2,23.5
+Lucknow,IND,Uttar Pradesh,1619115,81,27
+Kanpur,IND,Uttar Pradesh,1879420,,
+Varanasi,IND,Uttar Pradesh,932399,,
+Agra,IND,Uttar Pradesh,891790,,
+Allahabad,IND,Uttar Pradesh,806486,,
+Meerut,IND,Uttar Pradesh,753778,,
+Faridabad,IND,Uttar Pradesh,617717,,
+Bareilly,IND,Uttar Pradesh,590661,,
+Gorakhpur,IND,Uttar Pradesh,505566,,
+Aligarh,IND,Uttar Pradesh,480520,,
+Moradabad,IND,Uttar Pradesh,429214,,
+Saharanpur,IND,Uttar Pradesh,374945,,
+Jhansi,IND,Uttar Pradesh,313491,,
+Calcutta,IND,West Bengal,4399819,88.3333,22.5333
+Haora,IND,West Bengal,950435,,
+Durgapur,IND,West Bengal,425836,,
+Port Blair,IND,Andaman and Nicobar Is.,,92.5,11.4
+Chandigarh,IND,Chandigarh,510565,76.5,30.5
+Silvassa,IND,Dadra and Nagar Haveli,,73.1,20.2
+Daman,IND,Daman and Diu,,,
+New Delhi,IND,Delhi,7206704,77.2,28.5833
+Ghaziabad,IND,Delhi,454156,,
+Kavaratti,IND,Lakshadweep Is.,,72.6,10.6
+Pondicherry,IND,Pondicherry,,79.5,12
+Thimphu,BHT,Bhutan,20000,90,27
+Bandar Seri Begawan,BRU,Brunei,56300,115,5
+Johor Baharu,MAL,Johor,328646,,
+Alor Setar,MAL,Kedah,125026,,
+Kota Baharu,MAL,Kelantan,219713,,
+Melaka,MAL,Melaka,295999,,
+Seremban,MAL,Negeri Sembilan,182584,,
+Kuantan,MAL,Pahang,198356,,
+Ipoh,MAL,Perak,382633,,
+Taiping,MAL,Perak,183165,,
+Kangar,MAL,Perlis,,,
+Penang,MAL,Pulau Pinang,219376,,
+Kota Kinabalu,MAL,Sabah,208484,,
+Tawai,MAL,Sabah,244765,,
+Sandakan,MAL,Sabah,223432,,
+Kuching,MAL,Sarawak,147729,,
+Sibu,MAL,Sarawak,126384,,
+Shah Alam,MAL,Selangor,101733,,
+Kelang,MAL,Selangor,243698,,
+Selayang Baru,MAL,Selangor,124606,,
+Kuala Terengganu,MAL,Terengganu,228654,,
+Kuala Lumpur,MAL,Fed. Terr. of Kuala Lumpur,1145075,101.7,3.11667
+Petaling Jaya,MAL,Fed. Terr. of Kuala Lumpur,254849,,
+Labuan,MAL,Fed. Terr. of Labuan,,,
+Vientiane,LAO,Laos,377409,102.45,18
+Chiang Mai,THA,Thailand,167000,,
+Nakhon Sawan,THA,Thailand,152000,,
+Khon Kaen,THA,Thailand,206000,,
+Nakhon Ratchasima,THA,Thailand,278000,,
+Ubon Ratchathani,THA,Thailand,137000,,
+Bangkok,THA,Thailand,5876000,100.5,13.7333
+Nonthaburi,THA,Thailand,233000,,
+Saraburi,THA,Thailand,107000,,
+Nakhon si Thammarat,THA,Thailand,112000,,
+Songkhla,THA,Thailand,243000,,
+Phnom Penh,K,Cambodia,400000,104.85,11.55
+Hanoi,VN,Vietnam,3056146,105.867,21.0333
+Haiphong,VN,Vietnam,1447523,,
+Can Tho,VN,Vietnam,284306,,
+Saigon,VN,Vietnam,3924435,106.5,10.5
+Da Nang,VN,Vietnam,369734,108.217,16.0667
+Nha Trang,VN,Vietnam,263093,,
+Hue,VN,Vietnam,260489,,
+Nam Dinh,VN,Vietnam,219615,,
+Long Xuyen,VN,Vietnam,214037,,
+Qui Nhon,VN,Vietnam,201912,,
+Thai Nguyen,VN,Vietnam,171815,,
+Vung Tau,VN,Vietnam,133558,,
+Hong Gai,VN,Vietnam,129394,,
+Cam Pha,VN,Vietnam,127408,,
+Viet Tri,VN,Vietnam,116084,,
+Aqmola,KAZ,Aqmola,280200,,
+Aqtobe,KAZ,Aqtobe,258900,,
+Atyrau,KAZ,Atyrau,146900,,
+Oral,KAZ,Batys Qazaqstan,219100,,
+Kokchetau,KAZ,Kokchetau,141400,,
+Aqtau,KAZ,Mangghystau,151300,,
+Shymkent,KAZ,Ongtustik Qazaqstan,397600,,
+Pavlodar,KAZ,Pavlodar,340700,,
+Ekibastuz,KAZ,Pavlodar,141100,,
+Karaganda,KAZ,Qaraghandy,573700,,
+Temirtau,KAZ,Qaraghandy,206100,,
+Qostanay,KAZ,Qostanay,232100,,
+Rudny,KAZ,Qostanay,125700,,
+Qyzylorda,KAZ,Qyzylorda,162000,,
+Semey,KAZ,Semey,320200,,
+Oskemen,KAZ,Shyghys Qazaqstan,326300,,
+Petropavl,KAZ,Soltustik Qazaqstan,239000,,
+Taldyqorghan,KAZ,Taldyqorghan,116100,,
+Arqalyq,KAZ,Torghay,,,
+Dzhambul,KAZ,Zhambyl,130600,,
+Zhambyl,KAZ,Zhambyl,,,
+Zhezqazghan,KAZ,Zhezkazghan,108700,,
+Zhezkazghan,KAZ,Zhezkazghan,,,
+Almaty,KAZ,Almaty (munic.),1172400,76.8833,43.2333
+Leninsk,KAZ,Leninsk (munic.),,,
+Pyongyang,NOK,North Korea,2335000,125.683,39.0333
+Hamhung Hungnam,NOK,North Korea,701000,,
+Chongjin,NOK,North Korea,520000,,
+Nampo,NOK,North Korea,370000,,
+Sunchon,NOK,North Korea,356000,,
+Sinuiju,NOK,North Korea,289000,,
+Tanchon,NOK,North Korea,284000,,
+Wonsan,NOK,North Korea,274000,,
+Tokchon,NOK,North Korea,217000,,
+Kanggye,NOK,North Korea,211000,,
+Haeju,NOK,North Korea,195000,,
+Anju,NOK,North Korea,186000,,
+Songjin,NOK,North Korea,179000,,
+Kusong,NOK,North Korea,177000,,
+Huichon,NOK,North Korea,163000,,
+Sinpo,NOK,North Korea,158000,,
+Kaesong,NOK,North Korea,120000,,
+Bishkek,KGZ,Kyrgyzstan,630000,74.5,42.4
+Hong Kong,HONX,Hong Kong,7055071,114.2,22.3
+Macau,MACX,Macau,,113.55,22.2
+Ulaanbaatar,MNG,Mongolia,479500,107,48
+Kathmandu,NEP,Nepal,393494,85.25,27.45
+Flying Fish Cove,XMAS,Christmas Island,,105.43,-10.25
+West Island,COCO,Cocos Islands,,96.5,-12.1
+Nicosia,CY,Cyprus,161100,33.2,35.4
+Gaza,GAZA,Gaza Strip,409680,34.5,31.5
+Jerusalem,IL,Central,468900,35.2167,31.7833
+Ramla,IL,Central,,,
+Haifa,IL,Haifa,,,
+Nazareth,IL,North,,,
+Tel Aviv,IL,Tel Aviv,,34.7833,32.1
+Beer Sheva,IL,South,,,
+Hurghada,ET,El Bahr el Ahmar,,,
+Marsa Matruh,ET,Matruh,,,
+El Tur,ET,Sina al Janubiyah,,,
+El Arish,ET,Sina ash Shamaliyah,,,
+El Kharga,ET,El Wadi el Jadid,,,
+Damanhur,ET,El Buhayra,226000,,
+Kafr el Dauwar,ET,El Buhayra,161000,,
+El Mansura,ET,El Daqahliya,358000,,
+Dumyat,ET,Dumyat,121000,,
+Tanta,ET,El Gharbiya,374000,,
+El Mahalla el Kubra,ET,El Gharbiya,385000,,
+Ismailiya,ET,Ismailiya,236000,,
+Kafr el Sheikh,ET,Kafr el Sheikh,,,
+Shibin el Kom,ET,El Minufiya,136000,,
+Benha,ET,El Qalubiya,120000,,
+Shubra el Kheima,ET,El Qalubiya,533000,,
+Zagazig,ET,Sharqiya,274000,,
+Aswan,ET,Aswan,196000,,
+Asyut,ET,Asyut,291000,,
+Beni Suef,ET,Beni Suef,163000,,
+El Faiyum,ET,El Faiyum,227000,,
+El Giza,ET,El Giza,1671000,,
+El Minya,ET,El Minya,203000,,
+Qena,ET,Qena,142000,,
+El Uqsur,ET,Qena,148000,,
+Sohag,ET,Sohag,142000,,
+Bur Said,ET,Bur Said (munic.),382000,,
+Alexandria,ET,El Iskandariya,2917000,30,31
+Cairo,ET,El Qahira,6053000,31.3333,29.8667
+Helwan,ET,El Qahira,352000,,
+El Suweiz,ET,El Suweiz,265000,,
+Jakarta,RI,Indonesia,8259266,106.5,-6.1
+Bandung,RI,Indonesia,2058649,107.4,-6.58
+Semarang,RI,Indonesia,1250971,,
+Surabaya,RI,Indonesia,2483871,112.717,-7.21667
+Yogyakarta,RI,Indonesia,412392,,
+Banda Aceh,RI,Indonesia,184699,,
+Bengkulu,RI,Indonesia,170327,,
+Jambi,RI,Indonesia,339944,,
+Bandar Lampung,RI,Indonesia,636706,,
+Padang,RI,Indonesia,631543,,
+Palembang,RI,Indonesia,1144279,104.767,-3
+Medan,RI,Indonesia,1730752,98.6833,3.58333
+Pontianak,RI,Indonesia,397343,,
+Banjarmasin,RI,Indonesia,481371,,
+Palangkaraya,RI,Indonesia,112562,,
+Samarinda,RI,Indonesia,407339,,
+Ujung Pandang,RI,Indonesia,944685,,
+Ambon,RI,Indonesia,276955,,
+Malang,RI,Indonesia,695618,,
+Surakarta,RI,Indonesia,504176,,
+Pekan Baru,RI,Indonesia,398694,,
+Balikpapan,RI,Indonesia,344405,,
+Manado,RI,Indonesia,320990,,
+Bogor,RI,Indonesia,271711,,
+Cirebon,RI,Indonesia,254878,,
+Kediri,RI,Indonesia,249807,,
+Pekalongan,RI,Indonesia,242874,,
+Tegal,RI,Indonesia,229713,,
+Pematang Siantar,RI,Indonesia,219328,,
+Binjai,RI,Indonesia,181904,,
+Probolinggo,RI,Indonesia,177120,,
+Madiun,RI,Indonesia,170242,,
+Pasuruan,RI,Indonesia,152409,,
+Magelang,RI,Indonesia,123213,,
+Sukabumi,RI,Indonesia,119981,,
+Gorontalo,RI,Indonesia,119780,,
+Blitar,RI,Indonesia,119011,,
+Tebing Tinggi,RI,Indonesia,116767,,
+Pangkal Pinang,RI,Indonesia,113163,,
+Tanjung Balai,RI,Indonesia,108202,,
+Batam,RI,Indonesia,106667,,
+Pare Pare,RI,Indonesia,101527,,
+Dili,TL,Timor-Leste,59069,125.6,-8.6
+Port Moresby,PNG,Papua New Guinea,141500,147.15,-9.48333
+Ar Ramadi,IRQ,Al Anbar,192556,,
+Al Hillah,IRQ,Babil,268834,,
+Baghdad,IRQ,Baghdad,4478000,44.4,33.3333
+Al Basrah,IRQ,Al Basrah,406296,,
+An Nasiriyah,IRQ,Dhi Qar,265937,,
+Baqubah,IRQ,Diyala,114516,,
+Karbala,IRQ,Karbala,296705,,
+Al Amarah,IRQ,Maysan,208797,,
+As Samawah,IRQ,Al Muthanna,,,
+An Najaf,IRQ,An Najaf,309010,,
+Mosul,IRQ,Ninawa,664221,43.15,36.3167
+Diwaniyah,IRQ,Al Qadisiyah,196519,,
+Samarra,IRQ,Salah ad Din,,,
+Kirkuk,IRQ,Ad Tamim,418624,,
+Al Kut,IRQ,Wasit,183183,,
+Dahuk,IRQ,Dahuk,,,
+Arbil,IRQ,Arbil,485968,,
+As Sulaymaniyah,IRQ,As Sulaymaniyah,364096,,
+Amman,JOR,Jordan,777500,35.95,31.95
+Kuwait,KWT,Kuwait,167768,47.3,29.3
+Riyadh,SA,Saudi Arabia,1250000,46.7,24.65
+Jeddah,SA,Saudi Arabia,,,
+Damascus,SYR,Syria,1500000,36.3333,33.5
+Aleppo,SYR,Syria,976727,36,36
+Homs,SYR,Syria,354508,36,35
+Beirut,RL,Lebanon,702000,35.4667,33.9
+Nablus,WEST,West Bank,104000,35.3,32.2
+Sapporo,J,Hokkaido,1748000,141.35,43.0667
+Hakodate,J,Hokkaido,287691,140.7,41.8
+Aomori,J,Aomori,,,
+Morioka,J,Iwate,,,
+Sendai,J,Miyagi,967000,,
+Akita,J,Akita,,,
+Yamagata,J,Yamagata,,,
+Fukushima,J,Fukushima,,,
+Mito,J,Ibaraki,,,
+Utsonomiya,J,Tochigi,,,
+Maebashi,J,Gumma,,,
+Urawa,J,Saitama,,,
+Chiba,J,Chiba,843000,,
+Tokyo,J,Tokyo,7843000,139.767,35.6833
+Yokohama,J,Kanagawa,3256000,139.32,35.3
+Kawasaki,J,Kanagawa,1187000,,
+Niigata,J,Niigata,,,
+Toyama,J,Toyama,,,
+Kanazawa,J,Ishikawa,,,
+Fukui,J,Fukui,,,
+Kofu,J,Yamanashi,,,
+Nagano,J,Nagano,,,
+Gifu,J,Gifu,,,
+Shizuoka,J,Shizuoka,,,
+Nagoya,J,Aichi,2108000,,
+Tsu,J,Mie,,,
+Otsu,J,Shiga,,,
+Kyoto,J,Kyoto,1415000,135.45,35
+Osaka,J,Osaka,2492000,,
+Kobe,J,Hyogo,1388000,,
+Nara,J,Nara,,,
+Wakayama,J,Wakayama,,,
+Tottori,J,Tottori,,,
+Matsue,J,Shimane,,,
+Okayama,J,Okayama,,,
+Hiroshima,J,Hiroshima,1099000,132.3,34.3
+Yamaguchi,J,Yamaguchi,,,
+Tokushima,J,Tokushima,,,
+Takamatsu,J,Kagawa,,,
+Matsuyama,J,Ehime,,,
+Kochi,J,Kochi,,,
+Fukuoka,J,Fukuoka,1273000,130.45,33.5833
+Kita Kyushu,J,Fukuoka,1012000,,
+Saga,J,Saga,,,
+Nagasaki,J,Nagasaki,,,
+Kumamoto,J,Kumamoto,,,
+Oita,J,Oita,,,
+Miyazaki,J,Miyazaki,,,
+Kagoshima,J,Kagoshima,,,
+Naha,J,Okinawa,,,
+Seoul,ROK,South Korea,10229262,126.967,37.5667
+Pusan,ROK,South Korea,3813814,,
+Taegu,ROK,South Korea,2449139,,
+Inchon,ROK,South Korea,2307618,,
+Kwangju,ROK,South Korea,1257504,,
+Taejon,ROK,South Korea,1272143,,
+Ulsan,ROK,South Korea,967394,,
+Suwon,ROK,South Korea,755502,,
+Songnam,ROK,South Korea,869243,,
+Chonju,ROK,South Korea,563406,,
+Masan,ROK,South Korea,441358,,
+Chongju,ROK,South Korea,531195,,
+Chinju,ROK,South Korea,329913,,
+Mokpo,ROK,South Korea,247524,,
+Cheju,ROK,South Korea,258509,,
+Kunsan,ROK,South Korea,266517,,
+Chunchon,ROK,South Korea,235067,,
+Yosu,ROK,South Korea,183557,,
+Male,MV,Maldives,46334,72,2
+Muscat,OM,Oman,30000,58.5,23.5
+Abu Dhabi,UAE,Abu Dhabi,363432,54.36,24.27
+Al Ayn,UAE,Abu Dhabi,176441,,
+Dubai,UAE,Dubayy,585189,55,25
+Sharjah,UAE,Ash Shariqah,125123,,
+Sanaa,YE,Yemen,427185,44.11,15.21
+Aden,YE,Yemen,550744,45,12.8
+Manila,RP,Philippines,1655000,120.983,14.5833
+Quezon,RP,Philippines,1989000,,
+Kalookan,RP,Philippines,1023000,,
+Davao,RP,Philippines,1007000,,
+Cebu,RP,Philippines,662000,,
+Zamboanga,RP,Philippines,511000,,
+Makati,RP,Philippines,484000,,
+Pasig,RP,Philippines,471000,,
+Cagayan de Oro,RP,Philippines,428000,,
+Pasay,RP,Philippines,409000,,
+Doha,Q,Qatar,217294,51,25
+Rayyan,Q,Qatar,91996,50.5,25.5
+Wakrah,Q,Qatar,23682,50.7,25.2
+Singapore,SGP,Singapore,2558000,103.833,1.3
+Colombo,CL,Sri Lanka,643000,79.8667,6.9
+Changhua,RC,Taiwan,221090,,
+Hualien,RC,Taiwan,107824,,
+Fengshan,RC,Taiwan,301374,,
+Pingtung,RC,Taiwan,214728,,
+Fengyuan,RC,Taiwan,157548,,
+Panchiao,RC,Taiwan,539115,,
+Chungho,RC,Taiwan,387123,,
+Sanchuung,RC,Taiwan,382880,,
+Hsinchuang,RC,Taiwan,328758,,
+Yungho,RC,Taiwan,241104,,
+Hsintien,RC,Taiwan,248822,,
+Taitung,RC,Taiwan,109189,,
+Taoyuan,RC,Taiwan,260680,,
+Chungli,RC,Taiwan,295825,,
+Chiai,RC,Taiwan,261941,,
+Chilung,RC,Taiwan,370049,,
+Hsinchu,RC,Taiwan,341128,,
+Kaohsiung,RC,Taiwan,1426518,,
+Taichung,RC,Taiwan,857590,,
+Tainan,RC,Taiwan,707658,120.2,22.95
+Taipei,RC,Taiwan,2626138,121.517,25.0333
+The Valley,AXA,Anguilla,,-63.03,18.13
+Saint Johns,AG,Antigua and Barbuda,36000,-61.5,17.3
+Oranjestad,ARU,Aruba,,-70.02,12.31
+Nassau,BS,Bahamas,140000,-77.35,25.0833
+Bridgetown,BDS,Barbados,10000,-59.4,13.1
+Belmopan,BZ,Belize,3000,-88.5,17.1
+Guatemala City,GCA,Guatemala,823301,-90.5167,14.6167
+Mixco,GCA,Guatemala,209791,,
+Villa Nueva,GCA,Guatemala,101295,,
+Aguascalientes,MEX,Aguascalientes,440425,-102.2,21.5
+Mexicali,MEX,Baja California,438377,-115.3,32.4
+Tijuana,MEX,Baja California,698752,,
+Ensenada,MEX,Baja California,169426,,
+La Paz,MEX,Baja California Sur,137641,-100.5,24.1
+Campeche,MEX,Campeche,150518,-90.3,19.5
+Tuxtla Gutierrez,MEX,Chiapas,289626,-93.1,16.5
+Nezahualcoyotl,MEX,Chiapas,1255456,,
+Tonala,MEX,Chiapas,151190,,
+Tapachula,MEX,Chiapas,138858,,
+Chihuahua,MEX,Chihuahua,516153,-106.1,28.4
+Ciudad Juarez,MEX,Chihuahua,789522,,
+Saltillo,MEX,Coahuila,420947,-101,25.3
+Torreon,MEX,Coahuila,439436,,
+Monclova,MEX,Coahuila,177792,,
+Colima,MEX,Colima,106967,-103.4,19.1
+Victoria de Durango,MEX,Durango,348036,,
+Gomez Palacio,MEX,Durango,164092,,
+Durango,MEX,Durango,182600,-104.4,24
+Leon,MEX,Guanajuato,758279,,
+Salamanca,MEX,Guanajuato,123190,,
+Irapuato,MEX,Guanajuato,265042,,
+Celaya,MEX,Guanajuato,214856,,
+Guanajuato,MEX,Guanajuato,36809,-101.2,21
+Acapulco,MEX,Guerrero,515374,,
+Chilpancingo,MEX,Guerrero,36193,-99.3,17.3
+Pachuca,MEX,Hidalgo,174013,,
+Pachuca de Soto,MEX,Hidalgo,83892,-98.4,20.1
+Guadalajara,MEX,Jalisco,1650042,-103.333,20.6833
+Zapopan,MEX,Jalisco,668323,,
+Tlaquepaque,MEX,Jalisco,328031,,
+Cuautla,MEX,Jalisco,110242,,
+Toluca,MEX,Estado de Mexico,327865,,
+Toluca de Lerdo,MEX,Estado de Mexico,136100,-99.4,19.2
+Atizapan de Zaragoza,MEX,Estado de Mexico,315059,,
+Morelia,MEX,Michoacan,428486,-101.1,19.4
+Uruapan,MEX,Michoacan,187623,,
+Zamora,MEX,Michoacan,109751,,
+Cuernavaca,MEX,Morelos,279187,-99.2,19
+Tepic,MEX,Nayarit,206967,-104.5,21.3
+Monterrey,MEX,Nuevo Leon,1068996,-100.3,25.6667
+Guadalupe,MEX,Nuevo Leon,535332,,
+San Nicolas de los Garza,MEX,Nuevo Leon,436603,,
+Ciudad Santa Catarina,MEX,Nuevo Leon,162707,,
+San Pedro Garza Garcia,MEX,Nuevo Leon,113017,,
+Ciudad Apodaca,MEX,Nuevo Leon,103364,,
+Oaxaca,MEX,Oaxaca,212818,-96.4,17
+Puebla,MEX,Puebla,1007170,-98.1,19
+Tehuacan,MEX,Puebla,139450,,
+Queretaro,MEX,Queretaro,385503,-100.2,20.4
+Cancun,MEX,Quintana Roo,167730,,
+Chetumal,MEX,Quintana Roo,23685,-88.2,18.3
+San Luis Potosi,MEX,San Luis Potosi,488238,-101,22.1
+Soledad de Graciano Sanchez,MEX,San Luis Potosi,123943,,
+Culiacan,MEX,Sinaloa,415046,-107.4,24.5
+Mazatlan,MEX,Sinaloa,262705,,
+Los Mochis,MEX,Sinaloa,162659,,
+Hermosillo,MEX,Sonora,406417,-111,29
+Ciudad Obregon,MEX,Sonora,219980,,
+Heroica Nogales,MEX,Sonora,105873,,
+Villahermosa,MEX,Tabasco,261231,-93,18
+Ciudad Victoria,MEX,Tamaulipas,194996,-99.1,23.4
+Tampico,MEX,Tamaulipas,272690,,
+Matamoros,MEX,Tamaulipas,266055,,
+Reynosa,MEX,Tamaulipas,265663,,
+Nuevo Laredo,MEX,Tamaulipas,218413,,
+Ciudad Madero,MEX,Tamaulipas,160331,,
+Tlaxcala,MEX,Tlaxcala,116800,-98.1,19.2
+Cordoba,MEX,Veracruz,130695,,
+Xalapa Enriquez,MEX,Veracruz,279451,,
+Coatzacoalcos,MEX,Veracruz,198817,,
+Poza Rica,MEX,Veracruz,151739,,
+Minatitlan,MEX,Veracruz,142060,,
+Orizaba,MEX,Veracruz,114216,,
+Jalapa,MEX,Veracruz,161400,-97,19.3
+Veracruz Llave,MEX,Veracruz,438821,,
+Merida,MEX,Yucatan,523422,-89.6333,20.9667
+Zacatecas,MEX,Zacatecas,100051,-102.4,22.5
+Mexico City,MEX,Distrito Federal,9815795,-99.2,19.4
+Hamilton,BERM,Bermuda,,-64.47,32.17
+Road Town,BVIR,British Virgin Islands,,-64.37,18.27
+Edmonton,CDN,Alberta,616741,-113.517,53.5667
+Calgary,CDN,Alberta,710677,-114.017,51.1
+Vancouver,CDN,British Columbia,471844,-122.4,48.5
+Burnaby,CDN,British Columbia,158858,,
+Victoria,CDN,British Columbia,263180,-123.317,48.4167
+Surrey,CDN,British Columbia,245173,,
+Winnipeg,CDN,Manitoba,616790,-97.1,49.5
+Fredericton,CDN,New Brunswick,45248,-52.5,45.5
+Saint Johns,CDN,Newfoundland,143390,-52.5,47.3
+Yellowknife,CDN,Northwest Territories,8256,-114.45,62.4667
+Halifax,CDN,Nova Scotia,114455,-63.4,44.4
+Ottawa,CDN,Ontario,313987,-75.5,45.3
+Gloucester,CDN,Ontario,101677,,
+Vaughan,CDN,Ontario,111359,,
+London,CDN,Ontario,303165,-81.15,43.0333
+Hamilton,CDN,Ontario,318499,-79.9,43.2667
+Scarborough,CDN,Ontario,524598,,
+York,CDN,Ontario,140525,,
+Toronto,CDN,Ontario,635395,-79.5,43.5
+Kitchener,CDN,Ontario,168282,-80.5,43.4333
+Windsor,CDN,Ontario,191435,-82.9667,42.2667
+Oshawa,CDN,Ontario,129344,-78.8667,43.9
+North York,CDN,Ontario,562564,,
+Mississauga,CDN,Ontario,463388,,
+Etobicoke,CDN,Ontario,309993,,
+Brampton,CDN,Ontario,234445,,
+Markham,CDN,Ontario,153811,,
+Burlington,CDN,Ontario,129575,,
+Saint Catharines,CDN,Ontario,129300,,
+Thunder Bay,CDN,Ontario,113746,-89.3167,48.3667
+Nepean,CDN,Ontario,107627,,
+East York,CDN,Ontario,102696,,
+Charlottetown,CDN,Prince Edward Island,24837,-63.2,46.2
+Laval,CDN,Quebec,314398,,
+Montreal,CDN,Quebec,1017666,-73.5,45.3
+Quebec,CDN,Quebec,167517,-71.3833,46.8
+Longueuil,CDN,Quebec,129874,,
+Richmond,CDN,Quebec,126624,,
+Regina,CDN,Saskatchewan,179178,-104.667,50.4333
+Saskatoon,CDN,Saskatchewan,186058,-107,52
+Whitehorse,CDN,Yukon Territory,13311,-135,60.4
+Birmingham,USA,Alabama,265347,-86.75,33.5667
+Mobile,USA,Alabama,196263,-88.25,30.6833
+Montgomery,USA,Alabama,190350,-86.3667,32.3833
+Huntsville,USA,Alabama,159880,-86.5833,34.7
+Anchorage,USA,Alaska,226338,-150.017,61.1667
+Juneau,USA,Alaska,19528,-134.583,58.3667
+Phoenix,USA,Arizona,984310,-112.2,33.2
+Tucson,USA,Arizona,411480,,
+Mesa,USA,Arizona,289199,,
+Glendale,USA,Arizona,147864,,
+Scottsdale,USA,Arizona,130075,,
+Tempe,USA,Arizona,141993,,
+Chandler,USA,Arizona,89862,,
+Little Rock,USA,Arkansas,175727,-92.3,34.4
+Los Angeles,USA,California,3485557,-118,34
+San Diego,USA,California,1110623,-117.167,32.7333
+San Jose,USA,California,782224,-121.933,37.3667
+San Francisco,USA,California,723959,-122.383,37.6167
+Long Beach,USA,California,429321,-118.15,33.8167
+Fresno,USA,California,354091,,
+Sacramento,USA,California,369365,-121.5,38.5167
+Oakland,USA,California,372242,-122.317,37.8167
+Santa Ana,USA,California,293827,-117.867,33.75
+Anaheim,USA,California,266406,,
+Riverside,USA,California,226546,,
+Stockton,USA,California,210943,-121.25,37.9
+Bakersfield,USA,California,176264,-119.05,35.4167
+Huntington Beach,USA,California,181519,,
+Fremont,USA,California,173339,,
+Glendale,USA,California,180038,,
+San Bernardino,USA,California,170036,,
+Modesto,USA,California,164746,-121,37.65
+Chula Vista,USA,California,135160,,
+Oxnard,USA,California,142560,-119.183,34.2
+Garden Grove,USA,California,142965,,
+Oceanside,USA,California,128090,-117.417,33.2333
+Ontario,USA,California,133179,-117.6,34.05
+Moreno Valley,USA,California,118779,,
+Torrance,USA,California,133107,,
+Pomona,USA,California,131700,-117.75,34.05
+Pasadena,USA,California,131586,-118.15,34.15
+Irvine,USA,California,110330,,
+Sunnyvale,USA,California,117324,,
+Santa Clarita,USA,California,120050,,
+Santa Rosa,USA,California,113261,-122.817,38.5167
+Hayward,USA,California,114705,,
+Fullerton,USA,California,114144,,
+Orange,USA,California,110658,,
+Rancho Cucamonga,USA,California,101409,,
+Escondido,USA,California,108648,-117.083,33.1167
+Lancaster,USA,California,97300,,
+Concord,USA,California,111308,-121.983,37.9667
+Thousand Oaks,USA,California,104381,,
+Salinas,USA,California,108777,-121.6,36.6667
+Inglewood,USA,California,109602,,
+El Monte,USA,California,106162,,
+Vallejo,USA,California,109199,,
+Simi Valley,USA,California,100218,,
+Palmdale,USA,California,70262,-118.1,34.6333
+Fontana,USA,California,87535,,
+Berkeley,USA,California,102724,,
+West Covina,USA,California,96226,,
+Costa Mesa,USA,California,96357,,
+Norwalk,USA,California,94279,,
+Corona,USA,California,75943,,
+Denver,USA,Colorado,467610,-104.867,39.75
+Colorado Springs,USA,Colorado,280430,-104.717,38.8167
+Aurora,USA,Colorado,222103,,
+Lakewood,USA,Colorado,126475,,
+Fort Collins,USA,Colorado,87491,-105.083,40.75
+Bridgeport,USA,Connecticut,141686,-73.1833,41.1833
+Hartford,USA,Connecticut,139739,-72.4,41.3
+New Haven,USA,Connecticut,130474,-73.9167,41.3167
+Stamford,USA,Connecticut,108056,,
+Waterbury,USA,Connecticut,108961,-73.0667,41.5833
+Dover,USA,Delaware,23512,-75.4667,39.1333
+Jacksonville,USA,Florida,635230,-81.7,30.5
+Miami,USA,Florida,358648,-80.1,25.4
+Tampa,USA,Florida,280015,,
+St. Petersburg,USA,Florida,240318,-83.3333,27.7667
+Hialeah,USA,Florida,188008,,
+Orlando,USA,Florida,164674,-81.3833,28.55
+Fort Lauderdale,USA,Florida,149238,,
+Tallahassee,USA,Florida,124773,-84.1,30.2
+Hollywood,USA,Florida,121720,,
+Coral Springs,USA,Florida,78864,,
+Pembroke Pines,USA,Florida,65566,,
+Clearwater,USA,Florida,98669,,
+Atlanta,USA,Georgia,393929,-84.4,33.4
+Columbus,USA,Georgia,178683,,
+Savannah,USA,Georgia,137812,-81.2,32.1333
+Macon,USA,Georgia,107365,-83.65,32.7
+Honolulu,USA,Hawaii,377059,-157.917,21.3333
+Hilo,USA,Hawaii,,-165,20
+Boise,USA,Idaho,126685,-116.2,43.4
+Chicago,USA,Illinois,2783726,-87.6333,41.8833
+Rockford,USA,Illinois,141787,-89.05,42.35
+Aurora,USA,Illinois,99672,-88.3333,41.75
+Springfield,USA,Illinois,105417,-89.6667,39.8333
+Peoria,USA,Illinois,113513,-89.6833,40.6667
+Naperville,USA,Illinois,85806,,
+Indianapolis,USA,Indiana,731278,-86.2833,39.7333
+Fort Wayne,USA,Indiana,191839,-85.2,41
+Evansville,USA,Indiana,126272,-87.5333,38.05
+Gary,USA,Indiana,116646,,
+South Bend,USA,Indiana,105511,-86.3167,41.7
+Des Moines,USA,Iowa,193189,-93.65,41.5333
+Cedar Rapids,USA,Iowa,108772,-91.7,41.8833
+Wichita,USA,Kansas,304017,-97.4167,37.65
+Kansas City,USA,Kansas,151521,,
+Overland Park,USA,Kansas,111790,,
+Topeka,USA,Kansas,119883,-95.6333,39.0667
+Louisville,USA,Kentucky,269555,-85.7333,38.1833
+Lexington Fayette,USA,Kentucky,225366,,
+Frankfort,USA,Kentucky,25973,-84.5,38.1
+New Orleans,USA,Louisiana,496938,-90.25,29.9833
+Baton Rouge,USA,Louisiana,219531,-91.15,30.5333
+Shreveport,USA,Louisiana,198525,,
+Lafayette,USA,Louisiana,101852,-92,30.2
+Augusta,USA,Maine,21819,-69.8,44.3167
+Baltimore,USA,Maryland,736014,-76.4167,39.3333
+Annapolis,USA,Maryland,31740,-76.3,39
+Boston,USA,Massachusetts,574283,-71.0333,42.3667
+Worcester,USA,Massachusetts,169759,-71.8667,42.2667
+Springfield,USA,Massachusetts,156983,,
+Lowell,USA,Massachusetts,103439,-71.3167,42.65
+Detroit,USA,Michigan,1027974,-83.0167,42.4167
+Grand Rapids,USA,Michigan,189126,-85.5167,42.8833
+Warren,USA,Michigan,144864,,
+Flint,USA,Michigan,140925,-83.7333,42.9667
+Lansing,USA,Michigan,127321,-84.6,42.7833
+Sterling Heights,USA,Michigan,117810,,
+Ann Arbor,USA,Michigan,109608,,
+Livonia,USA,Michigan,100850,,
+Minneapolis,USA,Minnesota,368383,,
+St. Paul,USA,Minnesota,272235,-93,45
+Jackson,USA,Mississippi,202062,-90.0833,32.3167
+Kansas City,USA,Missouri,434829,-94.5833,39.1167
+St. Louis,USA,Missouri,396685,-90.3833,38.75
+Springfield,USA,Missouri,140494,-93.3833,37.2333
+Independence,USA,Missouri,112301,,
+Jefferson City,USA,Missouri,33619,-92.1833,38.5667
+Helena,USA,Montana,23938,-112,46.6
+Omaha,USA,Nebraska,342862,-95.9,41.3
+Lincoln,USA,Nebraska,191972,-96.4,40.5
+Las Vegas,USA,Nevada,258204,-115.2,36.2
+Reno,USA,Nevada,133850,-119.783,39.5
+Henderson,USA,Nevada,64948,,
+Carson City,USA,Nevada,32022,-119.767,39.1667
+Manchester,USA,New Hampshire,99332,,
+Concord,USA,New Hampshire,30400,-71.5,43.2
+Newark,USA,New Jersey,275221,-74.1667,40.7
+Jersey City,USA,New Jersey,228517,,
+Paterson,USA,New Jersey,140891,-74.15,40.9
+Elizabeth,USA,New Jersey,110002,,
+Trenton,USA,New Jersey,92124,-74.7667,40.2167
+Albuquerque,USA,New Mexico,384915,,
+Santa Fe,USA,New Mexico,48899,-106,35.4
+New York,USA,New York,7322564,-74,40.4
+Buffalo,USA,New York,328175,-78.7333,42.9333
+Rochester,USA,New York,230356,-77.6667,43.1167
+Yonkers,USA,New York,188082,,
+Syracuse,USA,New York,163860,-76.1167,43.1167
+Albany,USA,New York,100031,-73.75,42.65
+Charlotte,USA,North Carolina,419539,-80.9333,35.2167
+Raleigh,USA,North Carolina,212092,-78.4,35.5
+Greensboro,USA,North Carolina,183894,,
+Winston Salem,USA,North Carolina,150958,,
+Durham,USA,North Carolina,138894,-78.7833,35.8667
+Bismarck,USA,North Dakota,44485,-100.5,46.4
+Columbus,USA,Ohio,632945,-83,39.5
+Cleveland,USA,Ohio,505616,,
+Cincinnati,USA,Ohio,364114,-84.5167,39.15
+Toledo,USA,Ohio,332943,-83.8,41.6
+Akron,USA,Ohio,223019,,
+Dayton,USA,Ohio,182005,-84.2167,39.9
+Oklahoma City,USA,Oklahoma,444724,-97.3,35.3
+Tulsa,USA,Oklahoma,367302,-95.9,36.2
+Portland,USA,Oregon,463634,-122.6,45.6
+Eugene,USA,Oregon,112733,-123.217,44.1167
+Salem,USA,Oregon,107793,-123.017,44.9167
+Philadelphia,USA,Pennsylvania,1585577,-75.25,39.8833
+Pittsburgh,USA,Pennsylvania,369879,-80,40.45
+Erie,USA,Pennsylvania,108718,-80.1833,42.0833
+Allentown,USA,Pennsylvania,105301,-75.4333,40.65
+Harrisburg,USA,Pennsylvania,53264,-76.7667,40.2
+Providence,USA,Rhode Island,160728,-71.4333,41.7333
+Columbia,USA,South Carolina,110734,-81.1167,33.95
+Sioux Falls,USA,South Dakota,100836,-96.7333,43.5667
+Pierre,USA,South Dakota,11973,-100.283,44.3833
+Memphis,USA,Tennessee,618652,-90,35.05
+Nashville Davidson,USA,Tennessee,488366,,
+Knoxville,USA,Tennessee,169761,-83.9833,35.8167
+Chattanooga,USA,Tennessee,152393,-85.2,35.0333
+Nashville,USA,Tennessee,455657,-86.4,36.1
+Houston,USA,Texas,1637859,-95.35,29.9667
+San Antonio,USA,Texas,959295,-98.4,29.3
+Dallas,USA,Texas,1007618,-96.85,32.85
+El Paso,USA,Texas,515342,,
+Austin,USA,Texas,472020,-97.7,30.3
+Fort Worth,USA,Texas,447619,-97.1,32.4
+Arlington,USA,Texas,261717,,
+Corpus Christi,USA,Texas,257453,-97.5,27.7667
+Lubbock,USA,Texas,186206,-101.817,33.65
+Plano,USA,Texas,127885,,
+Garland,USA,Texas,180635,,
+Irving,USA,Texas,155037,,
+Amarillo,USA,Texas,157571,-100.7,35.2333
+Laredo,USA,Texas,122899,-99.45,27.5333
+Brownsville,USA,Texas,107027,,
+Pasadena,USA,Texas,119604,,
+Mesquite,USA,Texas,101484,,
+Beaumont,USA,Texas,114323,-94.0167,29.95
+Grand Prairie,USA,Texas,99606,,
+Abilene,USA,Texas,106707,-99.6833,32.4167
+Waco,USA,Texas,103590,-97.2167,31.6167
+McAllen,USA,Texas,84021,,
+Wichita Falls,USA,Texas,96259,-98.4833,33.9667
+Salt Lake City,USA,Utah,159928,-112,40.4
+Montpelier,USA,Vermont,8241,-72.4,44.2
+Virginia Beach,USA,Virginia,393089,,
+Norfolk,USA,Virginia,261250,-76.2,36.9
+Richmond,USA,Virginia,202798,-77.3333,37.5
+Chesapeake,USA,Virginia,151982,,
+Newport News,USA,Virginia,171439,,
+Arlington,USA,Virginia,170897,,
+Hampton,USA,Virginia,133811,,
+Alexandria,USA,Virginia,111182,,
+Portsmouth,USA,Virginia,103910,,
+Seattle,USA,Washington,516259,,
+Spokane,USA,Washington,177165,,
+Tacoma,USA,Washington,176664,,
+Olympia,USA,Washington,27447,-122.9,46.9667
+Charleston,USA,West Virginia,63968,-81.6,38.3667
+Milwaukee,USA,Wisconsin,628088,-87.9,42.95
+Madison,USA,Wisconsin,190766,-89.2,43
+Green Bay,USA,Wisconsin,96466,-88.1333,44.4833
+Cheyenne,USA,Wyoming,47283,-104.817,41.15
+Washington,USA,Distr. Columbia,606900,-77,38.5
+George Town,CAYM,Cayman Islands,,-81.23,19.18
+San Jose,CR,San Jose,296600,-84.2,10
+Alajuela,CR,Alajuela,158300,,
+Cartago,CR,Cartago,109000,,
+Heredia,CR,Heredia,67400,,
+Liberia,CR,Guanacaste,36400,,
+Puntarenas,CR,Puntarenas,92400,-84.8,10
+Limon,CR,Limon,67800,-83,10
+Managua,NIC,Nicaragua,1195000,-86.25,12.1667
+Leon,NIC,Nicaragua,171375,,
+Chinandega,NIC,Nicaragua,101211,,
+Masaya,NIC,Nicaragua,100646,,
+Granada,NIC,Nicaragua,79418,-86,11.9
+Bocas del Toro,PA,Bocas del Toro,,,
+Penonome,PA,Cocle,61000,,
+Colon,PA,Colon,140900,,
+El Porvenir,PA,Comarca de San Blas,,,
+David,PA,Chiriqui,102700,,
+La Palma,PA,Darien,,,
+Chitre,PA,Herrera,34700,,
+Las Tablas,PA,Los Santos,21100,,
+Panama City,PA,Panama,594800,-79.55,8.96667
+San Miguelito,PA,Panama,243000,,
+Santiago,PA,Veraguas,61000,,
+Camaguey,C,Camaguey,293961,,
+Ciego de Avila,C,Ciego de Avila,,,
+Cienfuegos,C,Cienfuegos,132038,,
+Havana,C,Ciudad de la Habana,2241000,-82.35,23.1333
+Bayamo,C,Granma,137663,,
+Manzanillo,C,Granma,107650,,
+Guantanamo,C,Guantanamo,207796,,
+Holguin,C,Holguin,242085,,
+Victoria de las Tunas,C,Las Tunas,126930,,
+Matanzas,C,Matanzas,123843,,
+Pinar del Rio,C,Pinar del Rio,128570,,
+Sancti Spiritus,C,Sancti Spiritus,,,
+Santiago de Cuba,C,Santiago de Cuba,440084,,
+Santa Clara,C,Villa Clara,205400,,
+Nueva Gerona,C,Isla de la Juventud,,,
+Roseau,WD,Dominica,11000,-61.3,15.2
+Santo Domingo,DOM,Dominican Republic,1400000,-69.9,18.4833
+Port-au-Prince,RH,Haiti,800000,-72.2,18.4
+Nueva San Salvador,ES,El Salvador,116575,,
+San Salvador,ES,El Salvador,422570,-89.2167,13.7
+Soyapango,ES,El Salvador,251811,,
+Mejicanos,ES,El Salvador,145000,,
+Delgado,ES,El Salvador,104790,,
+Apopa,ES,El Salvador,100763,,
+Santa Ana,ES,El Salvador,202337,,
+La Ceiba,HCA,Atlantida,77100,,
+Tela,HCA,Atlantida,24000,,
+Trujillo,HCA,Colon,,,
+Comayagua,HCA,Comayagua,44300,,
+Santa Rosa de Copan,HCA,Copan,21500,,
+San Pedro Sula,HCA,Cortes,325900,,
+Puerto Cortes,HCA,Cortes,32500,,
+Choluteca,HCA,Choluteca,63200,,
+Danli,HCA,El Paraiso,35500,,
+Yuscaran,HCA,El Paraiso,,,
+Tegucigalpa,HCA,Francisco Morazan,670100,-87.2167,14.1
+Siguatepeque,HCA,Francisco Morazan,32200,,
+Puerto Lempira,HCA,Gracias a Dios,,,
+La Esperanza,HCA,Intibuca,,,
+Roatan,HCA,Islas de la Bahia,,,
+La Paz,HCA,La Paz,,,
+Gracias,HCA,Lempira,,,
+Ocotepeque,HCA,Ocotepeque,,,
+Jutigalpa,HCA,Olancho,22500,,
+Santa Barbara,HCA,Santa Barbara,,,
+Nacaome,HCA,Valle,,,
+El Progreso,HCA,Yoro,70000,,
+Olanchito,HCA,Yoro,15900,,
+Yoro,HCA,Yoro,,,
+Nuuk,GROX,Greenland,,-51.7,64.2
+Saint Georges,WG,Grenada,30000,-61.4,12.4
+Basse-Terre,GUAD,Guadeloupe,,-61.8,16.15
+Kingston,JA,Jamaica,101000,-76.5,18
+Fort-de-France,MART,Martinique,100000,-61,14.6
+Plymouth,MNTS,Montserrat,0,-62.13,16.42
+Willemstad,NA,Netherlands Antilles,125000,-68.9,12.1
+Marigot,SMAR,Saint Martin,5700,-63.1,18.1
+Leticia,CO,Amazonas,,,
+Medellin,CO,Antioquia,1621356,-75.6,6.21667
+Bello,CO,Antioquia,304819,,
+Itagui,CO,Antioquia,169374,,
+Turbo,CO,Antioquia,127045,,
+Envigado,CO,Antioquia,109240,,
+Arauca,CO,Arauca,,,
+Barranquilla,CO,Atlantico,1064255,-74.8,10.95
+Soledad,CO,Atlantico,264583,,
+Malambo,CO,Atlantico,112289,,
+Cartagena,CO,Bolivar,745689,,
+Mangangue,CO,Bolivar,104496,,
+Tunja,CO,Boyaca,120210,,
+Manizales,CO,Caldas,335125,,
+Florencia,CO,Caqueta,118027,,
+Yopal,CO,Casanare,,,
+Popayan,CO,Cauca,223128,,
+Valledupar,CO,Cesar,265505,,
+Quibdo,CO,Choco,130921,,
+Monteria,CO,Cordoba,276074,,
+Soacha,CO,Cundinamarca,266817,,
+Puerto Inirida,CO,Guainia,,,
+Cienaga,CO,La Guajira,144340,,
+Riohacha,CO,La Guajira,142455,,
+San Jose del Guaviare,CO,Guaviare,,,
+Neiva,CO,Huila,248178,,
+Santa Marta,CO,Magdalena,309372,,
+Villavicencio,CO,Meta,252711,,
+Pasto,CO,Narino,325540,,
+Tumaco,CO,Narino,114802,,
+Cucuta,CO,Norte de Santander,479309,,
+Mocoa,CO,Putumayo,,,
+Armenia,CO,Quindio,220303,,
+Pereira,CO,Risaralda,352530,,
+Dosquebradas,CO,Risaralda,163599,,
+San Andres,CO,San Andres y Providencia,,,
+Bogota,CO,Santa Fe de Bogota,5237635,-74.0833,4.6
+Bucaramanga,CO,Santander del Sur,351737,,
+Floridablanca,CO,Santander del Sur,246834,,
+Barrancabermeja,CO,Santander del Sur,180653,,
+Sincelejo,CO,Sucre,180076,,
+Ibague,CO,Tolima,346632,,
+Cali,CO,Valle de Cauca,1718871,-76.5,3.41667
+Buenaventura,CO,Valle de Cauca,266988,,
+Palmira,CO,Valle de Cauca,256823,,
+Tulua,CO,Valle de Cauca,138124,,
+Cartago,CO,Valle de Cauca,117166,,
+Mitu,CO,Vaupes,,,
+Puerto Carreno,CO,Vichada,,,
+San Juan,PR,Puerto Rico,,-66.12,18.49
+Basseterre,KN,Saint Kitts and Nevis,14700,-62.3,17
+Castries,WL,Saint Lucia,49000,-60.5,14
+Saint-Pierre,SPMI,Saint Pierre and Miquelon,5618,-56,47
+Kingstown,WV,Saint Vincent and the Grenadines,33694,-61.1,13.1
+Port-of-Spain,TT,Trinidad and Tobago,150000,-61.2,10.4
+Grand Turk,TUCA,Turks and Caicos Islands,,-71.08,21.28
+Charlotte Amalie,VIRG,Virgin Islands,,-64.9,18.3
+Pago Pago,AMSA,American Samoa,,-170.42,-14.16
+Newcastle,AUS,New South Wales,429000,,
+Sydney,AUS,New South Wales,3657000,151.2,-33.8667
+Wollongong,AUS,New South Wales,238000,,
+Sunshine Coast,AUS,New South Wales,110000,,
+Darwin,AUS,Northern Territory,68500,130.85,-12.4667
+Brisbane,AUS,Queensland,1302000,153.033,-27.4667
+Gold Coast,AUS,Queensland,266000,,
+Townsville,AUS,Queensland,114000,,
+Adelaide,AUS,South Australia,1050000,138.583,-34.9333
+Hobart,AUS,Tasmania,184000,147.14,-42.5
+Melbourne,AUS,Victoria,3081000,144.967,-37.8167
+Geelong,AUS,Victoria,151000,,
+Perth,AUS,Western Australia,1193000,115.85,-31.95
+Albany,AUS,Western Australia,,118,-35
+Canberra,AUS,Australia Capital Territory,310000,149.08,-35.1
+Avarua,COOK,Cook Islands,,-159.46,-21.12
+Suva,FJI,Fiji,69481,178,-19
+Papeete,FPOL,French Polynesia,,-149.34,-17.32
+Agana,GUAM,Guam,,144.44,13.28
+Dededo,GUAM,Guam,46000,144.8,13.5
+Tarawa,KIR,Kiribati,2100,173,1.4
+Majuro,MH,Marshall Islands,7600,171.3,7.1
+Kolonia,FSM,Micronesia,5500,158.2,7
+Palikir,FSM,Micronesia,6444,158.15,6.9
+Yaren,NAU,Nauru,,167,-1
+Noumea,NCA,New Caledonia,,166.27,-22.16
+Wellington,NZ,New Zealand,352030,174.767,-41.2833
+Auckland,NZ,New Zealand,952600,175,-36
+Christchurch,NZ,New Zealand,952600,172.66,-43.5
+Alofi,NIUE,Niue,,-169.9,-19.05
+Kingston,NORF,Norfolk Island,,168,-29
+Saipan,NMIS,Northern Mariana Islands,,145.45,15.12
+Koror,PAL,Palau,7685,134.5,7.3
+Melekeok,PAL,Palau,391,134.6,7.5
+Adamstown,PITC,Pitcairn Islands,,-130.05,-25.04
+Honiara,SLB,Solomon Islands,26000,160,-9.5
+Nukualofa,TO,Tonga,28899,-175.2,-21.1
+Funafuti,TUV,Tuvalu,2120,178,-8
+Port-Vila,VU,Vanuatu,15759,168.3,-17.75
+Mata-Utu,WAFU,Wallis and Futuna,,-171.56,-13.57
+Apia,WS,Samoa,36000,-171,-12
+La Plata,RA,Buenos Aires,642979,-58,-35
+La Matanza,RA,Buenos Aires,1111811,,
+Moron,RA,Buenos Aires,641541,,
+Lomas de Zamoras,RA,Buenos Aires,572769,,
+Mar del Plata,RA,Buenos Aires,512880,,
+Quilmes,RA,Buenos Aires,509445,,
+Lanus,RA,Buenos Aires,466755,,
+General San Martin,RA,Buenos Aires,407506,,
+Avellaneda,RA,Buenos Aires,346620,,
+San Isidro,RA,Buenos Aires,299022,,
+Vicente Lopez,RA,Buenos Aires,289142,,
+Bahia Blanca,RA,Buenos Aires,260096,,
+San Nicolas de los Arroyos,RA,Buenos Aires,119302,,
+San Fernando del Valle de Catamarca,RA,Catamarca,132626,-65.5,-28.3
+Resistencia,RA,Chaco,292350,-59,-27.3
+Comodoro Rivadavia,RA,Chubut,124104,,
+Rawson,RA,Chubut,52000,-65,-43.1
+Cordoba,RA,Cordoba,1208713,-64.25,-31.3667
+Rio Cuarto,RA,Cordoba,138853,,
+Corrientes,RA,Corrientes,258103,-58.4,-27.3
+Parana,RA,Entre Rios,211936,-60,-32
+Concordia,RA,Entre Rios,116485,,
+Formosa,RA,Formosa,148074,-58.1,-26.5
+San Salvador de Jujuy,RA,Jujuy,180102,-65.2,-24.1
+Santa Rosa,RA,La Pampa,107000,-64.2,-36.4
+La Rioja,RA,La Rioja,103727,-67,-29.3
+Mendoza,RA,Mendoza,773113,-69,-33
+Posadas,RA,Misiones,210755,-56,-27.3
+Neuquen,RA,Neuquen,243803,-68,-39
+Viedma,RA,Rio Negro,25000,-63.1,-40.5
+Salta,RA,Salta,370904,-65.3,-24.5
+San Juan,RA,San Juan,352691,-68.3,-31.3
+San Luis,RA,San Luis,110136,-66.2,-33.2
+Rio Gallegos,RA,Santa Cruz,43000,-69.2,-51.4
+Santa Fe,RA,Santa Fe,406388,-60.5,-31.5
+Rosario,RA,Santa Fe,1118984,-60.5,-33
+Santiago del Estero La Banda,RA,Santiago de Estero,263471,,
+Santiago del Estero,RA,Santiago de Estero,148000,-64.2,-28
+Ushuaia,RA,Tierra del Fuego,3000,-68.3,-54.5
+San Miguel de Tucuman,RA,Tucuman,622324,-65.2,-26.5
+Buenos Aires,RA,Distrito Federal,2988006,-58.4833,-34.5833
+La Paz,BOL,Bolivia,953400,-68.15,-16.5
+Sucre,BOL,Bolivia,110000,-65.1,-19
+Cochabamba,BOL,Bolivia,304000,-66,-17.1
+Rio Branco,BR,Acre,228907,-67.5,-9.5
+Maceio,BR,Alagoas,723156,-35.5,-9.3
+Macapa,BR,Amapa,214197,-52,0.5
+Manaus,BR,Amazonas,1158265,-60,-3.1
+Salvador,BR,Bahia,2209465,-38.5,-13
+Feira de Santana,BR,Bahia,449960,,
+Ilheus,BR,Bahia,242589,,
+Vitoria da Conquista,BR,Bahia,241776,,
+Itabuna,BR,Bahia,183237,,
+Juazeiro,BR,Bahia,171904,,
+Jequie,BR,Bahia,165361,,
+Camacari,BR,Bahia,134768,,
+Alagoinhas,BR,Bahia,122882,,
+Barreiras,BR,Bahia,113544,,
+Fortaleza,BR,Ceara,1967365,-38.55,-3.76667
+Caucaia,BR,Ceara,208902,,
+Juazeiro do Norte,BR,Ceara,186490,,
+Maracanau,BR,Ceara,160088,,
+Sobral,BR,Ceara,138274,,
+Cariacica,BR,Espirito Santo,300085,,
+Vila Velha,BR,Espirito Santo,297052,,
+Serra,BR,Espirito Santo,266851,,
+Vitoria,BR,Espirito Santo,263708,-40.3,-20.2
+Cachoeiro de Itapemirim,BR,Espirito Santo,147283,,
+Colatina,BR,Espirito Santo,103621,,
+Linhares,BR,Espirito Santo,103030,,
+Goiania,BR,Goias,998520,-49.2,-16.3
+Anapolis,BR,Goias,264873,,
+Araguaina,BR,Goias,105000,,
+Luziania,BR,Goias,104840,,
+Rio Verde,BR,Goias,100223,,
+Sao Luis,BR,Maranhao,781068,-44.1,-2.3
+Imperatriz,BR,Maranhao,227731,,
+Caxias,BR,Maranhao,133710,,
+Timon,BR,Maranhao,118332,,
+Codo,BR,Maranhao,104825,,
+Parnaiba,BR,Maranhao,124641,,
+Cuiaba,BR,Mato Grosso,433101,-56,-15.3
+Varzea Grande,BR,Mato Grosso,190374,,
+Rondonopolis,BR,Mato Grosso,142221,,
+Campo Grande,BR,Mato Grosso do Sul,598216,,
+Dourados,BR,Mato Grosso do Sul,153165,,
+Belo Horizonte,BR,Minas Gerais,2091770,-43.95,-19.9333
+Contagem,BR,Minas Gerais,491268,,
+Betim,BR,Minas Gerais,249795,,
+Ribeirao das Neves,BR,Minas Gerais,197147,,
+Ibirite,BR,Minas Gerais,106773,,
+Uberlandia,BR,Minas Gerais,437111,,
+Juiz de Fora,BR,Minas Gerais,423913,,
+Montes Claros,BR,Minas Gerais,271324,,
+Uberaba,BR,Minas Gerais,232134,,
+Governador Valadares,BR,Minas Gerais,231077,,
+Ipatinga,BR,Minas Gerais,195736,,
+Divinopolis,BR,Minas Gerais,171562,,
+Sete Lagoas,BR,Minas Gerais,167112,,
+Teofilo Otoni,BR,Minas Gerais,127214,,
+Pocos de Caldas,BR,Minas Gerais,121845,,
+Patos de Minas,BR,Minas Gerais,112690,,
+Itapecerica da Serra,BR,Minas Gerais,110362,,
+Barbacena,BR,Minas Gerais,107843,,
+Sabara,BR,Minas Gerais,100570,,
+Varginha,BR,Minas Gerais,100079,,
+Belem,BR,Para,1142258,-48.4833,-1.45
+Abaetetuba,BR,Para,106753,,
+Ananindeua,BR,Para,342905,,
+Santarem,BR,Para,242765,,
+Maraba,BR,Para,147030,,
+Castanhal,BR,Para,117747,,
+Itaituba,BR,Para,104896,,
+Joao Pessoa,BR,Paraiba,549270,-35,-7.1
+Campina Grande,BR,Paraiba,340412,,
+Santa Luzia,BR,Paraiba,152682,,
+Santa Rita,BR,Paraiba,105584,,
+Curitiba,BR,Parana,1465698,-49.2833,-25.4167
+Sao Jose dos Pinhais,BR,Parana,167286,,
+Londrina,BR,Parana,412894,,
+Maringa,BR,Parana,267878,,
+Ponta Grossa,BR,Parana,252674,,
+Foz do Iguacu,BR,Parana,231596,,
+Cascavel,BR,Parana,219623,,
+Colombo,BR,Parana,153583,,
+Guarapuava,BR,Parana,149158,,
+Paranagua,BR,Parana,115394,,
+Apucarana,BR,Parana,101005,,
+Recife,BR,Pernambuco,1342877,-34.8833,-8.06667
+Cabo de Santo Agostinho,BR,Pernambuco,137295,,
+Jaboatao dos Guararapes,BR,Pernambuco,528973,,
+Paulista,BR,Pernambuco,234706,,
+Caruaru,BR,Pernambuco,231874,,
+Gravatai,BR,Pernambuco,205657,,
+Petrolina,BR,Pernambuco,190453,,
+Vitoria de Santo Antao,BR,Pernambuco,111575,,
+Camaragibe,BR,Pernambuco,111190,,
+Garanhuns,BR,Pernambuco,110190,,
+Teresina,BR,Piaui,653994,-42.5,-5
+Rio de Janeiro,BR,Rio de Janeiro,5533011,-43.2,-23
+Campos dos Goytacazes,BR,Rio de Janeiro,391299,,
+Sao Goncalo,BR,Rio de Janeiro,827967,,
+Novo Iguacu,BR,Rio de Janeiro,801036,,
+Duque de Caxias,BR,Rio de Janeiro,712370,,
+Niteroi,BR,Rio de Janeiro,450129,,
+Sao Joao de Meriti,BR,Rio de Janeiro,433713,,
+Belfort Roxo,BR,Rio de Janeiro,393520,,
+Olinda,BR,Rio de Janeiro,355741,,
+Petropolis,BR,Rio de Janeiro,267604,,
+Volta Redonda,BR,Rio de Janeiro,228939,,
+Mage,BR,Rio de Janeiro,180550,,
+Nova Friburgo,BR,Rio de Janeiro,169218,,
+Barra Mansa,BR,Rio de Janeiro,164768,,
+Itaborai,BR,Rio de Janeiro,156631,,
+Nilopolis,BR,Rio de Janeiro,155190,,
+Teresopolis,BR,Rio de Janeiro,122614,,
+Macae,BR,Rio de Janeiro,112966,,
+Queimados,BR,Rio de Janeiro,108531,,
+Cabo Frio,BR,Rio de Janeiro,101142,,
+Natal,BR,Rio Grande do Norte,656244,-35.1,-5.5
+Mossoro,BR,Rio Grande do Norte,205732,,
+Porto Alegre,BR,Rio Grande do Sul,1286251,-51.2167,-30.0333
+Alvorada,BR,Rio Grande do Sul,160671,,
+Sapucaia do Sul,BR,Rio Grande do Sul,113992,,
+Caxias do Sul,BR,Rio Grande do Sul,326222,,
+Pelotas,BR,Rio Grande do Sul,304285,,
+Canoas,BR,Rio Grande do Sul,284114,,
+Santa Maria,BR,Rio Grande do Sul,226226,,
+Novo Hamburgo,BR,Rio Grande do Sul,225082,,
+Viamao,BR,Rio Grande do Sul,195880,,
+Sao Leopoldo,BR,Rio Grande do Sul,180741,,
+Rio Grande,BR,Rio Grande do Sul,178223,,
+Passo Fundo,BR,Rio Grande do Sul,156352,,
+Uruguaiana,BR,Rio Grande do Sul,121825,,
+Bage,BR,Rio Grande do Sul,114091,,
+Santa Cruz do Sul,BR,Rio Grande do Sul,100562,,
+Porto Velho,BR,Rondonia,293815,-63.5,-8.5
+Boa Vista,BR,Roraima,154166,-60.4,2.5
+Joinvile,BR,Santa Catarina,397987,,
+Florianopolis,BR,Santa Catarina,268551,-58.3,-27.3
+Blumenau,BR,Santa Catarina,230988,,
+Criciuma,BR,Santa Catarina,159033,,
+Praia Grande,BR,Santa Catarina,150574,,
+Sao Jose,BR,Santa Catarina,147490,,
+Lages,BR,Santa Catarina,140005,,
+Itajai,BR,Santa Catarina,134797,,
+Chapeco,BR,Santa Catarina,130458,,
+Sao Paulo,BR,Sao Paulo,9811776,-46.6333,-23.55
+Santa Barbara dOeste,BR,Sao Paulo,161020,,
+Sumare,BR,Sao Paulo,167751,,
+Hortolandia,BR,Sao Paulo,114885,,
+Guarulhos,BR,Sao Paulo,972766,,
+Campinas,BR,Sao Paulo,907996,,
+Sao Bernardo do Campo,BR,Sao Paulo,658791,,
+Santo Andre,BR,Sao Paulo,625294,,
+Osasco,BR,Sao Paulo,622374,,
+Sao Jose dos Campos,BR,Sao Paulo,485780,,
+Ribeirao Preto,BR,Sao Paulo,452804,,
+Sorocaba,BR,Sao Paulo,431370,,
+Santos,BR,Sao Paulo,412288,,
+Maua,BR,Sao Paulo,344684,,
+Carapicuiba,BR,Sao Paulo,328015,,
+Sao Jose do Rio Preto,BR,Sao Paulo,323418,,
+Diadema,BR,Sao Paulo,323221,,
+Moji das Cruzes,BR,Sao Paulo,314947,,
+Piracicaba,BR,Sao Paulo,302605,,
+Jundiai,BR,Sao Paulo,293237,,
+Bauru,BR,Sao Paulo,293026,,
+Sao Vicente,BR,Sao Paulo,279620,,
+Franca,BR,Sao Paulo,266909,,
+Aparecida de Goiania,BR,Sao Paulo,265446,,
+Limeira,BR,Sao Paulo,230292,,
+Itaquaquecetuba,BR,Sao Paulo,228533,,
+Guaruja,BR,Sao Paulo,226185,,
+Taubate,BR,Sao Paulo,220179,,
+Embu,BR,Sao Paulo,195676,,
+Taboao da Serra,BR,Sao Paulo,182441,,
+Suzano,BR,Sao Paulo,180703,,
+Marilia,BR,Sao Paulo,177503,,
+Presidente Prudente,BR,Sao Paulo,177236,,
+Barueri,BR,Sao Paulo,176740,,
+Sao Carlos,BR,Sao Paulo,175295,,
+Jacarei,BR,Sao Paulo,168030,,
+Americana,BR,Sao Paulo,167901,,
+Araraquara,BR,Sao Paulo,163831,,
+Aracatuba,BR,Sao Paulo,162546,,
+Rio Claro,BR,Sao Paulo,153025,,
+Sao Caetano do Sul,BR,Sao Paulo,140808,,
+Itapevi,BR,Sao Paulo,133769,,
+Cotia,BR,Sao Paulo,127047,,
+Itu,BR,Sao Paulo,122544,,
+Indaiatuba,BR,Sao Paulo,122159,,
+Ferraz de Vasconcelos,BR,Sao Paulo,121992,,
+Moji Guacu,BR,Sao Paulo,114555,,
+Pindamonhangaba,BR,Sao Paulo,114092,,
+Itapetininga,BR,Sao Paulo,111909,,
+Braganca Paulista,BR,Sao Paulo,109863,,
+Francisco Morato,BR,Sao Paulo,106328,,
+Barretos,BR,Sao Paulo,104782,,
+Jau,BR,Sao Paulo,103605,,
+Catanduva,BR,Sao Paulo,100913,,
+Botucatu,BR,Sao Paulo,100826,,
+Ribeirao Pires,BR,Sao Paulo,100335,,
+Aracaju,BR,Sergipe,426580,-37.1,-11
+Arapiraca,BR,Sergipe,173351,,
+Nossa Senhora do Socorro,BR,Sergipe,103496,,
+Palmas,BR,Tocantins,,,
+Brasilia,BR,Distrito Federal,1817001,-47.9167,-15.8667
+Santiago,RCH,Chile,4318000,-70.7,-33.45
+Valparaiso,RCH,Chile,267000,-71.3,-33.1
+Asuncion,PY,Paraguay,729307,-57.3,-25.5
+Montevideo,ROU,Uruguay,1247000,-56.2167,-34.85
+Chachapoyas,PE,Amazonas,,,
+Chimbote,PE,Ancash,268979,,
+Huaraz,PE,Ancash,,,
+Abancay,PE,Apurimac,,,
+Arequipa,PE,Arequipa,619156,,
+Ayacucho,PE,Ayacucho,105918,,
+Cajamarca,PE,Cajamarca,92447,,
+Callao,PE,Callao,,,
+Cuzco,PE,Cuzco,255568,-72,-13.2
+Huancavelica,PE,Huancavelica,,,
+Huanuco,PE,Huanuco,118814,,
+Ica,PE,Ica,161406,,
+Chincha Alta,PE,Ica,110016,,
+Huancayo,PE,Junin,258209,,
+Trujillo,PE,La Libertad,509312,,
+Chiclayo,PE,Lambayeque,411536,,
+Lima,PE,Lima,6321173,-77.05,-12.0833
+Iquitos,PE,Loreto,274759,-73.2,-3.4
+Puerto Maldonado,PE,Madre de Dios,,,
+Moquegua,PE,Moquegua,,,
+Cerro de Pasco,PE,Pasco,,,
+Piura,PE,Piura,277964,,
+Sullana,PE,Piura,147361,,
+Talara,PE,Piura,82228,,
+Puno,PE,Puno,91877,,
+Juliaca,PE,Puno,142576,,
+Moyobamba,PE,San Martin,,,
+Tacna,PE,Tacna,174336,,
+Tumbes,PE,Tumbes,,,
+Pucallpa,PE,Ucayali,172286,,
+Cayenne,FGU,French Guiana,38155,-52.45,4.93333
+Georgetown,GUY,Guyana,170000,-58.2,6.83333
+Paramaribo,SME,Suriname,150000,-55.15,5.81667
+Puerto Ayacucho,YV,Amazonas,,,
+Barcelona,YV,Anzoategui,221792,,
+Puerto La Cruz,YV,Anzoategui,155731,,
+San Fernando,YV,Apure,,,
+Maracay,YV,Aragua,354196,,
+Turmero,YV,Aragua,174280,,
+Barinas,YV,Barinas,153630,,
+Ciudad Bolivar,YV,Bolivar,225340,,
+Ciudad Guayana,YV,Bolivar,453047,,
+Valencia,YV,Carabobo,903621,,
+Puerto Cabello,YV,Carabobo,128825,,
+Guacara,YV,Carabobo,100766,,
+San Carlos,YV,Cojedes,,,
+Tucupita,YV,Delta Amacuro,,,
+Coro,YV,Falcon,,,
+San Juan,YV,Guarico,,,
+Barquisimeto,YV,Lara,625450,,
+Merida,YV,Merida,170902,,
+Los Teques,YV,Miranda,140617,,
+Petare,YV,Miranda,338417,,
+Baruta,YV,Miranda,182941,,
+Guarenas,YV,Miranda,134158,,
+Maturin,YV,Monagas,206654,,
+La Ascuncion,YV,Nueva Esparta,,,
+Acarigua,YV,Portuguesa,116551,,
+Guanare,YV,Portuguesa,,,
+Cumana,YV,Sucre,212432,,
+San Cristobal,YV,Tachira,220675,,
+Trujillo,YV,Trujillo,,,
+San Felipe,YV,Yaracuy,,,
+Maracaibo,YV,Zulia,1249670,-71.6,10.65
+Cabimas,YV,Zulia,165755,,
+Caracas,YV,Distrito Federal,1822465,-66.9333,10.5
+Catia La Mar,YV,Distrito Federal,100104,,
+Quito,EC,Ecuador,1200000,-78.5333,-0.216667
+Guayaquil,EC,Ecuador,1300868,-80,-2
+Stanley,FALK,Falkland Islands,,-57.51,-51.42
+Algier,DZ,Algeria,1507241,3.05,36.7667
+Annaba,DZ,Algeria,222518,,
+Batna,DZ,Algeria,181601,,
+Bechar,DZ,Algeria,107311,,
+Sidi bel Abbes,DZ,Algeria,152778,,
+Skikda,DZ,Algeria,128747,,
+Tebessa,DZ,Algeria,107559,,
+Oran,DZ,Algeria,609823,0.4,35.4
+Constantine,DZ,Algeria,440842,,
+Setif,DZ,Algeria,170182,,
+Blida,DZ,Algeria,127284,,
+Bejaia,DZ,Algeria,114534,,
+Mostaganem,DZ,Algeria,114037,,
+Tlemcen,DZ,Algeria,107632,,
+Tripoli,LAR,Libya,,22.3,37.3
+Bengasi,LAR,Libya,,20,32
+Bamako,RMM,Mali,,-7.6,12.3
+Nouakchott,RIM,Mauritania,,-16,18
+Rabat,MA,Morocco,1385872,-6.5,33.6
+Agadir,MA,Morocco,550200,,
+Fes,MA,Morocco,774754,,
+Kenitra,MA,Morocco,448785,,
+Khouribga,MA,Morocco,294680,,
+Marrakech,MA,Morocco,745541,,
+Meknes,MA,Morocco,530171,,
+Oujda,MA,Morocco,678778,,
+Safi,MA,Morocco,376038,,
+Tanger,MA,Morocco,526215,,
+Casablanca,MA,Morocco,2940623,-7.65,33.5833
+Beni Mellal,MA,Morocco,386505,,
+Tetouan,MA,Morocco,367349,,
+Niamey,RN,Niger,,2.1,13.2
+Tunis,TN,Tunisia,,10.2,36.7833
+El Aaiun,WSA,Western Sahara,,-13.2,27.05
+Cabinda,ANG,Cabinda,,,
+Mbanza Congo,ANG,Zaire,,,
+Uige,ANG,Uige,,,
+Luanda,ANG,Luanda,,13.2,-8.6
+Ndalatando,ANG,Cuanza Norte,,,
+Sumbe,ANG,Cuanza Sul,,,
+Malanje,ANG,Malanje,,,
+Lucapa,ANG,Lunda Norte,,,
+Saurimo,ANG,Lunda Sul,,,
+Benguela,ANG,Benguela,,,
+Huambo,ANG,Huambo,,,
+Bie,ANG,Bie,,,
+Luena,ANG,Moxico,,,
+Menongue,ANG,Cuando Cubango,,,
+Namibe,ANG,Namibe,,,
+Lubango,ANG,Huila,,,
+Caxito,ANG,Bengo,,,
+Ngiva,ANG,Cunene,,,
+Brazzaville,RCB,Congo,,15.25,-4.25
+Windhoek,NAM,Namibia,,17.2,-22.3
+Kikwit,ZRE,Bandundu,182142,,
+Bandundu,ZRE,Bandundu,,17.4,3.3
+Matadi,ZRE,Bas Zaire,172730,,
+Boma,ZRE,Bas Zaire,135284,,
+Mbandaka,ZRE,Equateur,169841,,
+Kisangani,ZRE,Haut Zaire,417517,25.2,0.5
+Kananga,ZRE,Kasai Occidental,393030,,
+Tshikapa,ZRE,Kasai Occidental,180860,,
+Mbuji Mayi,ZRE,Kasai Oriental,806475,,
+Mwene Ditu,ZRE,Kasai Oriental,137459,,
+Bukavu,ZRE,Kivu,201569,,
+Uvira,ZRE,Kivu,115590,,
+Butembo,ZRE,Kivu,109406,,
+Goma,ZRE,Kivu,109094,,
+Lubumbashi,ZRE,Shaba/Katanga,851381,,
+Kolwezi,ZRE,Shaba/Katanga,417810,,
+Likasi,ZRE,Shaba/Katanga,299118,,
+Kalemie,ZRE,Shaba/Katanga,101309,29.2,-5.9
+Kinshasa,ZRE,Kinshasa,4655313,15.2,-4.3
+Kabwe,Z,Central,166519,,
+Ndola,Z,Copperbelt,376311,,
+Kitwe,Z,Copperbelt,338207,,
+Chingola,Z,Copperbelt,167954,,
+Mufulira,Z,Copperbelt,152944,,
+Luanshya,Z,Copperbelt,146275,,
+Chipata,Z,Eastern,,,
+Mansa,Z,Luapula,,,
+Lusaka,Z,Lusaka,982362,28.2,-15.3
+Kasama,Z,Northern,,,
+Solwezi,Z,Northwestern,,,
+Livingstone,Z,Southern,,,
+Mongu,Z,Western,,,
+Porto-Novo,BEN,Benin,,2.4,6.3
+Ouagadougou,BF,Burkina Faso,,-2,12
+Abuja,WAN,Nigeria,182418,7.5,9.05
+Makurdi,WAN,Nigeria,109000,,
+Maiduguri,WAN,Nigeria,282000,,
+Calabar,WAN,Nigeria,154000,,
+Benin City,WAN,Nigeria,203000,,
+Enugu,WAN,Nigeria,279000,,
+Kaduna,WAN,Nigeria,302000,,
+Kano,WAN,Nigeria,595000,,
+Katsina,WAN,Nigeria,182000,,
+Ilorin,WAN,Nigeria,420000,,
+Lagos,WAN,Nigeria,5686000,3.4,6.45
+Minna,WAN,Nigeria,120000,,
+Abeokuta,WAN,Nigeria,377000,,
+Ondo,WAN,Nigeria,150000,,
+Akure,WAN,Nigeria,143000,,
+Oshogbo,WAN,Nigeria,421000,,
+Oyo,WAN,Nigeria,226000,,
+Ibadan,WAN,Nigeria,1263000,,
+Jos,WAN,Nigeria,182000,,
+Port Harcourt,WAN,Nigeria,362000,,
+Sokoto,WAN,Nigeria,181000,,
+Ogbomosho,WAN,Nigeria,644000,,
+Zaria,WAN,Nigeria,335000,,
+Ilesha,WAN,Nigeria,334000,,
+Onitsha,WAN,Nigeria,328000,,
+Iwo,WAN,Nigeria,320000,,
+Ado Ekiti,WAN,Nigeria,317000,,
+Mushin,WAN,Nigeria,294000,,
+Ede,WAN,Nigeria,271000,,
+Aba,WAN,Nigeria,264000,,
+Ife,WAN,Nigeria,262000,,
+Ila,WAN,Nigeria,233000,,
+Ikerre,WAN,Nigeria,216000,,
+Iseyin,WAN,Nigeria,192000,,
+Ilobu,WAN,Nigeria,176000,,
+Offa,WAN,Nigeria,175000,,
+Ikorodu,WAN,Nigeria,163000,,
+Ilawe Ekiti,WAN,Nigeria,163000,,
+Owo,WAN,Nigeria,162000,,
+Ikirun,WAN,Nigeria,160000,,
+Shaki,WAN,Nigeria,154000,,
+Gusau,WAN,Nigeria,139000,,
+Ijebu Ode,WAN,Nigeria,138000,,
+Effon Alaiye,WAN,Nigeria,135000,,
+Kumo,WAN,Nigeria,131000,,
+Shomolu,WAN,Nigeria,130000,,
+Oka,WAN,Nigeria,126000,,
+Ikare,WAN,Nigeria,124000,,
+Sapele,WAN,Nigeria,123000,,
+Deba Habe,WAN,Nigeria,122000,,
+Aarri,WAN,Nigeria,111000,,
+Bida,WAN,Nigeria,111000,,
+Ikire,WAN,Nigeria,109000,,
+Lafia,WAN,Nigeria,108000,,
+Inisa,WAN,Nigeria,106000,,
+Shagamu,WAN,Nigeria,104000,,
+Lome,RT,Togo,,1.1,6.1
+Gaborone,RB,Botswana,,25.6,-24.5
+Port Elizabeth,RSA,Eastern Cape,303000,,
+East London,RSA,Eastern Cape,102000,,
+Bisho,RSA,Eastern Cape,93288,,
+Bloemfontein,RSA,Free State,127000,,
+Pretoria,RSA,Gauteng,526000,28.2333,-25.75
+Johannesburg,RSA,Gauteng,713000,28.05,-26.1833
+Soweto,RSA,Gauteng,597000,,
+Tembisa,RSA,Gauteng,209000,,
+Boksburg,RSA,Gauteng,120000,,
+Carletonville,RSA,Gauteng,119000,,
+Benoni,RSA,Gauteng,114000,,
+Pietermaritzburg,RSA,Kwazulu Natal,156000,,
+Durban,RSA,Kwazulu Natal,716000,,
+Nelspruit,RSA,Mpumalanga,,,
+Kimberley,RSA,Northern Cape,,,
+Pietersburg,RSA,Limpopo,,,
+Mmabatho,RSA,North West,,,
+Cape Town,RSA,Western Cape,855000,18.4833,-33.9333
+Harare,ZW,Zimbabwe,,31.2,-17.5
+Yamoussoukro,CI,Cote dIvoire,200659,-5.3,6.8
+Abidjan,CI,Cote dIvoire,,-4,5.3
+Accra,GH,Ghana,867459,-0.2,5.55
+Kumasi,GH,Ghana,376249,,
+Cape Coast,GH,Ghana,57224,,
+Tamale,GH,Ghana,135952,,
+Tema,GH,Ghana,131528,,
+Takoradi,GH,Ghana,61484,,
+Sekondi,GH,Ghana,31916,,
+Bujumbura,BI,Burundi,,29,-4
+Kigali,RWA,Rwanda,,29.6,-1.6
+Dodoma,EAT,Dodoma,203833,,
+Arusha,EAT,Arusha,134708,,
+Moshi,EAT,Kilimanjaro,,,
+Tanga,EAT,Tanga,187155,,
+Morogoro,EAT,Morogoro,117760,,
+Dar es Salaam,EAT,Daressalam,1360850,39.3,-6.83333
+Lindi,EAT,Lindi,,,
+Mtwara Mikandani,EAT,Mtwara,,,
+Songea,EAT,Ruvuma,,,
+Iringa,EAT,Iringa,,,
+Mbeya,EAT,Mbeya,152844,,
+Singida,EAT,Singida,,,
+Tabora,EAT,Tabora,,,
+Sumbawanga,EAT,Rukwa,,,
+Kigoma Ujiji,EAT,Kigoma,,,
+Shinyanga,EAT,Shinyanga,100724,,
+Bukoba,EAT,Kagera,,,
+Mwanza,EAT,Mwanza,223013,,
+Musoma,EAT,Mara,,,
+Mkokotoni,EAT,Kaskazini Ujunga,,,
+Koani,EAT,Kusini Ujunga,,,
+Zanzibar,EAT,Mjini Magharibi,157634,,
+Wete,EAT,Kaskazini Pemba,,,
+Chake Cahke,EAT,Kusini Pemba,,,
+Ngaoundere,CAM,Adamaoua,,,
+Yaounde,CAM,Centre,750000,12,3.5
+Bertoua,CAM,Est,,,
+Maroua,CAM,Nord extreme,143000,,
+Douala,CAM,Cote/Littoral,884000,10,3.5
+Garoua,CAM,Nord,177000,,
+Bamenda,CAM,Nordoueste,138000,,
+Bafoussam,CAM,Ouest,131000,,
+Ebolowa,CAM,Sud,,,
+Buea,CAM,Sudoueste,,,
+Bangui,RCA,Central African Republic,,18.5,4.3
+NDjamena,TCH,Chad,,15,12
+Malabo,GQ,Equatorial Guinea,33000,9,4
+Libreville,G,Gabon,,9.3,0.3
+Praia,CV,Cape Verde,105000,-23,16
+Malakal,SUD,Aali an Nil,,,
+Waw,SUD,Bahr al Ghazal,,,
+Nyala,SUD,Darfur,228778,,
+al Fasher,SUD,Darfur,,,
+Juba,SUD,al Istiwaiyah,114980,,
+Khartoum,SUD,al Khartum,924505,32.55,15.6167
+Omdurman,SUD,al Khartum,1267077,,
+Khartoum North,SUD,al Khartum,879105,,
+al Ubayyid,SUD,Kurdufan,228096,,
+ad Damir,SUD,ash Shamaliyah,,,
+Kassala,SUD,ash Sharqiyah,234270,,
+Port Sudan,SUD,ash Sharqiyah,305385,,
+al Qadarif,SUD,ash Sharqiyah,189384,,
+Wad Madani,SUD,Nil al Asraq,218714,,
+Moroni,COM,Comoros,,43,-12
+Conakry,RG,Guinea,,-13.5,9.3
+Monrovia,LB,Liberia,,-10.8,6.3
+Djibouti,DJI,Djibouti,,43.1,11.5
+Asmara,ER,Eritrea,,38.9167,15.2833
+Addis Ababa,ETH,Ethiopia,2316400,38.75,9
+Dire Dawa,ETH,Ethiopia,194587,,
+Gonder,ETH,Ethiopia,166593,,
+Nazret,ETH,Ethiopia,147088,,
+Harer,ETH,Ethiopia,122932,,
+Mekele,ETH,Ethiopia,119779,,
+Jima,ETH,Ethiopia,119717,,
+Dese,ETH,Ethiopia,117268,,
+Bahir Dar,ETH,Ethiopia,115531,,
+Debrezit,ETH,Ethiopia,105963,,
+Mogadishu,SP,Somalia,,45.3,2.2
+Nyeri,EAK,Central,88600,,
+Thika,EAK,Central,57100,,
+Mombasa,EAK,Coast,465000,39.4,-4
+Malindi,EAK,Coast,35200,,
+Machakos,EAK,Eastern,116100,,
+Meru,EAK,Eastern,78100,,
+Embu,EAK,Eastern,,,
+Nairobi,EAK,Nairobi,1346000,36.8,-1.26667
+Garissa,EAK,North Eastern,,,
+Kisumu,EAK,Nyanza,185100,,
+Kisii,EAK,Nyanza,44000,,
+Nakuru,EAK,Rift Valley,162800,,
+Eldoret,EAK,Rift Valley,104900,,
+Kitale,EAK,Rift Valley,53000,,
+Kericho,EAK,Rift Valley,40000,,
+Kakamega,EAK,Western,47300,,
+Banjul,WAG,Gambia,,-17,13.5
+Dakar,SN,Dakar,1382000,-17.4833,14.7
+Diourbel,SN,Diourbel,,,
+Fatick,SN,Fatick,,,
+Kaolack,SN,Kaolack,132000,,
+Kolda,SN,Kolda,,,
+Louga,SN,Louga,,,
+Saint Louis,SN,Saint Louis,122000,,
+Tambacounda,SN,Tambacounda,,,
+Thies,SN,Thies,156000,,
+Ziguinchor,SN,Ziguinchor,107000,,
+Bissau,GNB,Guinea-Bissau,,-15.5,11.5
+Freetown,WAL,Sierra Leone,,-13.1,8.2
+Kampala,EAU,Uganda,,32.3,0.2
+Maseru,LS,Lesotho,75000,27.5,-29.3
+Antsiranana,RM,Antsiranana,220000,,
+Antananarivo,RM,Antananarivo,1250000,47.4,-18.6
+Antsirabe,RM,Antananarivo,100000,,
+Fianarantsoa,RM,Fianarantsoa,300000,,
+Majunga,RM,Mahajanga,200000,,
+Tamatave,RM,Toamasina,230000,,
+Toliara,RM,Toliara,150000,,
+Lilongwe,MW,Malawi,,34,-14
+Pemba,MOC,Cabo Delgado,,,
+Xai Xai,MOC,Gaza,,34,-25.2
+Inhambane,MOC,Inhambane,,,
+Chimoio,MOC,Manica,108818,,
+Nacala,MOC,Maputo,125208,,
+Matala,MOC,Maputo,337239,,
+Nampula,MOC,Nampula,250473,,
+Lichinga,MOC,Niassa,,,
+Beira,MOC,Sofala,298847,,
+Tete,MOC,Tete,112221,,
+Quelimane,MOC,Zambezia,146206,,
+Maputo,MOC,Maputo (munic.),931591,33,-26
+Port Louis,MS,Mauritius,,57.3,-20.3
+Mamoutzou,MAYO,Mayotte,,45.13,-12.46
+Mbabane,SD,Swaziland,,31.1,-25
+Saint-Denis,REUN,Reunion,158139,55.5,-20.9
+Jamestown,HELX,Saint Helena,,-5.44,-15.56
+Sao Tome,STP,Sao Tome and Principe,,7,0
+Victoria,SY,Seychelles,24570,55.5,-4.65

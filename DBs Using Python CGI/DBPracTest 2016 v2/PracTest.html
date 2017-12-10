@@ -1,0 +1,169 @@
+<html>
+<head>
+	<style>
+		body {
+			background: silver;
+		}
+		.section, .sample, #allsamples {
+			padding: 3px;
+			margin: 5px;
+		}
+		.section {
+			border: solid 3px blue;
+		}
+		#allsamples {
+			border: solid 3px red;
+			background: orange;
+		}
+		.sample {
+			border: solid 3px red;
+			background: lightblue;
+		}
+		h4 {
+			color: green;
+			font-size: large;
+			margin-bottom: 1px;
+			margin-top: 1px;
+		}
+		form {
+			margin-bottom: 1px;
+		}
+		p {
+			font-size: medium;
+		}
+	</style>
+</head>
+<body>
+	<h1>12 CSC ATAR - Database Practical Test</h1>
+	<p>Complete the following questions by adding the necessary SQL statements to the relevant files.</p>
+	<p>The test it out of <b>38</b>.</p>
+	<div class="section">
+		<h4>Question 1 - Create Database (5 marks)</h4>
+		<p>Create fresh tables for the database.</p>
+		<p>Using the data dictionary that has been provided, create the Employee table</p>
+		<form action="qry1_create_DB.py">
+			<input type="submit" value="Create Database">
+		</form>
+	</div>
+	<div class="section">
+		<h4>Question 2 - Insert Data (6 marks)</h4>
+		<p>Insert data into the database.</p>
+		<p>Using the sample that has been provided, insert the correct values into the Employee table</p>
+		<form action="qry2_insert_data.py">
+			<input type="submit" value="Insert Data into Database">
+		</form>
+	</div>
+	<div class="section">
+		<h4>Question 3 - All Continents (2 marks)</h4>
+		<p>Get a list of all the continents in the world that are listed in the database.<br />
+			Return <b>all</b> the fields in the table for each continent.</p>
+		<form action="qry3_AllContinents.py">
+			<input type="submit" value="Select all Continents">
+		</form>
+	</div>
+	<div class="section">
+		<h4>Question 4 - Cities in Texas (3 marks)</h4>
+		<p>Get a list of all the cities in <b>Texas</b>.<br />
+		Return the Name, Population and Province of each city.</p>
+		<form name="input" action="qry4_Texas.py">
+			<input type="submit" value="Cities of Texas">
+		</form>
+	</div>
+	<div class="section">
+		<h4>Question 5 - Ethnic Groups from a Country (4 marks)</h4>
+		<p>Get a list of all the ethnic groups of a particular country, based on the country name that is entered in the text box.<br />
+			Return the country code, country name, name of the ethnic group and the percentage of that ethnic group.</p>
+		<form name="input" action="qry5_EthnicGroupByCountry.py">
+			Enter the name of the country: <input type="text" name="country" /><br />
+			<input type="submit" value="Groups in Country">
+		</form>
+	</div>
+	<div class="section">
+		<h4>Question 6 - Number of Countries for each Language (4 marks)</h4>
+		<p>Find the number of countries that speak a particular language.<br />
+			Return the language name and the number of countries that speak that language.</p>
+		<form name="input" action="qry6_NumberOfCountries.py">
+			Enter the name of the language: <input type="text" name="language_name" /><br />
+			<input type="submit" value="Number of Countries">
+		</form>
+	</div>
+	<div class="section">
+		<h4>Question 7 - Population of Asia (3 marks)</h4>
+		<p>Find the total population of people living in Asia.</p>
+		<form name="input" action="qry7_PopulationOfAsia.py">
+			<input type="submit" value="Populatiokn of Asia">
+		</form>
+	</div>
+	<div class="section">
+		<h4>Question 8 - 20 Smallest Countries (3 marks)</h4>
+		<p>Get a list of the 20 smallest countries in the world according to their area.<br />
+			Return the Name, Capital, Population and Area for eaech country.</p>
+		<form name="input" action="qry8_SmallestCountries.py">
+			<input type="submit" value="Smallest Countries">
+		</form>
+	</div>
+	<div class="section">
+		<h4>Question 9 - Cities with 500,000 People (4 marks)</h4>
+		<p>Find all the cities in a country that have a population greater than 500,000. (NOTE: You need to enter the name of the country.)<br />
+		    Return the Name, Province and Population of each country sorted in order from largest to smallest.</p>
+		<p>NOTE: You might also want to test that the population in the city does not contain an empty string (i.e. <> "") so that you do not get cities with no population entered.</p>
+		<form name="input" action="qry9_BigCitiesInCountry.py">
+			Enter the country name: <input type="text" name="country" /><br />
+			<input type="submit" value="Cities in Country">
+		</form>
+	</div>
+	<div class="section">
+		<h4>Question 10 - Average Mortality Rate for Continent (6 marks)</h4>
+		<p>Find the average Infant Mortality rate for the continent that has been entered.</p>
+		<form name="input" action="qry10_AverageMortalityForContinent.py">
+			Enter the continent: <input type="text" name="continent" /><br />
+			<input type="submit" value="Average Mortality">
+		</form>
+		<p>HINT: The continents in the database are Europe, Asia, Australia/Oceania, Africa, America</p>
+	</div>
+	<div id="allsamples">
+		<h4>SAMPLE QUERIES</h4>
+		<p>Below are a number of sample queries based on a database for a hockey club.</p>
+		<div class="sample">
+			<h4>All Teams - SAMPLE</h4>
+			<p>Get a list of all the teams at the club.<br />
+				Return <b>all</b> the fields in the table for each team.</p>
+			<form action="sample_qryAllTeams.py">
+				<input type="submit" value="Select all Teams">
+			</form>
+		</div>
+		<div class="sample">
+			<h4>Teams in Age Group - SAMPLE</h4>
+			<p>Get a list of all the teams for an age group that is entered into the text box.<br />
+			Return the team name, gender and grade.</p>
+			<form name="input" action="sample_qryTeamForAge.py">
+				Enter the age group: <input type="text" name="age" /><br />
+				<input type="submit" value="Teams for Age Group">
+			</form>
+		</div>
+		<div class="sample">
+			<h4>Total Deposits Paid to use Equipment - SAMPLE</h4>
+			<p>Find the Total sum of deposits that need to be paid to borrow the equipment.</p>
+			<form name="input" action="sample_qrySumDeposit.py">
+				<input type="submit" value="Sum Deposit">
+			</form>
+		</div>
+		<div class="sample">
+			<h4>Number of coaches from COTTESLOE - SAMPLE</h4>
+			<p>Calculate the number of coaches that come from COTTESLOE.</p>
+			<form name="input" action="sample_qryNumCoaches.py">
+				<input type="submit" value="Coaches from Cottesloe">
+			</form>
+		</div>
+		<div class="sample">
+			<h4>Numbers per Team - SAMPLE</h4>
+			<p>Get a list of the number of players in each team at the club.</p>
+			<form name="input" action="sample_qryPlayersByTeam.py">
+				<input type="submit" value="Players by Team">
+			</form>
+		</div>
+	</div>
+
+	
+</body>
+</html>

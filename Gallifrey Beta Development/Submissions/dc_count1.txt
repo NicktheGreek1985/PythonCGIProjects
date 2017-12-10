@@ -1,0 +1,12 @@
+def count(a, n):
+    if n == 1:
+        return 0
+    else:
+        m = n//2
+        x = count(a[:m], m)
+        y = count(a[m:], m)
+        z = count_split_inv(a, n)
+    return x + y + z
+
+def count_split_inv(a, n):
+    pass

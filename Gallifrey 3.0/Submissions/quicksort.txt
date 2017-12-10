@@ -1,0 +1,39 @@
+def quicksort(lst):
+    helper(lst, 0, len(lst)-1)
+
+def helper(lst, low, high):
+    if low < high:
+        pivot_location = partition(lst, low, high)
+        helper(lst, low, pivot_location-1)
+        helper(lst, pivot_location + 1, high)
+        
+def partition(lst, low, high):
+    pivot = lst[low]
+    leftmark = low+1
+    rightmark = high
+
+    finished = False
+
+    while not finished:
+        while leftmark <= rightmark and lst[leftmark] <= pivot:
+            leftmark += 1
+
+        while lst[rightmark] >= pivot and rightmark >= leftmark:
+            rightmark -= 1
+
+        if rightmark < leftmark:
+            finished = True
+        else:
+            t = lst[leftmark]
+            lst[leftmark] = lst[rightmark]
+            lst[rightmark] = t
+
+    t = lst[low]
+    lst[low] = lst[rightmark]
+    lst[rightmark] = t
+    
+    return rightmark
+
+a = [8, 4,67, 541, 60, 3, -1, 12]
+quicksort(a)
+print(a)

@@ -1,0 +1,21 @@
+from random import randint, choice
+
+def chooseRandomKey(graph):
+    a = random.choice(list(graph.keys()))
+    b = random.choice(list(graph[a]))
+    return a, b
+
+def karger(graph):
+    length = []
+    while len(graph) > 2:
+        vertex1, vertex2 = chooseRandomKey(graph)
+        graph[vertex1].extend(graph[vertex2])
+        for x in graph[vertex2]:
+            graph[x].remove(vertex2)
+            graph[x].append(vertex1)
+        while vertex1 in graph[vertex1[1]]:
+            graph[vertex[1]].remove(vertex1)
+        del graph[vertex2]
+    for key in graph.keys():
+        length.append(len(graph(key)))
+    return length[0]

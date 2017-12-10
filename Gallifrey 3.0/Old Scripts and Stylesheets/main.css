@@ -1,0 +1,493 @@
+* {
+    font-family: Verdana;
+}
+
+.navbar {
+    background-color: lightgray;
+    border-bottom: 2px solid darkgray;
+    margin: -20px -20px 0px -20px;
+    height: 50px;
+    padding-left: 50px;
+    padding-top: 5px;
+    text-transform: uppercase;
+}
+
+#logindiv {
+    float: right;
+    width: 517px;
+    border-left: 3px solid black;
+    height: 100vh;
+    margin: 0px -20px 0px -20px;
+    background-color: white;
+}
+
+#loginpage {
+    background-image: url('loginbackground.jpg');
+    background-size: cover;
+}
+
+#logindiv {
+    padding: 20px;
+}
+
+#logindiv input {
+    padding: 8px;
+    font-size: 15px;
+    display: block;
+    width: 400px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+}
+
+#loginpage a:not(#loginpage .footer a) {
+    text-decoration: none;
+    color: white;
+}
+
+#go {
+    background-color: navy;
+    width: 45px;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+#tab_holder div {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 10px;
+    display: inline-block;
+    font-weight: lighter;
+    color: rgb(45, 136, 205);
+}
+
+#tab_holder div h4 {
+    margin: 0px;
+    padding: 0px;
+}
+
+#tab_holder div:hover {
+    background-color: rgb(223, 223, 223);
+}
+
+.moduleBox {
+    float: left;
+    width: 20%;
+    border-right: 1px solid lightgray;
+    height: 100vm;
+}
+
+#contentHolder {
+    float: right;
+    width: 79%;
+}
+
+.moduleBox .shown_modules li {
+    list-style: none;
+    margin-left: -50px;
+}
+
+.moduleBox li p {
+    position: relative;
+    left: -12%;
+}
+
+.moduleBox li li {
+    position: relative;
+    left: -12%;
+}
+
+
+.moduleBox .acvm li {
+    list-style-image: url('bronze.png');
+    margin-left: -30px;
+    color: rgb(45, 136, 205);
+}
+
+.moduleBox p {
+    margin: 0px;
+    padding: 0px;
+}
+
+#tab_holder {
+    border-bottom: 1px solid lightgray;
+}
+
+#coursepagebody, #view_body, #teacherpage, #courseeditbody, #studentpage, #coursemanagepage, #unitmanagepage, #modulemanagepage, #coursehomepage {
+    padding-top: 35px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#coursepagebody .navbar, #view_body .navbar, #teacherpage .navbar, #courseeditbody .navbar, #studentpage .navbar, #coursemanagepage .navbar, #unitmanagepage .navbar, #modulemanagepage .navbar, #coursehomepage .navbar {
+    margin-left: -110px;
+    margin-right: -110px;
+    margin-top: -55px;
+}
+
+.chp {
+    border: 1px solid lightgray;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.chp li {
+    list-style-type: none;
+    margin-left: -25px;
+}
+
+.chp a {
+    color: rgb(45, 136, 205);
+    text-decoration: none;
+}
+
+
+#unitlst {
+    margin-top: 20px;
+}
+.chp h3, #unitlst td h3 {
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+}
+#unitlst td h3 {
+    margin-top: -5px;
+    margin-left: 0px;
+}
+
+#coursemanagepage .footer a, #modulemanagepage .footer a {
+    color: rgb(45, 136, 205);
+}
+
+#coursepagebody a {
+    text-decoration: none;
+    color: rgb(45, 136, 205);
+}
+
+#coursemanagepage a, #modulemanagepage a {
+    text-decoration: none;
+    color: white;
+}
+
+.course_view, .course_box {
+    border: 1px solid gray;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 70%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+.viewFile {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+td {
+    padding: 7px;
+}
+
+.view {
+    display: inline-block;
+    clear: left;
+    vertical-align: top;
+    background-color: lightgray;
+    /*position: relative;
+    bottom: 180px;*/
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 5px;
+    width: 20%;
+}
+
+.viewcoursebtn, .button {
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(45, 136, 205);
+    width: 100px;
+    display: inline-block;
+    float: right;
+    margin-top: -5px;
+    margin-right: 5px;
+}
+
+#teacherpage .viewcoursebtn {
+    float: left;
+    margin-top: 10px;
+}
+
+#rsubmissions {
+    width: 40%;
+    margin-bottom: 20px;
+}
+
+.button {
+    width: 70%;
+    float: left;
+    margin-right: 0px;
+    margin-left: 35px;
+}
+
+.viewcoursebtn a, .button a {
+    color: white;
+    text-decoration: none;
+}
+
+span:not(.code_content) {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.code_content {
+    font-family: 'Monaco';
+    display: block;
+    margin: 5px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+#courseeditbody li {
+    list-style: none;
+}
+
+.unit_v {
+    font-weight: bold;
+    margin-left: -40px;
+}
+
+.module_v {
+    font-weight: normal;
+    text-decoration: underline;
+    margin-left: -25px;
+}
+
+#coursemanagepage td a, #unitmanagepage td a {
+    color: rgb(45, 136, 205);
+    text-decoration: none;
+}
+
+.activity_v {
+    text-decoration: none;
+    margin-left: -10px;
+}
+
+#edition {
+    float: right;
+    vertical-align: top;
+    position: relative;
+    bottom: 750px;
+}
+
+.attachments_section {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    background-color: rgb(232, 232, 232);
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.attachments_section h4, .attachments_section p, .attachments_section a {
+    margin: 0px;
+}
+
+.attachments_section p, .attachments_section a {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.attachments_section a {
+    text-decoration: none;
+    color: rgb(45, 136, 205);
+}
+
+#unmarked_submissions {
+    float: right;
+    clear: right;
+}
+#add_course {
+    clear: both;
+}
+.progress_dash, .correct_dash, .incorrect_dash {
+    background-color: rgb(45, 136, 205);
+    height: 20px;
+    /*margin-top: 15px;*/
+    display: inline-block;
+    vertical-align: top;
+}
+.correct_dash {
+    background-color: rgb(1,194,96);
+}
+.incorrect_dash {
+    background-color: rgb(240, 57, 60);
+}
+
+.dash_enc {
+    border: 1px solid lightgray;
+    margin-top: 15px;
+}
+
+.shown_modules img {
+    float: right;
+    clear: right;
+}
+
+.state_show {
+    float: right;
+}
+
+.submission_show {
+    margin-top: 25px;
+    height: 50px;
+    padding: 5px;
+}
+
+.acvm li {
+    display: none;
+}
+
+.unit_prog {
+    display: inline-block;
+    vertical-align: top;
+    border: 1px solid lightgray;
+    padding: 5px;
+}
+
+
+.new_unit, .new_module, .new_activity, #add_student, #add_teacher, #add_course, .editActivity, .addFile, .existing_unit, .existing_module, .addStudent, .comment {
+    background-color: lightblue;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    border: 1px solid cornflowerblue;
+    margin-top: 10px;
+}
+
+
+.editActivity, .addFile {
+    display: block;
+}
+
+textarea {
+    border: 1px solid lightgray;
+    display: block;
+}
+
+.editActivity input {
+    display: block;
+}
+
+#editcontent {
+    height: 200px;
+    width: 100%;
+}
+
+.editActivity input, #editcontent {
+    margin-top: 5px;
+    display: inline-block;
+}
+
+label {
+    display: inline-block;
+    font-size: smaller;
+}
+
+#hint_show, #solution_show {
+    width: 100px;
+    text-align: center;
+    margin: 10px;
+    border: 1px solid lightgray;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+iframe {
+    display: block;
+}
+
+table {
+    width: 100%;
+}
+
+.navbar h4, .navbar h3 {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.navbar h4 {
+    color: gray;
+    margin-left: 15px;
+    text-transform: capitalize;
+}
+
+.navbar a:hover h4 {
+    color: navy;
+}
+
+#loginpage go a {
+    color: rgb(45, 136, 205);
+}
+
+.footer a {
+    color: rgb(45, 136, 205);
+    text-decoration: none;
+}
+
+/*.footer {
+    position: absolute;
+    bottom: 25px;
+}*/
+
+#courseeditbody .footer {
+    display: none;
+}
+
+#add_course {
+    display: block;
+    width: 15%;
+    margin-top: 10px;
+}
+
+img[src="diamond.png"] {
+    margin-right: 7px;
+}
+
+#logoutformdiv {
+    display: inline-block;
+    margin-left: 1%;
+}
+
+#logoutformdiv input[type="submit"] {
+    margin-top: 40%;
+}
+
+#view_body .footer, #coursepagebody .footer {
+    position: absolute;
+    bottom: 20px;
+}
+
+table {
+    border: 0px;
+    border-spacing: 0px;
+}
+
+td {
+    border: 1px solid lightgray;
+}
+
+.editActivity {
+    clear: both;
+}
+
+.viewcoursebtn[name="extbtn"] {
+    width: 250px;
+}
+
+.viewcoursebtn {
+    color: white;
+}

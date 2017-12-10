@@ -1,0 +1,7 @@
+# input lst
+inversions = 0
+for i in range(len(lst)):
+    for j in range(i, len(lst)):
+        if lst[i] > lst[j]:
+            inversions += 1
+print(inversions)

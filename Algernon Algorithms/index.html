@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Algernon Algorithms Module</title>
+    <link rel='stylesheet' href='main.css' />
+</head>
+
+<body>
+    <header class='header'>
+        <h1>Algernon Algorithms Module</h1>
+        <h4>By Nick Patrikeos</h4>
+    </header>
+    <div class='main'>
+        <h3>Divide & Conquer Algorithms</h3>
+        <p>The following algorithms use the divide & conquer paradigm to solve their problem.</p>
+        <hr>
+            <h4>Karatsuba Integer Multiplication</h4>
+            <p>Uses Karatsuba's Algorithm to multiply two integers of very large size.</p>
+            <h5>Runs in O(n ** (log2 3)).</h5>
+            <form action='call_algorithms.py'>
+                <input type='text' name='intA' placeholder='A' />
+                <input type='text' name='intB' placeholder='B' />
+                <input type='text' value='kmultiply' style='display: none' name='algorithm' />
+                <input type='submit' />
+            </form>
+        <hr>
+            <h4>Inversion Count</h4>
+            <p>Piggybacks on the mergesort algorithm to count the number of inversions in an array.</p>
+            <h5>Runs in O(n log n).</h5>
+            <form action='call_algorithms.py'>
+                <input type='text' name='lst' placeholder='Array of elements 1 2 3 4' />
+                <input type='text' value='inversioncount' name='algorithm' style='display: none' />
+                <input type='submit' />
+            </form>
+    </div>
+    <div class='main'>
+        <h3>Sorting Algorithms</h3>
+        <p>The following algorithms work to solve the sorting problem deterministically.</p>
+        <hr>
+            <h4>MergeSort</h4>
+            <p>Uses divide and conquer to solve sorting in O(n log n) time.</p>
+            <h5>Runs in O(n log n).</h5>
+            <form action='call_algorithms.py'>
+                <input type='text' name='lst' placeholder='Array of elements 1 2 3 4' />
+                <input type='text' value='mergesort' name='algorithm' style='display: none' />
+                <input type='submit' /> 
+            </form>
+        <hr>
+            <h4>Deterministic Quicksort</h4>
+            <p>Sorts a list around a deterministically chosen pivot recursively.</p>
+            <h5>Runs in O(n ** 2)</h5>
+            <form action='call_algorithms.py'>
+                <input type='text' name='lst' placeholder='Array of elements 1 2 3 4' />
+                <input type='text' value='dquicksort' name='algorithm' style='display: none' />
+                <input type='submit' /> 
+            </form>
+    </div>
+    <div class='main' id='main3'>
+        <h3>Randomised Algorithms</h3>
+        <p>The following algorithms use randomisation to increase their probability of running in optimal time.</p>
+        <hr>
+            <h4>Randomised Quicksort</h4>
+            <p>Sorts a list around a randomly chosen pivot recursively.</p>
+            <h5>Runs in O(n log n) on average.</h5>
+            <form action='call_algorithms.py'>
+                <input type='text' style="width: 500px;" name='lst' placeholder='Array of elements 1 2 3 4' />
+                <input type='text' value='rquicksort' name='algorithm' style='display: none' />
+                <input type='submit' /> 
+            </form>
+        <hr>
+            <h4>Karger's Contraction Algorithm</h4>
+            <p>Uses randomisation to solve the minumum cut problem.</p>
+            <h5>Runs in O(n ** 2).</h5>
+            <form action='call_algorithms.py'>
+                <input type='text' name='graph' placeholder='Graph represented in an adjacency list {Node:[Adjacent_Nodes]}' style="width: 500px;"/>
+                <input type='text' value='mincut' name='algorithm' style='display: none' />
+                <input type='submit' /> 
+            </form>
+    </div>
+    
+    <footer class='footer'>
+        <p>The name of Algernon is inspired from from the character <strong>Algernon Moncreiff</strong> from <em>The Importance of Being Earnest</em> by Oscar Wilde.</p>
+        <p>Algernon Algorithms Module</p>
+        <p>N. Patrikeos, March 2017</p>
+    </footer>
+</body>
+</html>

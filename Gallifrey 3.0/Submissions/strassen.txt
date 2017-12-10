@@ -1,0 +1,23 @@
+from dc_matrix import Matrix, add_quadrants
+
+def strassen(a, b, n):
+    if n == 1:
+        return a * b
+    else:
+        m = n // 2
+        a11, a12, a21, a22 = a.quad_split()
+        b11, b12, b21, b22 = b.quad_split()
+        p1 = strassen(a11, b11 - b22, m)
+        p2 = strassen(a11 + a12, b22, m)
+        p3 = strassen(a21 + a22, b11, m)
+        p4 = strassen(a22, b21 - b11, m)
+        p5 = strassen(a11 + a22, b11 + b22, m)
+        p6 = strassen(a12 - a22, b21 + b22, m)
+        p7 = strassen(a11 - a21, b11 + b12, m)
+        c11 = p5 + p4 - p2 + p6
+        c12 = p1 + p2
+        c21 = p3 + p4
+        c22 = p1 + p5 - p3 - p7
+        c = add_quadrants(c11, c12, c21, c22)
+        return c
+

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Gallifrey</title>
+    <link rel='stylesheet' href='main.css' />
+    <script src='script.js'></script>
+</head>
+
+<body id='view_body' onload='setupClassViewPage()'>
+    <div class='navbar'><h3>Gallifrey</h3><div id='logoutformdiv'></div></div>
+    <h1>Classes</h1><hr>
+    <div id="class_list"></div>
+    <div id='add_course'>
+        <h3>Add New Class</h3>
+        <form name='add_class_form'>
+            <input type='text' placeholder='Class Name' name='classname' />
+            <input type='text' placeholder='Course' name='course' />
+        </form>
+        <button onclick='addClass()'>Add Class</button>
+    </div>
+    <div class='footer'>
+        Gallifrey 1.0.0<br>
+        Developed By <a href='mailto:nick.p@iinet.net.au' >Nick Patrikeos</a>.
+    </div>
+</body>
+</html>

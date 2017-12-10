@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Gallifrey 3.0</title>
+    <link rel='stylesheet' href='main3.css' />
+    <script src='script3.js'></script>
+</head>
+
+<body id='addTaskGroup' onload='setupAddTaskGroupPage()'>
+    
+    <div id='navbar'><h3>Gallifrey</h3>
+    </div>
+    
+    <div class='headerSection'>
+        <h4 id='topicTitle'>Topic Title</h4>
+        <h1>Task Groups</h1>
+    </div>
+    <hr>
+    
+    <form name='addTaskGroup'>
+        <input type='text' placeholder='*Title' name='taskGroupName' /><br>
+        <input type='button' onclick='createTaskGroup()' value='Create Task Group' />
+        <a href='topicList.html'>Cancel</a>
+    </form>
+    
+    <hr>
+    <div class='footer'>
+        Gallifrey 1.0.0<br>
+        Developed By <a href='mailto:nick.p@iinet.net.au' >Nick Patrikeos</a>.
+    </div>
+    
+</body>
+</html>

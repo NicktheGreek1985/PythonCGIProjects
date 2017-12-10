@@ -1,0 +1,13 @@
+def DSelect(lst, k):
+    if len(x) == 1:
+        return x[0]
+    else:
+        xpart = partition(x, ChoosePivot(lst))
+        x = xpart[0] # This is the partition
+        j = xpart[1]
+        if j == k:
+            return x[j]
+        elif j > k:
+            return DSelect(x[:j]. k)
+        else:
+            return DSelect(x[(j+1):], k)

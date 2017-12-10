@@ -1,0 +1,33 @@
+from random import randint
+
+def quicksort(lst):
+    helper(lst, 0, len(lst)-1)
+
+def helper(lst, low, high):
+    if low < high:
+        pivot_location = partition(lst, low, high)
+        helper(lst, low, pivot_location-1)
+        helper(lst, pivot_location + 1, high)
+        
+def partition(lst, start, end):
+    pivot = randint(start, end)
+    temp = lst[end]
+    lst[end] = lst[pivot]
+    lst[pivot] = temp
+    pivot_index = start
+
+    for i in range(start, end):
+        if lst[i] <= lst[end]:
+            temp = lst[i]
+            lst[i] = lst[pivot_index]
+            lst[pivot_index] = temp
+            pivot_index += 1
+    temp1 = lst[end]
+    lst[end] = lst[pivot_index]
+    lst[pivot_index] = temp1
+
+    return pivot_index
+
+a = [8, 4,67, 541, 60, 3, -1, 12]
+quicksort(a)
+print(a)

@@ -1,0 +1,38 @@
+#sample_queries, #my_queries {
+    border: black 2px solid;
+    padding: 5px;
+    margin: 3px;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    color: black;
+}
+
+table td, th {
+    padding: 3px;
+    border: 1px solid black;
+}
+
+table th {
+    background: #aa3939;
+}
+
+.rowA {
+    background: #f87b7b;
+}
+
+.rowB {
+    background: #ffa8a8;
+}
+
+a {
+    text-decoration: none;
+    color: navy;
+}
+.sub_queries {
+    margin: 3px;
+    border: 2px solid black;
+    padding: 5px;
+}

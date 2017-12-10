@@ -1,0 +1,16 @@
+from random import randint
+
+def RSelect(a, i):
+    if len(a) == 1:
+        return a[0]
+    else:
+        p = randint(0, len(a)-1)
+        partition(a, p)
+        j = a.index(p)
+        m = len(a) // 2
+        if j == i:
+            return p
+        elif j > i:
+            return RSelect(a[:m], i)
+        else:
+            return RSelect(a[m:], i-j)

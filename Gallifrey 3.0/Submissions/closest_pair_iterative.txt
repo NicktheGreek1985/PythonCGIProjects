@@ -1,0 +1,28 @@
+def dist(x, y):
+    return (((x[1] - x[0]) ** 2) + ((y[1] - y[0]) ** 2)) ** 0.5
+
+def closest_pair(P):
+    minDist = None
+    for i in range(len(P)):
+        for j in range(i+1, len(P)):
+            p = P[i]
+            q = P[j]
+            if minDist is None:
+                minDist = dist(p, q)
+                closestPair = (p, q)
+            else:
+                if dist(p, q) < minDist:
+                    minDist = dist(p, q)
+                    closestPair = (p, q)
+    return closestPair
+
+data = '''1.12 0
+0 0.51
+158 12
+123 15
+1859 -1489
+21.12 -884.2
+18.18 43.34
+21.12 -884.2'''.split('\n')
+data = [ (float(x.split()[0]), float(x.split()[1])) for x in data ]
+print(closest_pair(data))

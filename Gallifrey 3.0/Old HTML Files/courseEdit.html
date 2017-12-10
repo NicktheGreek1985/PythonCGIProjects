@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Gallifrey</title>
+    <link rel='stylesheet' href='main.css' />
+    <script src='script.js'></script>
+</head>
+
+<body onload='setupCourseEditPage()' id='courseeditbody'>
+    <div class='navbar'><h3>Gallifrey</h3><div id='logoutformdiv'></div></div>
+    <h1 id='coursename'>Course Name</h1>
+    <hr>
+    <!--div class='work_holder'>
+        <ul id='unit_list'></ul>
+    </div-->
+    <div id='tab_holder'>
+    </div>
+    <div class='moduleBox'>
+        <ul id='module_box'></ul>
+    </div>
+    <div id='contentHolder'>
+        <h1 id='content_title'></h1>
+        <p id='content_box'></p>
+    </div>
+    <div class='content_holder'>
+    </div>
+    <!--div id='edition'-->
+    <div class='editActivity'>
+        <h4>Edit Activity</h4>
+        <form name='edit_activity_form'>
+            <input type='text' placeholder='Name' name='activityname' />
+            <select id='difficulty_edit'>
+                <option value='bronze'>Bronze</option>
+                <option value='silver'>Silver</option>
+                <option value='gold'>Gold</option>
+                <option value='platinum'>Platinum</option>
+                <option value='kryptonite'>Kryptonite</option>
+            </select>
+            <label>Show Solution</label><input type='checkbox' name='show_solution' />
+            <input type='text' style="height: 75px; width: 100%;" placeholder='Hint' name='hint' />
+            <input type='text' style="height: 75px; width: 100%" placeholder='Solution' name='solution' />
+            <textarea cols='40' id="editcontent" placeholder='Content' type='text' name='content'></textarea>
+        </form>
+        <button onclick='changeContent()'>Edit</button>
+    </div>
+    <div class='addFile'>
+        <h4>Add a File</h4>
+        <form name='add_file_form' action='upload.py' method='POST' enctype="multipart/form-data">
+            <input type='file' name='file_1' />
+            <input type='text' placeholder='File Name' name='filename' />
+            <input type='text' placeholder='Unit' name='unit' />
+            <input type='text' placeholder='Module' name='module' />
+            <input type='text' placeholder='Activity' name='activity' />
+            <input type='submit' value='Submit' />
+        </form>
+    </div>
+    <div class='new_unit'>
+        <h4>Create New Unit</h4>
+        <form name='new_unit_form'>
+            <input name='unit' placeholder="New Unit Name" type='text' />
+        </form>
+        <button onclick='addUnit()'>Submit</button>
+    </div>
+    <div class='existing_unit'>
+        <h4>Add Existing Unit</h4>
+        <form name='existing_unit_form'>
+            <select id='existingUnitChoice'>
+            </select>
+        </form>
+        <button onclick='addExistingUnit()'>Submit</button>
+    </div>
+    <div class='new_module'>
+        <h4>Create New Module</h4>
+        <form name='new_module_form'>
+            <input name='unit' placeholder='Unit of Module'type='text' />
+            <input name='module' placeholder='New Module Name' type='text' />
+        </form>
+        <button onclick='addModule()'>Submit</button>
+    </div>
+    <div class='existing_module'>
+        <h4>Add Existing Module</h4>
+        <form name='existing_module_form'>
+            <input type='text' name='unit' placeholder='Unit of Module' />
+            <select id='existingModuleChoice'>
+            </select>
+        </form>
+        <button onclick='addExistingModule()'>Submit</button>
+    </div>
+    <div class='new_activity'>
+        <h4>Create New Activity</h4>
+        <form name='new_activity_form'>
+            <input name='unit' placeholder="Unit of Activity" type='text' />
+            <input name='module' placeholder="Module of Activity" type='text' />
+            <input name='activity' placeholder='New Activity Name' type='text' />
+            <select id='difficulty'>
+                <option value='bronze'>Bronze</option>
+                <option value='silver'>Silver</option>
+                <option value='gold'>Gold</option>
+                <option value='platinum'>Platinum</option>
+                <option value='kryptonite'>Kryptonite</option>
+            </select>
+        </form>
+        <button onclick='addActivity()'>Submit</button>
+    </div>
+    <div class='footer'>
+        Gallifrey 1.0.0<br>
+        Developed By <a href='mailto:nick.p@iinet.net.au' >Nick Patrikeos</a>.
+    </div>
+    
+    
+    <!--/div-->
+</body>
+</html>

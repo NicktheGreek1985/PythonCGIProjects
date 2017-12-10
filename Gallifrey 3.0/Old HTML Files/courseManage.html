@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Gallifrey</title>
+    <link rel='stylesheet' href='main.css' />
+    <script src='script.js'></script>
+</head>
+
+<body onload='setupCourseManagementPage()' id='coursemanagepage'>
+    <div class='navbar'><h3>Gallifrey</h3><div id='logoutformdiv'></div></div>
+    <h1 id='coursename'>Course Name</h1>
+    <hr>
+    <table id='class_table' border='1'>
+    </table>
+    <div class='addStudent'>
+        <h4>Current Homework</h4>
+        <form name='homework_form'>
+            <input type='text' name='homework' style='width: 500px'/>
+        </form>
+        <button onclick='setHomework()'>Set Homework</button>
+    </div>
+    <div class='addStudent'>
+        <h4>Add New Student</h4>
+        <form name='add_student_form'>
+          <input type='text' name='username' />
+        </form>
+        <button onclick='addStudentToClass()'>Submit</button>
+    </div>
+    <div class='footer'>
+        Gallifrey 1.0.0<br>
+        Developed By <a href='mailto:nick.p@iinet.net.au' >Nick Patrikeos</a>.
+    </div>
+</body>
+</html>

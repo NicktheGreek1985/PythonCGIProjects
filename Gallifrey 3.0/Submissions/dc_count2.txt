@@ -1,0 +1,41 @@
+def count_sort(lst):
+    if len(lst) == 1:
+        return (0, lst)
+    m = (len(lst)-1) // 2
+    x, lefthalf = count_sort(lst[0:m+1])
+    y, righthalf = count_sort(lst[m+1:len(lst)])
+    z, result = merge_countsplitinv(lefthalf, righthalf, len(lst))
+
+    return (x+y+z, result)
+
+def merge_countsplitinv(a,b,n):
+    c = [ None for x in range(n) ]
+    i = 0
+    j = 0
+    k = 0
+    inversions = 0
+    
+    while i < len(a) and j < len(b):
+        if a[i] < b[j]:
+            c[k] = a[i]
+            i += 1
+        else:
+            c[k] = b[j]
+            j += 1
+            inversions += 1
+        k += 1
+        
+    while i < len(a):
+        c[k] = a[i]
+        i += 1
+        k += 1
+
+
+    while j < len(b):
+        c[k] = b[j]
+        j += 1
+        k += 1
+        
+    return (inversions, c)
+
+print(count_sort([1,3,5,2,4,6]))
