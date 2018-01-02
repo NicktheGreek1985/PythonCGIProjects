@@ -24,7 +24,7 @@ function redirectOnLogin(userType, username) {
         console.log('Logging in as teacher.')
         localStorage.setItem('currentTeacher', username)
         localStorage.setItem('isAdmin', JSON.stringify(false))
-        // window.location.href = blah
+        window.location.href = 'teacherHomepage.py?teacherID=' + username
 
     } else if (userType == 'parent') {
 
@@ -76,6 +76,13 @@ function setupAddEnrolmentPage() {
 
     currentClass = localStorage.getItem('currentClass')
     document.addEnrolmentForm.classID.value = currentClass
+}
+
+function setupChangeTeacherPasswordPage() {
+    // Sets up the change Teacher password page with the Teacher_ID
+
+    currentTeacher = localStorage.getItem('currentTeacher')
+    document.changePasswordForm.teacherID.value = currentTeacher
 }
 
 function coursesRedirect(succeeded) {
@@ -152,4 +159,24 @@ function timetableRedirect(succeeded, classID) {
         alert('The Period is already reserverd by another class for the teacher or students.')
     }
     window.location.href = 'manageClassTimetable.py?classID=' + classID
+}
+
+function passwordRedirect(succeeded) {
+    // Redirects the user to teacherHomepage.py after attempt at changing passwords
+    // Alerts the user if the old password was wrong or new&verify did not match
+    // Written 02JAN18
+
+    if (succeeded == 0) {
+        alert('Old password invalid.')
+    } else if (succeeded == 1) {
+        alert('New password did not match with verification.')
+    }
+    redirectToTeacherHomepage()
+}
+
+function redirectToTeacherHomepage() {
+    // Redirects a user from any place to their teacher Homepage
+    // Written 02JAN18
+    currentTeacher = localStorage.getItem('currentTeacher')
+    window.location.href = 'teacherHomepage.py?teacherID=' + currentTeacher
 }
