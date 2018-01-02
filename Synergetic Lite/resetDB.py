@@ -13,7 +13,7 @@ import sqlite3
 
 def resetDBTables(cursor):
     # Drops existing tables in the DB and creates new ones
-    
+
     print('Dropping existing tables.')
 
     tables = ['Classes','Enrolments','Students','Parents',
@@ -28,6 +28,8 @@ def resetDBTables(cursor):
     print('====================')
     print('Creating new tables.')
 
+    cursor.execute('PRAGMA foreign_keys = ON')
+
     cursor.execute('''CREATE TABLE Teachers
                    (Teacher_ID VARCHAR(5),
                    Password TEXT,
@@ -39,19 +41,18 @@ def resetDBTables(cursor):
                    (Class_ID VARCHAR(10),
                    Teacher VARCHAR(5),
                    Course VARCHAR(8),
-                   
+
                    PRIMARY KEY(Class_ID),
-                   FOREIGN KEY (Teacher) REFERENCES Teachers(Teacher_ID)
-                   FOREIGN KEY (Course) REFERENCES Courses(Course_ID))''')
+                   FOREIGN KEY (Teacher) REFERENCES Teachers(Teacher_ID) ON UPDATE CASCADE,
+                   FOREIGN KEY (Course) REFERENCES Courses(Course_ID) ON UPDATE CASCADE)''')
 
     cursor.execute('''CREATE TABLE Enrolments
-                   (Enrolment_ID INTEGER,
+                   (Enrolment_ID INTEGER PRIMARY KEY AUTOINCREMENT,
                    Student INTEGER,
                    Class VARCHAR(10),
 
-                   PRIMARY KEY(Enrolment_ID),
-                   FOREIGN KEY (Student) REFERENCES Students(Student_ID),
-                   FOREIGN KEY (Class) REFERENCES Classes(Class_ID))''')
+                   FOREIGN KEY (Student) REFERENCES Students(Student_ID) ON UPDATE CASCADE,
+                   FOREIGN KEY (Class) REFERENCES Classes(Class_ID) ON UPDATE CASCADE)''')
 
     cursor.execute('''CREATE TABLE Students
                    (Student_ID INTEGER,
@@ -66,7 +67,7 @@ def resetDBTables(cursor):
                    Student INTEGER,
 
                    PRIMARY KEY(Parent_ID)
-                   FOREIGN KEY(Student) REFERENCES Students(Student_ID))''')
+                   FOREIGN KEY(Student) REFERENCES Students(Student_ID) ON UPDATE CASCADE)''')
 
     cursor.execute('''CREATE TABLE Rooms
                    (Room_ID VARCHAR(6),
@@ -79,73 +80,67 @@ def resetDBTables(cursor):
                    PRIMARY KEY(Course_ID))''')
 
     cursor.execute('''CREATE TABLE StudentPeriods
-                   (S_Period_ID INTEGER,
+                   (S_Period_ID INTEGER PRIMARY KEY AUTOINCREMENT,
                    Period_Num INTEGER,
                    Class VARCHAR(10),
                    Room VARCHAR(6),
                    Student INTEGER,
 
-                   PRIMARY KEY(S_Period_ID),
-                   FOREIGN KEY(Class) REFERENCES Classes(Class_ID)
-                   FOREIGN KEY(Room) REFERENCES Rooms(Room_ID)
-                   FOREIGN KEY(Student) REFERENCES Students(Student_ID))''')
+                   FOREIGN KEY(Class) REFERENCES Classes(Class_ID) ON UPDATE CASCADE,
+                   FOREIGN KEY(Room) REFERENCES Rooms(Room_ID) ON UPDATE CASCADE,
+                   FOREIGN KEY(Student) REFERENCES Students(Student_ID) ON UPDATE CASCADE)''')
 
     cursor.execute('''CREATE TABLE TeacherPeriods
-                   (T_Period_ID INTEGER,
+                   (T_Period_ID INTEGER PRIMARY KEY AUTOINCREMENT,
                    Period_Num INTEGER,
                    Class VARCHAR(10),
                    Room VARCHAR(6),
                    Teacher VARCHAR(5),
 
-                   PRIMARY KEY(T_Period_ID),
-                   FOREIGN KEY(Class) REFERENCES Classes(Class_ID)
-                   FOREIGN KEY(Room) REFERENCES Rooms(Room_ID)
-                   FOREIGN KEY(Teacher) REFERENCES Teachers(Teacher_ID))''')
+                   FOREIGN KEY(Class) REFERENCES Classes(Class_ID) ON UPDATE CASCADE,
+                   FOREIGN KEY(Room) REFERENCES Rooms(Room_ID) ON UPDATE CASCADE,
+                   FOREIGN KEY(Teacher) REFERENCES Teachers(Teacher_ID) ON UPDATE CASCADE)''')
 
     cursor.execute('''CREATE TABLE AbsenteesVerified
-                   (Absentee_V_ID INTEGER,
+                   (Absentee_V_ID INTEGER PRIMARY KEY AUTOINCREMENT,
                    Verification TEXT,
                    Start_Time SMALLDATETIME,
                    End_Time SMALLDATETIME,
                    Student INTEGER,
 
-                   PRIMARY KEY(Absentee_V_ID),
-                   FOREIGN KEY(Student) REFERENCES Students(Student_ID))''')
+                   FOREIGN KEY(Student) REFERENCES Students (Student_ID) ON UPDATE CASCADE)''')
 
     cursor.execute('''CREATE TABLE AbsenteesUnverified
-                   (Absentee_U_ID INTEGER,
+                   (Absentee_U_ID INTEGER PRIMARY KEY AUTOINCREMENT,
                    Student INTEGER,
                    Period INTEGER,
                    Date DATE,
 
-                   PRIMARY KEY(Absentee_U_ID),
-                   FOREIGN KEY (Student) REFERENCES Students(Student_ID),
-                   FOREIGN KEY (Period) REFERENCES StudentPeriods(S_Period_ID))''')
+                   FOREIGN KEY (Student) REFERENCES Students(Student_ID) ON UPDATE CASCADE,
+                   FOREIGN KEY (Period) REFERENCES StudentPeriods(S_Period_ID) ON UPDATE CASCADE)''')
 
     cursor.execute('''CREATE TABLE Assessments
-                   (Assessment_ID INTEGER,
+                   (Assessment_ID INTEGER PRIMARY KEY AUTOINCREMENT,
                    Out_Of INTEGER,
                    Weighting FLOAT,
                    Course VARCHAR(8),
 
-                   PRIMARY KEY(Assessment_ID),
-                   FOREIGN KEY(Course) REFERENCES Courses(Course_ID))''')
+                   FOREIGN KEY(Course) REFERENCES Courses(Course_ID) ON UPDATE CASCADE)''')
 
     cursor.execute('''CREATE TABLE Marks
-                    (Mark_ID INTEGER,
+                    (Mark_ID INTEGER PRIMARY KEY AUTOINCREMENT,
                     Student INTEGER,
                     Raw_Mark INTEGER,
                     Assessment INTEGER,
 
-                    PRIMARY KEY(Mark_ID),
-                    FOREIGN KEY(Student) REFERENCES Students(Student_ID),
-                    FOREIGN KEY(Assessment) REFERENCES Assessments(Assessment_ID))''')
+                    FOREIGN KEY(Student) REFERENCES Students(Student_ID) ON UPDATE CASCADE,
+                    FOREIGN KEY(Assessment) REFERENCES Assessments(Assessment_ID) ON UPDATE CASCADE)''')
 
     print('New tables created.')
 
 def insertSampleData(cursor):
     # Inserts some fake test data into the students, teachers and parents tables
-    
+
     cursor.execute('''INSERT INTO Students (Student_ID, Password) VALUES (1019912, "abc123")''')
     cursor.execute('''INSERT INTO Teachers (Teacher_ID, Password, Is_Admin) VALUES ("NIP", "abc123", 1)''')
     cursor.execute('''INSERT INTO Parents (Parent_ID, Password, Student) VALUES (1687, "abc123", 1019912)''')
@@ -163,7 +158,7 @@ if verif == 'y':
     insertSampleData(cursor)
     db.commit()
     db.close()
-    
+
     print('DB has been reset.')
 else:
     print('Reset aborted.')

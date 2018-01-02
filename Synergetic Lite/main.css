@@ -1,0 +1,153 @@
+* {
+    font-family: "Helvetica";
+}
+
+body {
+    padding: 0px 25px 25px 25px;
+    background-image: url('trans-digital.png')
+}
+
+header {
+    background-color: navy;
+    color: gold;
+    margin-top: -20px;
+    padding-top: 10px;
+    margin-left: -50px;
+    padding-left: 50px;
+    margin-right: -50px;
+    padding-bottom: 1px;
+}
+
+header h3 {
+    margin: none;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+.mainSection {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/*==LOGIN.html===*/
+
+.formContainer {
+    background-color: skyblue;
+    font-size: 20px;
+    padding: 15px;
+    display: inline-block;
+    border: 4px groove navy;
+    margin: 0 auto;
+}
+
+.formContainer input {
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 4px;
+}
+
+/*==ADMINHOMEAPGE.html==*/
+
+#studentsBTN, #teachersBTN, #classesBTN, #coursesBTN {
+    padding: 40px;
+    background-color: blue;
+    display: inline-block;
+    width: 35%;
+    margin: 20px;
+    text-align: center;
+    color: white;
+}
+
+#studentsBTN {
+    background-color: skyblue;
+}
+
+#teachersBTN {
+    background-color: dodgerblue;
+}
+
+#coursesBTN {
+    background-color: cornflowerblue;
+}
+
+#classesBTN {
+    background-color: deepskyblue;
+}
+
+table {
+    width: 100%;
+}
+
+/*==COURSESMANAGE.py==*/
+
+.button {
+    background-color: navy;
+    color: gold;
+    border-radius: 8px;
+    float: right;
+    display: inline-block;
+    padding: 10px;
+    margin-top: -60px;
+}
+
+.backButton {
+    background-color: navy;
+    color: gold;
+    border-radius: 8px;
+    display: inline-block;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+td {
+    border: 1px solid lightgray;
+    padding: 7px;
+}
+
+th {
+    background-color: navy;
+    color: white;
+    text-align: left;
+    padding: 7px;
+}
+
+
+th h3 {
+    margin: 0px;
+}
+
+.rowA {
+    background-color: skyblue;
+}
+
+.rowB {
+    background-color: lightblue;
+}
+
+#deleteForm input[type='text'] {
+    display: none;
+}
+
+#deleteForm {
+    display: inline;
+    width: auto;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#deleteForm input[type='submit'] {
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    background: none;
+    color: blue;
+    font-size: inherit;
+    display: inline;
+    width: auto;
+    
+}

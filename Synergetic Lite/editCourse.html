@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!---
+
+Synergetic Lite
+editCourse.html
+
+Allows the user to change the ID of a course.
+
+By Nick Patrikeos on 15DEC17
+
+--->
+<html>
+
+    <head>
+        <link rel='stylesheet' href='main.css' />
+        <title>Synergetic Lite</title>
+        <script src='script.js'></script>
+    </head>
+
+    <body onload='setupEditCoursePage()'>
+        <header>
+            <h3>Synergetic Lite</h3>
+        </header>
+
+        <h1>Edit Course</h1>
+        <hr>
+        <div class='mainSection'>
+            <div class='formContainer'>
+                <h3>Login</h3>
+                <form action='editCourse.py' name='changeCourseIDForm'>
+                    <input type='text' name='oldCourseID' style='display: none'/>
+                    <input type='text' name='newCourseID'/><br>
+                    <input type='submit' />
+                </form>
+            </div>
+        </div>
+        <a href="classesManage.py"><div class="backButton">Back</div></a>
+        <hr>
+        <footer>
+            Synergetic 1.0.0 <br>Created By Nick Patrikeos
+        </footer>
+    </body>
+</html>
