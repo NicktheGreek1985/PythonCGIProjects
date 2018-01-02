@@ -99,7 +99,8 @@ for cl in range(len(classes)):
     cursor.execute('SELECT Course FROM Classes WHERE Class_ID = :classID', {'classID':classes[cl][0]})
     r = cursor.fetchall()
 
-    classes[cl] += (r[0][0],'<a href="#">Manage</a>')
+    classes[cl] += (r[0][0],'<form action="manageCourse.py" id="deleteForm"><input type="text" name="courseID" value="' +
+    r[0][0] + '" /><input type="submit" value="Manage"/></form>')
 
 startHTML('Synergetic Lite', 'main')
 

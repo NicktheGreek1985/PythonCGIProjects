@@ -80,9 +80,18 @@ function setupAddEnrolmentPage() {
 
 function setupChangeTeacherPasswordPage() {
     // Sets up the change Teacher password page with the Teacher_ID
+    // Written 02JAN18
 
     currentTeacher = localStorage.getItem('currentTeacher')
     document.changePasswordForm.teacherID.value = currentTeacher
+}
+
+function setupAddAssessmentPage() {
+    // Sets up the page to add a new assessment
+    // Written 02JAN18
+
+    currentCourse = localStorage.getItem('currentCourse')
+    document.addAssessmentForm.courseID.value = currentCourse
 }
 
 function coursesRedirect(succeeded) {
@@ -172,6 +181,22 @@ function passwordRedirect(succeeded) {
         alert('New password did not match with verification.')
     }
     redirectToTeacherHomepage()
+}
+
+function assessmentsRedirect(succeeded, courseID) {
+    // Redirects a teacher to manageCourse.py after creating assessment
+    // Alerts the user if failed
+    // Written 02JAN18
+
+    if (succeeded == 0) {
+        alert("'Out Of' must be a number.")
+    } else if (succeeded == 1) {
+        alert("'Weighting' must be a number.")
+    } else if (succeeded == 2) {
+        alert("The weighting is too high (must add with others to be <= 100).")
+    }
+    console.log('@@@@@')
+    window.location.href = 'manageCourse.py?courseID=' + courseID
 }
 
 function redirectToTeacherHomepage() {

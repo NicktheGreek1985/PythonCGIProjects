@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<!---
+
+Synergetic Lite
+addAssessment.html
+
+Allows the user to add a new assessment for a particular course
+
+By Nick Patrikeos on 02JAN18
+
+--->
+<html>
+
+    <head>
+        <link rel='stylesheet' href='main.css' />
+        <title>Synergetic Lite</title>
+        <script src='script.js'></script>
+    </head>
+
+    <body onload="setupAddAssessmentPage()">
+        <header>
+            <h3>Synergetic Lite</h3>
+        </header>
+            <h1>New Assessment</h1>
+        <hr>
+
+        <div class='mainSection'>
+            <div class='formContainer'>
+                <form action='addAssessment.py' name="addAssessmentForm">
+                    <input type='text' name='courseID' style="display: none" placeholder='Course ID'/>
+                    <input type='text' name='assessmentName' placeholder="Assessment Name"/><br>
+                    <input type='text' name='outOf' placeholder="Out Of (Number)"/><br>
+                    <input type='text' name='weighting' placeholder="Weighting"/><br>
+                    <input type='submit' />
+                </form>
+            </div>
+        </div>
+
+        <hr>
+
+        <footer>
+            Synergetic 1.0.0 <br>Created By Nick Patrikeos
+        </footer>
+    </body>
+</html>
