@@ -63,9 +63,6 @@ if succeeded == 2:
     values['courseID'] = courseID
 
     if getCurrentAssessmentWeightingsSum(values) + weighting <= 100:
-        cursor.execute('INSERT INTO Assessments (Name, Out_Of, Weighting, Course) VALUES (?, ?, ?, ?)',
-        (assessmentName, outOf, weighting, courseID))
-
         cursor.execute('UPDATE Assessments SET Name = :name, Out_Of = :outOf, weighting = :weighting WHERE Assessment_ID = :assessmentID', values)
 
         print('<body onload="assessmentsRedirect(3, \'' + courseID + '\')"></body>')

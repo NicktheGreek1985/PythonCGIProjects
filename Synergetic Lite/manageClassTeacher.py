@@ -5,7 +5,7 @@ print('Content-type: text/html\n')
 
 Synergetic Lite
 
-ADMIN SIDE
+TEACHER SIDE
 
 manageClass.py
 
@@ -44,21 +44,20 @@ print('<p>Teacher</p>')
 print('<h3>' + records[0][1] + '</h3>')
 print('<p>Course</p>')
 print('<h3>' + records[0][2] + '</h3>')
-print('<a href="addEnrolment.html" onclick="setCurrentClass(\'' + records[0][0] + '\')"><div class="button">New Enrolment</div></a>')
 print('<hr>')
 
 fieldnames = ['ID','Actions']
 cursor.execute('SELECT Student FROM Enrolments WHERE Class = :classID', values)
 records = cursor.fetchall()
-
+'''
 for i in range(len(records)):
     if records[i][0] is not None:
         records[i] += ('<form action="deleteEnrolment.py" id="deleteForm"><input type="text" name="studentID" value="' +
                        str(records[i][0]) + '" /><input type="text" name="classID" value="' + classID + '" /><input type="submit" value="Remove"/></form>',)
-
+'''
 
 print_Records(records, fields=fieldnames)
-print('<a href="classesManage.py"><div class="backButton">Back</div></a>')
+print('<div class="backButton" onclick="redirectToTeacherHomepage()">Back</div>')
 print('</div>')
 
 print('<hr>')

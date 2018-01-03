@@ -52,12 +52,13 @@ print('<div class="mainSection">')
 for i in range(len(records)):
     if records[i][0] is not None:
 
-        records[i] = (records[i][1], records[i][2], records[i][3], '<form action="editAssessment.py" id="deleteForm"><input type="text" name="assessmentID" value="' +
-        str(records[i][0]) + '" /><input type="submit" value="Edit"/></form> <a href="#">Delete</a>',)
+        records[i] = (records[i][1], records[i][2], str(records[i][3]) + "%", '<form action="editAssessment.py" id="deleteForm"><input type="text" name="assessmentID" value="' +
+        str(records[i][0]) + '" /><input type="submit" value="Edit"/></form> <form action="deleteAssessment.py" id="deleteForm"><input type="text" name="assessmentID" value="' +
+        str(records[i][0]) + '" /><input type="submit" value="Delete"/></form>',)
 
 
 print_Records(records, fields=fieldnames)
-print('<a href="adminHomepage.html"><div class="backButton">Back</div></a>')
+print('<div class="backButton" onclick="redirectToTeacherHomepage()">Back</div>')
 print('</div>')
 
 print('<hr>')
