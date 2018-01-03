@@ -7,12 +7,11 @@ Synergetic Lite
 
 TEACHER SIDE
 
-manageClass.py
+manageClassTeacher.py
 
-Allows the user to view the details for a class as well as the students enrolled.
-Allows the user to add and remove students from the class.
+Allows teacher to view class details and students, and track student progress
 
-By Nick Patrikeos on 19DEC17
+By Nick Patrikeos on 03JAN18
 
 '''
 
@@ -31,6 +30,7 @@ cursor.execute('PRAGMA foreign_keys = ON')
 
 cursor.execute('SELECT * FROM Classes WHERE Class_ID = :classID',values)
 records = cursor.fetchall()
+classID = records[0][0]
 
 startHTML('Synergetic Lite', 'main')
 
@@ -38,25 +38,73 @@ print('<h1>Class Management</h1>')
 
 print('<hr>')
 print('<div class="mainSection">')
+print('<h2>Information</h2>')
 print('<p>Class ID</p>')
-print('<h3>' + records[0][0] + '</h3>')
+print('<h3>' + classID + '</h3>')
 print('<p>Teacher</p>')
 print('<h3>' + records[0][1] + '</h3>')
 print('<p>Course</p>')
 print('<h3>' + records[0][2] + '</h3>')
 print('<hr>')
+print('<h2>Students</h2>')
 
-fieldnames = ['ID','Actions']
+fieldnames = ['ID']
 cursor.execute('SELECT Student FROM Enrolments WHERE Class = :classID', values)
-records = cursor.fetchall()
-'''
-for i in range(len(records)):
-    if records[i][0] is not None:
-        records[i] += ('<form action="deleteEnrolment.py" id="deleteForm"><input type="text" name="studentID" value="' +
-                       str(records[i][0]) + '" /><input type="text" name="classID" value="' + classID + '" /><input type="submit" value="Remove"/></form>',)
-'''
+students = cursor.fetchall()
 
-print_Records(records, fields=fieldnames)
+print_Records(students, fields=fieldnames)
+
+print('<hr>')
+print('<h2>Student Performance</h2>')
+
+cursor.execute('SELECT Name, Assessment_ID, Out_Of FROM Assessments WHERE Course = :courseID', {'courseID':records[0][2]})
+assessments = cursor.fetchall()
+assessmentNames = ['Student'] + [i[0] for i in assessments ]
+
+
+records = list(students)
+assessmentsMarked = []
+
+for i in range(len(students)):
+    for j in assessments:
+
+        cursor.execute('SELECT Raw_Mark FROM Marks WHERE Assessment = :assessmentID AND Student = :studentID',
+                        {'assessmentID':str(j[1]), 'studentID':str(students[i][0])})
+
+        try:
+            mark = cursor.fetchall()[0][0]
+            print(mark)
+        except:
+            records[i] += ('Not Marked',)
+            assessmentsMarked.append(False)
+            continue
+
+        assessmentsMarked.append(True)
+        outOf = j[2]
+        print(outOf)
+        percentage = int(round(float(mark)/float(outOf) * 100, 0))
+
+        records[i] += (str(percentage) + "%",)
+
+
+finalRow = ('Actions',)
+
+x = 0
+for i in assessments:
+    if assessmentsMarked[x]:
+        finalRow += ('<a href="#">Edit</a>',)
+    else:
+        finalRow += ('''<form id="deleteForm" action="markAssessment.py">
+                    <input type="text" name="classID" value="''' + classID + '''" />
+                    <input type="text" name="assessmentID" value="''' + str(i[1]) + '''" />
+                    <input type="submit" value="Mark" /></form>''',)
+    x += 1
+records.append(finalRow)
+
+print_Records(records, fields=assessmentNames)
+
+# print('<div class="backButton">Mark Assessment</div>')
+print('<hr>')
 print('<div class="backButton" onclick="redirectToTeacherHomepage()">Back</div>')
 print('</div>')
 

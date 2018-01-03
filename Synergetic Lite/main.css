@@ -43,7 +43,7 @@ a {
     margin: 0 auto;
 }
 
-.formContainer input {
+.formContainer input, form input {
     font-size: 20px;
     border-radius: 5px;
     border: 1px solid black;
@@ -149,5 +149,5 @@ th h3 {
     font-size: inherit;
     display: inline;
     width: auto;
-    
+
 }

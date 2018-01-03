@@ -199,6 +199,10 @@ function assessmentsRedirect(succeeded, courseID) {
     window.location.href = 'manageCourse.py?courseID=' + courseID
 }
 
+function marksRedirect(classID) {
+    window.location.href = 'manageClassTeacher.py?classID=' + classID
+}
+
 function redirectToTeacherHomepage() {
     // Redirects a user from any place to their teacher Homepage
     // Written 02JAN18
