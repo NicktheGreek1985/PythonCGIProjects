@@ -54,8 +54,8 @@ if succeeded == 2:
                 'assessmentName':assessmentName }
 
     if getCurrentAssessmentWeightingsSum(values) + weighting <= 100:
-        cursor.execute('INSERT INTO Assessments (Name, Out_Of, Weighting, Course, Is_Marked) VALUES (?, ?, ?, ?, ?)',
-        (assessmentName, outOf, weighting, courseID, 0))
+        cursor.execute('INSERT INTO Assessments (Name, Out_Of, Weighting, Course) VALUES (?, ?, ?, ?)',
+        (assessmentName, outOf, weighting, courseID))
         print('<body onload="assessmentsRedirect(3, \'' + courseID + '\')"></body>')
     else:
         print('<body onload="assessmentsRedirect(2, \'' + courseID + '\')"></body>')

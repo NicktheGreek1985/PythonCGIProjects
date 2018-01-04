@@ -9,9 +9,9 @@ TEACHER SIDE
 
 markAssessment2.py
 
-Saves all marks to DB. If space is blank, sets mark to 0.
+Update all marks marks for class/assessment in DB. If space is blank, sets mark to 0.
 
-By Nick Patrikeos on 03JAN18
+By Nick Patrikeos on 04JAN18
 
 '''
 
@@ -42,7 +42,8 @@ for student in students:
     else:
         marks[str(student)] = mark
 
-    cursor.execute('INSERT INTO Marks (Student, Raw_Mark, Assessment) VALUES (?, ?, ?)', (student, mark, assessmentID))
+    cursor.execute('UPDATE Marks SET Raw_Mark = :rawMark WHERE Student = :studentID AND Assessment = :assessmentID',
+                    {'rawMark':mark, 'studentID':student, 'assessmentID':assessmentID})
 
 print('<script src="script.js"></script>')
 print('<body onload="marksRedirect(\'' + classID + '\')"></body>')
