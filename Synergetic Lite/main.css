@@ -140,7 +140,7 @@ th h3 {
     padding: 0px;
 }
 
-#deleteForm input[type='submit'] {
+#deleteForm input[type='submit'], #attendanceSubmit {
     border: 0px;
     margin: 0px;
     padding: 0px;

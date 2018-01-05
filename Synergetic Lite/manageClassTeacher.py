@@ -61,7 +61,8 @@ assessmentNames = ['Student'] + [i[0] for i in assessments ] + ['Average', 'Cour
 records = list(students)
 assessmentsMarked = []
 studentAverages = {}
-assessmentAverages = { i[0]:0 for i in assessments }
+assessmentAverages = { i[1]:0 for i in assessments }
+assessmentRanges = { i[1]:[100, 0] for i in assessments }
 numStudents = len(students)
 
 for i in range(numStudents):
@@ -87,7 +88,9 @@ for i in range(numStudents):
         weightingTotal += float(j[3])
 
         percentage = int(round(float(mark)/float(outOf) * 100, 0))
-        assessmentAverages[j[0]] += percentage
+        assessmentAverages[j[1]] += percentage
+        assessmentRanges[j[1]][0] = min(assessmentRanges[j[1]][0], percentage)
+        assessmentRanges[j[1]][1] = max(assessmentRanges[j[1]][1], percentage)
 
         records[i] += (str(percentage) + "%",)
 
@@ -107,15 +110,17 @@ for rank in range(len(studentAverages)):
     records[loc] += (str(rank + 1),)
 
 avgRow = ('Average',)
-
+rangeRow = ('Range',)
 finalRow = ('Actions',)
 
 x = 0
 for i in assessments:
-    #cursor.execute('SELECT AVG(Marks.Raw_Mark) FROM Marks WHERE ')
-    #topMark =
 
     if assessmentsMarked[x]:
+
+        avgRow += (str(assessmentAverages[i[1]]) + "%",)
+        rangeRow += (str(assessmentRanges[i[1]][1] - assessmentRanges[i[1]][0]) + "%",)
+
         finalRow += ('''<form id="deleteForm" action="editMarks.py">
                     <input type="text" name="classID" value="''' + classID + '''" />
                     <input type="text" name="assessmentID" value="''' + str(i[1]) + '''" />
@@ -128,10 +133,17 @@ for i in assessments:
                     <input type="text" name="classID" value="''' + classID + '''" />
                     <input type="text" name="assessmentID" value="''' + str(i[1]) + '''" />
                     <input type="submit" value="Mark" /></form>''',)
+        avgRow += ('Not Marked',)
+        rangeRow += ('Not Marked',)
     x += 1
 
+avgRow += ('','')
+rangeRow += ('','')
 finalRow += ('','')
+records.append(avgRow)
+records.append(rangeRow)
 records.append(finalRow)
+
 
 print_Records(records, fields=assessmentNames)
 

@@ -116,8 +116,7 @@ def resetDBTables(cursor):
                    Period INTEGER,
                    Date DATE,
 
-                   FOREIGN KEY (Student) REFERENCES Students(Student_ID) ON UPDATE CASCADE,
-                   FOREIGN KEY (Period) REFERENCES StudentPeriods(S_Period_ID) ON UPDATE CASCADE)''')
+                   FOREIGN KEY (Student) REFERENCES Students(Student_ID) ON UPDATE CASCADE)''')
 
     cursor.execute('''CREATE TABLE Assessments
                    (Assessment_ID INTEGER PRIMARY KEY AUTOINCREMENT,

@@ -34,12 +34,12 @@ def print_Timetable(t):
         cl = -1
         for i in t:
             if period == i[0]:
-                cl = i[1] + ' : ' + i[2]
+                cl = (i[1], i[2])
 
         if period in [28, 29,18]:
             timetable.append(('', 0))
         elif cl != -1:
-            timetable.append((cl,1))
+            timetable.append((cl,1,period))
         else:
             timetable.append(('', 2))
 
@@ -70,7 +70,10 @@ def print_Timetable(t):
             if timetable[col][1] == 0:
                 print('<td style="background-color: rgb(45, 136, 205)">' + str((col+1)%6 if (col+1)%6 != 0 else 6) +' '+ '' + '</td>')
             elif timetable[col][1] == 1:
-                print('<td>' + str((col+1)%6 if (col+1)%6 != 0 else 6) +' '+ timetable[col][0] + '</td>')
+                print('<td>' + str((col+1)%6 if (col+1)%6 != 0 else 6) +' <form action="markAttendance.py" id="deleteForm">'+
+                    '<input type="text" name="classID" value="' + timetable[col][0][0] + '" />' +
+                    '<input type="text" name="periodNum" value="' + str(timetable[col][2]) +'" /><input type="submit" value="' +
+                    timetable[col][0][0] + '" /></form> : ' + timetable[col][0][1] + '</td>')
             elif timetable[col][1] == 2:
                 print('<td>' + str((col+1)%6 if (col+1)%6 != 0 else 6) +' '+ timetable[col][0] + '</td>')
             else:

@@ -209,3 +209,10 @@ function redirectToTeacherHomepage() {
     currentTeacher = localStorage.getItem('currentTeacher')
     window.location.href = 'teacherHomepage.py?teacherID=' + currentTeacher
 }
+
+function alertWrongDay() {
+    // Tells the user they cannot mark attendance as it is the wrong day
+    // Written 05JAN18
+    alert('You cannot mark attendance for that period as it is not today.')
+    redirectToTeacherHomepage()
+}
