@@ -30,7 +30,7 @@ function redirectOnLogin(userType, username) {
 
         console.log('Logging in as parent.')
         localStorage.setItem('currentParent', username)
-        // window.location.href = blah
+        window.location.href = 'parentHomepage.py?parentID=' + username
 
     } else if (userType == 'admin') {
 
