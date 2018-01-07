@@ -43,7 +43,7 @@ a {
     margin: 0 auto;
 }
 
-.formContainer input, form input {
+.formContainer input, form input, textarea {
     font-size: 20px;
     border-radius: 5px;
     border: 1px solid black;
@@ -150,5 +150,13 @@ th h3 {
     font-size: inherit;
     display: inline;
     width: auto;
+}
 
+#deleteForm .backButton input[type="submit"] {
+    color: gold;
+}
+
+textarea {
+    width: 580px;
+    height: 80px;
 }

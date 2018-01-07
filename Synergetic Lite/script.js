@@ -210,6 +210,12 @@ function redirectToTeacherHomepage() {
     window.location.href = 'teacherHomepage.py?teacherID=' + currentTeacher
 }
 
+function redirectToParentHomepage() {
+    // Redirects a user from any place to their parent homepage
+    currentParent = localStorage.getItem('currentParent')
+    window.location.href = 'parentHomepage.py?parentID=' + currentParent
+}
+
 function alertWrongDay() {
     // Tells the user they cannot mark attendance as it is the wrong day
     // Written 05JAN18

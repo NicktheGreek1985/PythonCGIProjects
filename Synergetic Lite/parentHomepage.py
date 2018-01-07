@@ -98,12 +98,13 @@ now = datetime.datetime.now()
 twoWeeksAgo = now - datetime.timedelta(14)
 formattedDate = twoWeeksAgo.strftime('%Y-%m-%d')
 
-cursor.execute('SELECT Period, Date FROM AbsenteesUnverified WHERE Student = :studentID AND Date >= ' + formattedDate, values)
+cursor.execute('SELECT Period, Date, Absentee_U_ID FROM AbsenteesUnverified WHERE Student = :studentID AND NOT Is_Verified AND Date >= ' + formattedDate, values)
 fieldnames1 = ['Period', 'Date','Actions']
 absences = cursor.fetchall()
 
 for a in range(len(absences)):
-    absences[a] = (int(absences[a][0]) + 1, absences[a][1], '<a href="#">Verify</a>',)
+    absences[a] = (int(absences[a][0]) + 1, absences[a][1], '<form id="deleteForm" action="verifyAbsence.py"><input type="text" name="absenceID" value="' + str(absences[a][2]) +'"/>' +
+                    '<input type="submit" value="Verify" /></form>',)
 
 cursor.execute('SELECT Start_Time, End_Time, Verification FROM AbsenteesVerified WHERE Student = :studentID AND Start_Time >= ' + formattedDate, values)
 fieldnames3 = ['Start Time', 'End Time', 'Verification','Actions']
@@ -132,13 +133,13 @@ print('<hr>')
 print('<div class="mainSection">')
 print('<h3>Recent Absences - Unverified</h3>')
 print_Records(absences, fields=fieldnames1)
-print('<div class="backButton">All Unverified Absences</div>')
+print('<form id="deleteForm" action="viewUnverifiedAbsences.py"><input type="text" name="parentID" value="' + parentID +'" /><div class="backButton"><input type="submit" value="All Unverified Absences" /></div></form>')
 print('<hr>')
 
 print('<h3>Recent Absences - Verified</h3>')
 print_Records(verifiedAbsences, fields=fieldnames3)
 print('<div class="backButton">All Verified Absences</div>')
-print('<div class="backButton">Verify New Absence</div>')
+print('<form id="deleteForm" action="addVerifiedAbsence.py"><input type="text" name="studentID" value="' + str(studentID) +'" /><div class="backButton"><input type="submit" value="Verify New Absence" /></div></form>')
 print('<hr>')
 
 print('<h3>Classes</h3>')
