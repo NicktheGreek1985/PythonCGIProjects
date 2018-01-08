@@ -112,7 +112,8 @@ verifiedAbsences = cursor.fetchall()
 
 for a in range(len(verifiedAbsences)):
     verifiedAbsences[a] = (verifiedAbsences[a][0], verifiedAbsences[a][1], verifiedAbsences[a][2], '<form action="editAbsence.py" id="deleteForm"><input type="text" name="absenceID" value="' +
-    str(verifiedAbsences[a][3]) + '" /><input type="submit" value="Edit" /></form> <a href="#">Remove</a>',)
+    str(verifiedAbsences[a][3]) + '" /><input type="submit" value="Edit" /></form> <form action="removeAbsence.py" id="deleteForm"><input type="text" name="absenceID" value="' +
+    str(verifiedAbsences[a][3]) + '" /><input type="submit" value="Remove" /></form>',)
 
 cursor.execute('SELECT Period_Num, Class, Room FROM StudentPeriods WHERE Student = :studentID', values)
 periods = cursor.fetchall()
