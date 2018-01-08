@@ -140,7 +140,7 @@ print('<hr>')
 
 print('<h3>Recent Absences - Verified</h3>')
 print_Records(verifiedAbsences, fields=fieldnames3)
-print('<div class="backButton">All Verified Absences</div>')
+print('<form id="deleteForm" action="viewVerifiedAbsences.py"><input type="text" name="parentID" value="' + parentID +'" /><div class="backButton"><input type="submit" value="All Verified Absences" /></div></form>')
 print('<form id="deleteForm" action="addVerifiedAbsence.py"><input type="text" name="studentID" value="' + str(studentID) +'" /><div class="backButton"><input type="submit" value="Verify New Absence" /></div></form>')
 print('<hr>')
 
