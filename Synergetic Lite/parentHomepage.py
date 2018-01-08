@@ -106,12 +106,13 @@ for a in range(len(absences)):
     absences[a] = (int(absences[a][0]) + 1, absences[a][1], '<form id="deleteForm" action="verifyAbsence.py"><input type="text" name="absenceID" value="' + str(absences[a][2]) +'"/>' +
                     '<input type="submit" value="Verify" /></form>',)
 
-cursor.execute('SELECT Start_Time, End_Time, Verification FROM AbsenteesVerified WHERE Student = :studentID AND Start_Time >= ' + formattedDate, values)
+cursor.execute('SELECT Start_Time, End_Time, Verification, Absentee_V_ID FROM AbsenteesVerified WHERE Student = :studentID AND Start_Time >= ' + formattedDate, values)
 fieldnames3 = ['Start Time', 'End Time', 'Verification','Actions']
 verifiedAbsences = cursor.fetchall()
 
 for a in range(len(verifiedAbsences)):
-    verifiedAbsences[a] += ('<a href="#">Edit</a> <a href="#">Remove</a>',)
+    verifiedAbsences[a] = (verifiedAbsences[a][0], verifiedAbsences[a][1], verifiedAbsences[a][2], '<form action="editAbsence.py" id="deleteForm"><input type="text" name="absenceID" value="' +
+    str(verifiedAbsences[a][3]) + '" /><input type="submit" value="Edit" /></form> <a href="#">Remove</a>',)
 
 cursor.execute('SELECT Period_Num, Class, Room FROM StudentPeriods WHERE Student = :studentID', values)
 periods = cursor.fetchall()
